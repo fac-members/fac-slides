@@ -1,6 +1,5 @@
 ---
-layout: layouts/slides
-theme: fac
+title: Information Evening
 ---
 
 ![](https://facresources.com/assets/logos/fac_logo.png)
