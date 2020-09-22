@@ -18,6 +18,9 @@ html {
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 }
+.js-enabled .slides {
+  overflow-x: hidden;
+}
 
 .slides > section {
   scroll-snap-align: center;

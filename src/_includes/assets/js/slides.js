@@ -1,4 +1,6 @@
-const slides = document.querySelectorAll(".reveal section");
+document.body.classList.add("js-enabled");
+
+const slides = document.querySelectorAll(".slides section");
 //each slide needs an ID so we can link/scroll to it
 slides.forEach((s, i) => {
   s.id = i;
