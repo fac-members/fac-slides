@@ -9,20 +9,28 @@
 
     <title>{{title}} | FAC Slides</title>
 
-    {% set baseStyles %}
-      {% include "assets/css/slides.css" %}
-    {% endset %}
-    <style>
-      {{ baseStyles | cssmin | safe }}
-    </style>
-
-    {% if theme %}
-      {% set themeStyles %}
-        {% include "assets/css/themes/" + theme + ".css" %}
+    {% if config.env == "development" %}
+      <link href="assets/css/slides.css" rel="stylesheet">
+    {% else %}
+      {% set baseStyles %}
+        {% include "assets/css/slides.css" %}
       {% endset %}
       <style>
-        {{ themeStyles | cssmin | safe }}
+        {{ baseStyles | cssmin | safe }}
       </style>
+    {% endif %}
+
+    {% if theme %}
+      {% if config.env == "development" %}
+        <link href="assets/css/themes/{{theme}}.css" rel="stylesheet">
+      {% else %}
+        {% set themeStyles %}
+          {% include "assets/css/themes/" + theme + ".css" %}
+        {% endset %}
+        <style>
+          {{ themeStyles | cssmin | safe }}
+        </style>
+      {% endif %}
     {% endif %}
 
   </head>
@@ -42,8 +50,17 @@
       </button>
     </nav>
 
-    <progress max="100" value="0">
+    <progress max="100" value="0"></progress>
 
-    <script src="/assets/js/slides.js"></script>
+    {% if config.env == "development" %}
+      <script src="/assets/js/slides.js"></script>
+    {% else %}
+      {% set js %}
+        {% include "assets/js/slides.js" %}
+      {% endset %}
+      <script>
+        {{ js | jsmin | safe }}
+      </script>
+    {% endif %}
   </body>
 </html>

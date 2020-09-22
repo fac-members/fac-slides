@@ -4,8 +4,8 @@
   "description": "",
   "private": true,
   "scripts": {
-    "dev": "eleventy --serve",
-    "build": "eleventy"
+    "dev": "ELEVENTY_ENV=development eleventy --serve",
+    "build": "ELEVENTY_ENV=production eleventy"
   },
   "keywords": [],
   "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es)",
@@ -16,6 +16,7 @@
     "markdown-it": "^11.0.1",
     "markdown-it-decorate": "^1.2.2",
     "markdown-it-revealjs": "^1.0.0",
-    "markdown-it-title": "^3.0.0"
+    "markdown-it-title": "^3.0.0",
+    "terser": "^5.3.2"
   }
 }
