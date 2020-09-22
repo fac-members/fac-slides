@@ -12,11 +12,11 @@
   "license": "MIT",
   "devDependencies": {
     "@11ty/eleventy": "^0.11.0",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "clean-css": "^4.2.3",
     "markdown-it": "^11.0.1",
     "markdown-it-decorate": "^1.2.2",
     "markdown-it-revealjs": "^1.0.0",
-    "markdown-it-title": "^3.0.0",
     "terser": "^5.3.2"
   }
 }

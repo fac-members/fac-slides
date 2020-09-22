@@ -1,9 +1,9 @@
-const markdownIt = require("markdown-it");
-const markdownReveal = require("markdown-it-revealjs");
-const markdownItTitle = require("markdown-it-title");
-const markdownItDecorate = require("markdown-it-decorate");
 const CleanCSS = require("clean-css");
 const { minify } = require("terser");
+const markdownIt = require("markdown-it");
+const markdownReveal = require("markdown-it-revealjs");
+const markdownItDecorate = require("markdown-it-decorate");
+const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 
 module.exports = (config) => {
   if (process.env.ELEVENTY_ENV === "development") {
@@ -27,11 +27,11 @@ module.exports = (config) => {
   });
 
   md.use(markdownReveal);
-  md.use(markdownItTitle);
   md.use(markdownItDecorate);
 
   config.setLibrary("md", md);
 
+  config.addPlugin(syntaxHighlight);
   return {
     dir: {
       // configure Eleventy to look in src/ for everything
