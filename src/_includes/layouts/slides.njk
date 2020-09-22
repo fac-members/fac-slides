@@ -11,12 +11,14 @@
 
     {% if config.env == "development" %}
       <link href="/assets/css/slides.css" rel="stylesheet">
+      <link href="/assets/css/highlighting.css" rel="stylesheet">
       {% if theme %}
         <link href="/assets/css/themes/{{theme}}.css" rel="stylesheet">
       {% endif %}
     {% else %}
       {% set styles %}
         {% include "assets/css/slides.css" %}
+        {% include "assets/css/highlighting.css" %}
         {% if theme %}
           {% include "assets/css/themes/" + theme + ".css" %}
         {% endif %}
