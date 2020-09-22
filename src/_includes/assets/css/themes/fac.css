@@ -100,7 +100,8 @@ progress::-moz-progress-bar {
 }
 
 img {
+  min-width: 4rem;
   max-width: 10vw;
-  max-height: 10vw;
+  height: auto;
   margin: 0 auto;
 }
