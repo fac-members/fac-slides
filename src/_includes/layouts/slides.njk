@@ -10,28 +10,23 @@
     <title>{{title}} | FAC Slides</title>
 
     {% if config.env == "development" %}
-      <link href="assets/css/slides.css" rel="stylesheet">
+      <link href="/assets/css/slides.css" rel="stylesheet">
+      {% if theme %}
+        <link href="/assets/css/themes/{{theme}}.css" rel="stylesheet">
+      {% endif %}
     {% else %}
-      {% set baseStyles %}
+      {% set styles %}
         {% include "assets/css/slides.css" %}
+        {% if theme %}
+          {% include "assets/css/themes/" + theme + ".css" %}
+        {% endif %}
       {% endset %}
       <style>
-        {{ baseStyles | cssmin | safe }}
+        {{ styles | cssmin | safe }}
       </style>
     {% endif %}
 
-    {% if theme %}
-      {% if config.env == "development" %}
-        <link href="assets/css/themes/{{theme}}.css" rel="stylesheet">
-      {% else %}
-        {% set themeStyles %}
-          {% include "assets/css/themes/" + theme + ".css" %}
-        {% endset %}
-        <style>
-          {{ themeStyles | cssmin | safe }}
-        </style>
-      {% endif %}
-    {% endif %}
+    
 
   </head>
   <body>
