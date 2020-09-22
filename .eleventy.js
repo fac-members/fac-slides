@@ -6,7 +6,9 @@ const CleanCSS = require("clean-css");
 const { minify } = require("terser");
 
 module.exports = (config) => {
-  config.addPassthroughCopy("src/assets");
+  if (process.env.ELEVENTY_ENV === "development") {
+    config.addPassthroughCopy({ "src/_includes/assets": "assets" });
+  }
 
   config.addFilter("cssmin", (code) => new CleanCSS({}).minify(code).styles);
   config.addNunjucksAsyncFilter("jsmin", (code, cb) =>
