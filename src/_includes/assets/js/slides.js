@@ -4,22 +4,21 @@ slides.forEach((s, i) => {
   s.id = i;
 });
 
+// returns either the hash number or 0
+function getIndex() {
+  return window.location.hash ? +window.location.hash.replace("#", "") : 0;
+}
+
 // ensure there's always a hash
-window.location.hash = window.location.hash || "#0";
+window.location.hash = "#" + getIndex();
 
 const MAX = slides.length;
-
-const progress = document.querySelector("progress");
-progress.value = (1 / MAX) * 100;
 
 function moveTo(cb) {
   const currentIndex = +window.location.hash.replace("#", "");
   // cycle through all slides infinitely
   const newIndex = ((cb(currentIndex) % MAX) + MAX) % MAX;
   window.location.hash = "#" + newIndex;
-  progress.value = ((newIndex + 1) / MAX) * 100;
-  console.log("wat");
-  console.log(progress.value);
 }
 
 const back = () => moveTo((i) => i - 1);
@@ -46,4 +45,11 @@ window.onkeydown = (event) => {
     event.preventDefault();
     fn();
   }
+};
+
+const progress = document.querySelector("progress");
+
+// any side-effects that should happen when we move slides
+window.onhashchange = () => {
+  progress.value = ((getIndex() + 1) / MAX) * 100;
 };
