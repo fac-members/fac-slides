@@ -1,0 +1,21 @@
+{
+  "name": "fac-slides",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "keywords": [],
+  "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es)",
+  "license": "MIT",
+  "devDependencies": {
+    "@11ty/eleventy": "^0.11.0",
+    "clean-css": "^4.2.3",
+    "markdown-it": "^11.0.1",
+    "markdown-it-decorate": "^1.2.2",
+    "markdown-it-revealjs": "^1.0.0",
+    "markdown-it-title": "^3.0.0"
+  }
+}

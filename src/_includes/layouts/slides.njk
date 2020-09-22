@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
+    />
+
+    <title>{{title}} | FAC Slides</title>
+
+    {% set baseStyles %}
+      {% include "assets/css/slides.css" %}
+    {% endset %}
+    <style>
+      {{ baseStyles | cssmin | safe }}
+    </style>
+
+    {% if theme %}
+      {% set themeStyles %}
+        {% include "assets/css/themes/" + theme + ".css" %}
+      {% endset %}
+      <style>
+        {{ themeStyles | cssmin | safe }}
+      </style>
+    {% endif %}
+
+  </head>
+  <body>
+    {{content | safe}}
+
+    <nav>
+      <button id="prev" aria-label="previous slide">
+        <svg width="36" height="36" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
+        </svg>
+      </button>
+      <button id="next" aria-label="next slide">
+        <svg width="36" height="36" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
+        </svg>
+      </button>
+    </nav>
+
+    <progress max="100" value="0">
+
+    <script src="/assets/js/slides.js"></script>
+  </body>
+</html>

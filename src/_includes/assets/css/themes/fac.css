@@ -1,0 +1,106 @@
+@font-face {
+  font-family: "Eesti";
+  src: url("/assets/fonts/GT-Eesti-Text-Light-subset.woff2") format("woff2"),
+    url("/assets/fonts/GT-Eesti-Text-Light-subset.zopfli.woff") format("woff"),
+    url("/assets/fonts/GT-Eesti-Text-Light-subset.ttf") format("truetype");
+
+  font-weight: 400;
+  font-display: swap;
+}
+
+/* Bold weight font */
+@font-face {
+  font-family: "Eesti";
+  src: url("/assets/fonts/GT-Eesti-Text-Medium-subset.woff2") format("woff2"),
+    url("/assets/fonts/GT-Eesti-Text-Medium-subset.zopfli.woff") format("woff"),
+    url("/assets/fonts/GT-Eesti-Text-Medium-subset.ttf") format("truetype");
+  font-weight: 600;
+  font-display: swap;
+}
+
+/* Italic style regular weight font */
+@font-face {
+  font-family: "Eesti";
+  src: url("/assets/fonts/GT-Eesti-Text-Light-Italic-subset.woff2")
+      format("woff2"),
+    url("/assets/fonts/GT-Eesti-Text-Light-Italic-subset.zopfli.woff")
+      format("woff"),
+    url("/assets/fonts/GT-Eesti-Text-Light-Italic-subset.ttf")
+      format("truetype");
+  font-weight: 400;
+  font-style: italic;
+  font-display: swap;
+}
+
+html {
+  --black: #121212;
+  --darkGray: #333;
+  --gray: #878787;
+  --lightGray: hsl(0, 0%, 94%);
+  --white: #fff;
+  --nearWhite: hsl(0, 0%, 96%);
+  --green: #00be00;
+  --yellow: #ffe500;
+  --blue: #0805ec;
+  --red: #ff2800;
+
+  --primary: var(--yellow);
+  --secondary: var(--blue);
+  --tertiary: var(--green);
+  --quarternary: var(--red);
+  --muted: var(--lightGray);
+  --border: var(--gray);
+
+  font-family: "Eesti", var(--sans);
+}
+
+h1,
+h2 {
+  text-decoration: underline;
+  text-underline-offset: -0.2rem;
+  text-decoration-skip-ink: none;
+  text-decoration-color: var(--primary);
+  text-decoration-thickness: 0.35rem;
+}
+
+/* underline looks weird on coloured/image bg */
+.primary h1,
+.primary h2,
+.secondary h1,
+.secondary h2,
+.tertiary h1,
+.tertiary h2,
+.quarternary h1,
+.quarternary h2,
+.image h1,
+.image h2 {
+  text-decoration: none;
+}
+
+progress {
+  appearance: none;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 0.3rem;
+  border: 0;
+  background-color: var(--black);
+}
+
+progress::-webkit-progress-bar {
+  background-color: var(--black);
+}
+
+progress::-webkit-progress-value {
+  background-color: var(--primary);
+}
+
+progress::-moz-progress-bar {
+  background-color: var(--primary);
+}
+
+img {
+  max-width: 10vw;
+  max-height: 10vw;
+  margin: 0 auto;
+}
