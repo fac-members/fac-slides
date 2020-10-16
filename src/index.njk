@@ -6,8 +6,17 @@
       name="viewport"
       content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no"
     />
-
     <title>FAC Slides</title>
+    {% if config.env == "development" %}
+      <link href="/assets/css/themes/fac.css" rel="stylesheet">
+    {% else %}
+      {% set styles %}
+        {% include "assets/css/themes/fac.css" %}
+      {% endset %}
+      <style>
+        {{ styles | cssmin | safe }}
+      </style>
+    {% endif %}
 
   </head>
   <body>
