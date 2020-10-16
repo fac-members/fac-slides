@@ -86,16 +86,28 @@ html {
   gap: 0.5rem;
 }
 
-nav > a {
-  text-decoration: none;
-  color: inherit;
-  font: inherit;
-
+.button {
   width: 2rem;
   height: 2rem;
+  border-radius: 4px;
   display: grid;
   place-content: center;
   background-color: hsla(200, 0%, 100%, 0.25);
+  text-decoration: none;
+  color: inherit;
+  transition: background-color 0.2s;
+  backdrop-filter: blur(4px);
+  -webkit-backdrop-filter: blur(4px);
+}
+
+.button:hover {
+  background-color: hsla(200, 0%, 92%, 0.6);
+}
+
+a[download] {
+  position: fixed;
+  bottom: 1rem;
+  left: 1rem;
 }
 
 h1,
