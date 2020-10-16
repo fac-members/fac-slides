@@ -14,15 +14,13 @@ html {
   width: 100vw;
   height: 100vh;
   display: flex;
-  overflow-x: auto;
+  overflow-x: hidden;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 }
-.js-enabled .slides {
-  overflow-x: hidden;
-}
 
-.slides > section {
+.slide {
+  position: relative;
   scroll-snap-align: center;
   flex: 1 0 100%;
   display: grid;
@@ -32,8 +30,7 @@ html {
   padding: 2rem clamp(2rem, 2rem + 15vw, 40vw);
 }
 
-.slides > section.image {
-  position: relative;
+.slide.image {
   background: var(--bg);
   background-size: cover;
   background-position: center center;
@@ -41,7 +38,7 @@ html {
   text-shadow: 1px 1px 1px var(--black);
 }
 
-.slides > section.image::after {
+.slide.image::after {
   content: "";
   position: absolute;
   top: 0;
@@ -51,40 +48,44 @@ html {
   background-color: hsla(200, 10%, 50%, 0.3);
 }
 
-.slides > section.invert {
+.slide.invert {
   color: var(--white);
 }
 
-.slides > section.dark {
+.slide.dark {
   background-color: var(--black);
 }
 
-.slides > section.primary {
+.slide.primary {
   background-color: var(--primary);
 }
 
-.slides > section.secondary {
+.slide.secondary {
   background-color: var(--secondary);
 }
 
-.slides > section.tertiary {
+.slide.tertiary {
   background-color: var(--tertiary);
 }
 
-.slides > section.quarternary {
+.slide.quarternary {
   background-color: var(--quarternary);
 }
 
-nav {
+.slide nav {
   position: fixed;
   bottom: 1rem;
   right: 1rem;
+  display: none;
+}
+
+.slide:target nav {
   display: flex;
   gap: 0.5rem;
 }
 
-nav > button {
-  border: 0;
+nav > a {
+  text-decoration: none;
   color: inherit;
   font: inherit;
 

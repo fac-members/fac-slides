@@ -1,11 +1,3 @@
-document.body.classList.add("js-enabled");
-
-const slides = document.querySelectorAll(".slides section");
-//each slide needs an ID so we can link/scroll to it
-slides.forEach((s, i) => {
-  s.id = i;
-});
-
 // returns either the hash number or 0
 function getIndex() {
   return window.location.hash ? +window.location.hash.replace("#", "") : 0;
@@ -14,24 +6,19 @@ function getIndex() {
 // ensure there's always a hash
 window.location.hash = "#" + getIndex();
 
-const MAX = slides.length;
+const MAX = document.querySelectorAll(".slide").length;
 
-function moveTo(cb) {
-  const currentIndex = +window.location.hash.replace("#", "");
+function move(cb) {
+  const currentIndex = getIndex();
   // cycle through all slides infinitely
   const newIndex = ((cb(currentIndex) % MAX) + MAX) % MAX;
   window.location.hash = "#" + newIndex;
 }
 
-const back = () => moveTo((i) => i - 1);
-const forward = () => moveTo((i) => i + 1);
-const start = () => moveTo(() => 0);
-const finish = () => moveTo(() => MAX - 1);
-
-const prev = document.querySelector("#prev");
-const next = document.querySelector("#next");
-prev.onclick = back;
-next.onclick = forward;
+const back = () => move((i) => i - 1);
+const forward = () => move((i) => i + 1);
+const start = () => move(() => 0);
+const finish = () => move(() => MAX - 1);
 
 const KEYS = new Map([
   ["ArrowLeft", back],

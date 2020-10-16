@@ -1,9 +1,9 @@
 const CleanCSS = require("clean-css");
 const { minify } = require("terser");
 const markdownIt = require("markdown-it");
-const markdownReveal = require("markdown-it-revealjs");
 const markdownItDecorate = require("markdown-it-decorate");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
+const markdownSlides = require("./markdown-it-slides");
 
 module.exports = (config) => {
   if (process.env.ELEVENTY_ENV === "development") {
@@ -26,7 +26,7 @@ module.exports = (config) => {
     typographer: true, // smartquotes, other nicer symbols
   });
 
-  md.use(markdownReveal);
+  md.use(markdownSlides);
   md.use(markdownItDecorate);
 
   config.setLibrary("md", md);

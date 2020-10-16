@@ -32,20 +32,9 @@
 
   </head>
   <body>
-    {{content | safe}}
-
-    <nav>
-      <button id="prev" aria-label="previous slide">
-        <svg width="36" height="36" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7" />
-        </svg>
-      </button>
-      <button id="next" aria-label="next slide">
-        <svg width="36" height="36" fill="none" viewBox="0 0 24 24" stroke="currentColor">
-          <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
-        </svg>
-      </button>
-    </nav>
+    <div class="slides">
+      {{content | safe}}
+    </div>
 
     <progress max="100" value="0"></progress>
 
