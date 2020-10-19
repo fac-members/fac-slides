@@ -4,13 +4,14 @@ function slidify(md) {
     const count = dividers.length;
 
     dividers.forEach((token, index) => {
-      const prevSlide = index - 1 < 0 ? count - 1 : index - 1;
-      const nextSlide = index + 1;
+      const prev = index - 1 < 0 ? count - 1 : index - 1;
+      const next = index + 1;
+
       const replacement = new state.Token("html_block", "", 0);
       replacement.content = `
-  ${nav(prevSlide, nextSlide)}
+  ${nav(prev, next, index, count)}
 </section>
-<section id="${nextSlide}" class="slide">
+<section id="${next}" class="slide">
       `;
       const originalIndex = state.tokens.indexOf(token);
       state.tokens.splice(originalIndex, 1, replacement);
@@ -22,14 +23,14 @@ function slidify(md) {
 
     const close = new state.Token("html_block", "", 0);
     close.content = `
-  ${nav(count - 2, 0)}
+  ${nav(count - 2, 0, count, count)}
 </section>
     `;
     state.tokens.push(close);
   });
 }
 
-function nav(prev, next) {
+function nav(prev, next, index, total) {
   return `
   <nav>
     <a href="#${prev}" class="button" aria-label="Previous">
@@ -42,6 +43,7 @@ function nav(prev, next) {
         <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7" />
       </svg>
     </a>
+    <span class="count">${index + 1} / ${total + 1}</span>
   </nav>
   `;
 }
