@@ -38,11 +38,13 @@ function start() {
   };
 
   const progress = document.querySelector("progress");
+  const updateProgress = () =>
+    (progress.value = ((getIndex() + 1) / MAX) * 100);
+  // make sure it gets set on load
+  updateProgress();
 
   // any side-effects that should happen when we move slides
-  window.onhashchange = () => {
-    progress.value = ((getIndex() + 1) / MAX) * 100;
-  };
+  window.onhashchange = updateProgress;
 }
 
 start();
