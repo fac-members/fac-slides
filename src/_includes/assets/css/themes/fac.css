@@ -100,8 +100,8 @@ blockquote {
 blockquote::before {
   content: "“";
   position: absolute;
-  top: -1rem;
-  left: -1rem;
+  top: -1.5rem;
+  left: -1.5rem;
   font-size: 3rem;
   font-weight: 900;
   color: var(--darkGray);
