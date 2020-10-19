@@ -91,3 +91,18 @@ img {
   height: auto;
   margin: 0 auto;
 }
+
+blockquote {
+  position: relative;
+  font-style: italic;
+}
+
+blockquote::before {
+  content: "“";
+  position: absolute;
+  top: -1rem;
+  left: -1rem;
+  font-size: 3rem;
+  font-weight: 900;
+  color: var(--darkGray);
+}
