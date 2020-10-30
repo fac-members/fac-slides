@@ -56,7 +56,7 @@ HTML is a programming language that lets humans describe the structure and conte
 
 ### Cascading Style Sheets
 
-CSS is another programming languages invented so people could separately describe how their webpages should _look_.
+CSS is another programming language invented so people could separately describe how their webpages should _look_.
 
 ---
 
