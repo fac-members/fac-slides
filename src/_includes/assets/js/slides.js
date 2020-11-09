@@ -8,7 +8,6 @@ function start() {
   window.location.hash = "#" + getIndex();
 
   const MAX = document.querySelectorAll(".slide").length;
-
   function move(cb) {
     const currentIndex = getIndex();
     // cycle through all slides infinitely
@@ -21,12 +20,20 @@ function start() {
   const start = () => move(() => 0);
   const finish = () => move(() => MAX - 1);
 
+  const downloadLink = document.querySelector("a[download]");
+  const navs = document.querySelectorAll("nav");
+  const hideControls = () => {
+    downloadLink.hidden = !downloadLink.hidden;
+    navs.forEach((nav) => (nav.hidden = !nav.hidden));
+  };
+
   const KEYS = new Map([
     ["ArrowLeft", back],
     ["ArrowRight", forward],
     [" ", forward],
     ["Home", start],
     ["End", finish],
+    ["s", hideControls],
   ]);
 
   window.onkeydown = (event) => {
