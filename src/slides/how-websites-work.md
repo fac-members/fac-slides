@@ -6,7 +6,7 @@ title: How websites work
 
 ---
 
-The Web is has two fundamental parts:
+The Web has two fundamental parts:
 
 1. **HyperText**  
    A format for documents that can link to each other (i.e. `.html`)
