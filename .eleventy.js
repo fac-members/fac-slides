@@ -12,6 +12,10 @@ module.exports = (config) => {
   }
   config.addPassthroughCopy({ "src/_includes/fonts": "assets/fonts" });
 
+  // passthrough any images included in slides
+  //so they can be referenced as relative URLs
+  config.addPassthroughCopy("src/slides/**/*.{jpg,png,svg,gif}");
+
   config.addFilter("cssmin", (code) => new CleanCSS({}).minify(code).styles);
   config.addNunjucksAsyncFilter("jsmin", (code, cb) =>
     minify(code)
