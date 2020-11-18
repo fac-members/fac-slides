@@ -10,7 +10,7 @@ module.exports = (config) => {
   if (process.env.ELEVENTY_ENV === "development") {
     config.addPassthroughCopy({ "src/_includes/assets": "assets" });
   }
-  config.addPassthroughCopy({ "src/_includes/fonts": "assets/fonts" });
+  config.addPassthroughCopy({ "src/_includes/assets/fonts": "assets/fonts" });
 
   // passthrough any images included in slides
   //so they can be referenced as relative URLs
