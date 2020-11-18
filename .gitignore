@@ -116,3 +116,5 @@ dist
 .pnp.*
 
 _site/
+
+.DS_Store
