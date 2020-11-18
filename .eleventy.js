@@ -6,9 +6,11 @@ const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownSlides = require("./markdown-it-slides");
 
 module.exports = (config) => {
+  // in prod we inline CSS/JS into the HTML files
   if (process.env.ELEVENTY_ENV === "development") {
     config.addPassthroughCopy({ "src/_includes/assets": "assets" });
   }
+  config.addPassthroughCopy({ "src/_includes/fonts": "assets/fonts" });
 
   config.addFilter("cssmin", (code) => new CleanCSS({}).minify(code).styles);
   config.addNunjucksAsyncFilter("jsmin", (code, cb) =>
