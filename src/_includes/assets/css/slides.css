@@ -21,7 +21,7 @@ html {
   width: 100vw;
   height: 100vh;
   display: flex;
-  overflow-x: hidden;
+  overflow: hidden;
   scroll-behavior: smooth;
   scroll-snap-type: x mandatory;
 }
