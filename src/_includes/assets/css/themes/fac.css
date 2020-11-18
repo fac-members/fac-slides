@@ -113,3 +113,12 @@ blockquote::before {
   font-weight: 900;
   color: var(--darkGray);
 }
+
+.slide {
+  opacity: 0;
+  transition: opacity 0.5s 0.25s;
+}
+
+.slide:target {
+  opacity: 1;
+}
