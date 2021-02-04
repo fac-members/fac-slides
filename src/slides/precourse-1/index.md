@@ -76,7 +76,9 @@ Remember FAC prioritises collective learning over individual goals.
 
 ---
 
-Since you're going to be working together we want to highlight our expectations of your behaviour.
+You're going to be working together for the first time.
+
+Working effectively in a diverse group requires work.
 
 ---
 
@@ -84,24 +86,35 @@ Since you're going to be working together we want to highlight our expectations 
 
 ---
 
-If you're extroverted, loud, or opinionated, that's okay.
+If you're extroverted or loud that's okay.
 
-But be aware of how that might affect others.
+If you're introverted or quiet that's okay too.
 
-There's limited time and space, especially on Zoom.
+We want everyone to have a voice in our discussions.
+
+---
+
+The onus should not (only) be on quiet people to make themselves heard.
+
+There's limited time and space in groups, especially on Zoom.
 
 Don't use more than your fair share.
 
 ---
 
-### Recognise your privileges.
+Please read our Code of Conduct (again).
+
+foundersandcoders.com/code-of-conduct/
+
+Remember this is _the bare minimum_.
+
+It mostly defines unacceptable behaviour, and it's a low bar!
 
 ---
 
-[INSERT PRIVILEGE STUFF]
+> Prioritise marginalised people’s safety over privileged people’s comfort  
+> —paraphrased from afrotechfest.co.uk/coc
 
 ---
 
 ## Week 1 intro
-
----
