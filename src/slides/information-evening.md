@@ -2,15 +2,13 @@
 title: Information Evening
 ---
 
-![](https://facresources.com/assets/logos/fac_logo.png)
-
-# Founders And Coders
+# <img width="651" height="284" src="https://facresources.com/assets/logos/fac_logo.png" alt="Founders and Coders">
 
 ---
 
 <!-- {.secondary.invert} -->
 
-# Information Evening
+## Information Evening
 
 - 18:30 - Introduction
 - 18:50 - Q&A
@@ -20,65 +18,59 @@ title: Information Evening
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-# Our location
+## Our location
 
 ---
 
 <!-- {.image style="--bg: url('https://facresources.com/assets/photos/FAC18.jpg')"} -->
 
-## London
+### London
 
 ---
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-### Campuses we support with our open-source curriculum
+## Campuses we support
 
 ---
 
 <!-- {.image style="--bg: url('https://facresources.com/assets/photos/FACN3.png')"} -->
 
-## Nazareth (now Haifa)
+### Nazareth (now Haifa)
 
 ---
 
 <!-- {.image style="--bg: url('https://facresources.com/assets/photos/FACG3.png')"} -->
 
-## Gaza
+### Gaza
 
 ---
 
 <!-- {.image style="--bg: url('https://facresources.com/assets/photos/FACK1.jpg')"} -->
 
-## Al Khalil
+### Al Khalil
 
 ---
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-# Our values
+## Our values
 
 ---
 
-# Cooperative
+### Cooperative
 
 We expect you to prioritise collective learning over personal goals.
 
 ---
 
-# Inclusive
+### Inclusive
 
 We want the tech industry to be a place where people from all backgrounds can thrive.
 
 ---
 
-# Social Impact
+### Social Impact
 
 We provide digital solutions to non-profits through our Tech for Better programme.
 
@@ -86,13 +78,11 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-# Prerequisites
+## Prerequisites
 
 ---
 
-## You'll need to...
+### You'll need to...
 
 - Create a GitHub account
 - Be active in our online community
@@ -105,13 +95,11 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-# Course Overview
+## Course Overview
 
 ---
 
-## Spring 2021 dates
+### Spring 2021 dates
 
 - Application cycle: Ends January 3, 2021
 - Application window: December 27 - January 3
@@ -121,7 +109,7 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 ---
 
-## Times
+### Times
 
 - Monday - Friday
 - 09:45 - 18:00
@@ -129,7 +117,7 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 ---
 
-## What we ask of you as a student
+### What we ask of you
 
 - Complete the precourse material
 - Mentor the next cohort
@@ -140,9 +128,7 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 <!-- {.primary} -->
 
-![](https://facresources.com/assets/logos/logo-mobile.png)
-
-# Important changes this time
+## Important changes this time
 
 ---
 
@@ -178,6 +164,4 @@ Typical entry-level salaries are around £30,000. Our apprentice salaries are pr
 
 <!-- {.secondary.invert} -->
 
-![](https://facresources.com/assets/logos/fac_logo_white.png)
-
-# Questions?
+## Questions?
