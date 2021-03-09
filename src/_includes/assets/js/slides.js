@@ -21,10 +21,17 @@ function start() {
   const finish = () => move(() => MAX - 1);
 
   const downloadLink = document.querySelector("a[download]");
-  const navs = document.querySelectorAll("nav");
+  const nav = document.querySelector("nav");
+  const prev = document.querySelector("#prev");
+  const next = document.querySelector("#next");
+  const count = document.querySelector("#count");
+
+  prev.addEventListener("click", back);
+  next.addEventListener("click", forward);
+
   const hideControls = () => {
     downloadLink.hidden = !downloadLink.hidden;
-    navs.forEach((nav) => (nav.hidden = !nav.hidden));
+    nav.hidden = !nav.hidden;
   };
 
   const KEYS = new Map([
@@ -45,8 +52,11 @@ function start() {
   };
 
   const progress = document.querySelector("progress");
-  const updateProgress = () =>
-    (progress.value = ((getIndex() + 1) / MAX) * 100);
+  const updateProgress = () => {
+    const current = getIndex() + 1;
+    progress.value = (current / MAX) * 100;
+    count.textContent = `${current} / ${MAX}`;
+  };
   // make sure it gets set on load
   updateProgress();
 

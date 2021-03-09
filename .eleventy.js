@@ -4,6 +4,7 @@ const markdownIt = require("markdown-it");
 const markdownItDecorate = require("markdown-it-decorate");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownSlides = require("./markdown-it-slides");
+// const markdownSlides = require("./markdown-it-slides");
 
 module.exports = (config) => {
   // in prod we inline CSS/JS into the HTML files
