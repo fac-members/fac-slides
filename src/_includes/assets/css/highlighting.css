@@ -8,7 +8,7 @@ Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/b
 
 */
 code,
-pre[class*="language-"] {
+pre {
   font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
     "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
     "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
@@ -27,7 +27,7 @@ pre[class*="language-"] {
 }
 
 /* Code blocks */
-pre[class*="language-"] {
+pre {
   padding: 1em;
   margin: 0.5em 0;
   overflow: auto;
