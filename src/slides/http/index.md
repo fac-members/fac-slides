@@ -89,7 +89,7 @@ Messages are sent using ASCII text (A-z, 0-9, some punctuation)
 
 ### Without standardisation
 
-> Hey google.com I'd like to search for "cats" please
+> Hey google.com, Firefox here, I'd like to search for "cats" please. Oh and could I get that as HTML?
 
 Without clever AI this unstructured request is too complex.
 
