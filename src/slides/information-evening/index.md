@@ -78,6 +78,28 @@ We provide digital solutions to non-profits through our Tech for Better programm
 
 <!-- {.primary} -->
 
+## What kind of people are we looking for?
+
+---
+
+We prioritise a cohesive cohort of people who we think will work well together over any strong individual candidates.
+
+---
+
+Learning to code is just *part* of what makes you a good developer. 
+
+---
+
+The tech industry is disproportionately white, male and university-educated. 
+
+---
+
+Founders and Coders will always prioritise marginalised people’s safety over the comfort of the privileged. 
+
+---
+
+<!-- {.primary} -->
+
 ## Application requirements
 
 ---
