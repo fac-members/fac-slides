@@ -1,0 +1,80 @@
+@import url("https://fonts.googleapis.com/css2?family=Spectral:ital,wght@0,400;0,700;1,400;1,700&display=swap");
+
+html {
+  --black: #121212;
+  --darkGray: #333;
+  --gray: #878787;
+  --lightGray: hsl(0, 0%, 94%);
+  --white: #fff;
+  --nearWhite: hsl(0, 0%, 96%);
+  --green: #00be00;
+  --yellow: #ffe500;
+  --blue: #0805ec;
+  --red: #ff2800;
+
+  --primary: green;
+  --tertiary: var(--green);
+  --quarternary: var(--red);
+  --muted: var(--lightGray);
+  --border: var(--gray);
+
+  --bg-dark: var(--black);
+  --bg-light: hsl(30, 50%, 96%);
+
+  --text-dark: var(--black);
+  --text-light: var(--white);
+
+  font-family: "Spectral", Georgia, "Times New Roman", Times, serif;
+}
+
+:is(h2, h3, h4, h5, h6):not(:only-child) {
+  font-family: system-ui;
+  font-weight: 900;
+  font-size: 0.75rem;
+  text-transform: uppercase;
+  letter-spacing: 0.3px;
+  color: var(--primary);
+}
+
+a {
+  color: var(--primary);
+}
+
+img {
+  min-width: 4rem;
+  max-width: 90vw;
+  max-height: 90vh;
+  height: auto;
+  margin: 0 auto;
+}
+
+/* make regular screenshots look nice */
+img:not([width]),
+.image,
+video {
+  border: 0.5rem solid var(--primary);
+}
+
+blockquote:not([class]) {
+  position: relative;
+  font-style: italic;
+}
+
+blockquote:not([class])::before {
+  content: "“";
+  position: absolute;
+  top: -1.5rem;
+  left: -1.5rem;
+  font-size: 4rem;
+  font-weight: 900;
+  opacity: 0.5;
+}
+
+/* .slide {
+  opacity: 0;
+  transition: opacity 0.5s 0.25s;
+}
+
+.slide:target {
+  opacity: 1;
+} */
