@@ -17,7 +17,7 @@ module.exports = (config) => {
 
   // passthrough any images included in slides
   //so they can be referenced as relative URLs
-  config.addPassthroughCopy("src/slides/**/*.{jpg,png,svg,gif}");
+  config.addPassthroughCopy("src/slides/**/*.{jpg,png,svg,gif,mp4}");
 
   config.addFilter("cssmin", (code) => new CleanCSS({}).minify(code).styles);
   config.addNunjucksAsyncFilter("jsmin", (code, cb) =>
