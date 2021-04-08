@@ -279,24 +279,7 @@ Here are some important practical differences
 
 The DOM doesn't exist until a browser receives an HTML response and constructs it.
 
-This means the `document` object is undefined.
-
----
-
-On the server HTML is just a big string.
-
-This means you can use template literals to create dynamic responses:
-
-```js
-const response = `
-<!doctype html>
-<html>
-  <body>
-    <h1>Hello ${name}</h1>
-  </body>
-</html>
-`;
-```
+This means the `window` and `document` objects are undefined.
 
 ---
 
@@ -337,21 +320,6 @@ There is no way for one user to see another user's data.
 You (usually) have one server for _all_ users.
 
 This means you can share variables between requests.
-
----
-
-```js
-let count = 0;
-
-function handleRequest() {
-  count += 1;
-  return `<h1>The count is ${count}</h1>`;
-}
-```
-
-Each user will see a higher number than before.
-
-It will only reset to `0` when the whole server program restarts.
 
 ---
 
