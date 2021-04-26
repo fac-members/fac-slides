@@ -129,7 +129,7 @@ The `Same-Site` option prevents cookies from being sent on requests from other d
 This is important to avoid other sites impersonating your users (CSRF attacks).
 
 ```
-set-cookie: test=123; Max-Age=60; HttpOnly; Same-Site=Strict
+set-cookie: test=123; Max-Age=60; HttpOnly; Same-Site=Lax
 ```
 
 ---
@@ -139,7 +139,7 @@ The `Secure` option stops the cookie being set on un-encrypted connections.
 This is important to stop hackers intercepting requests and stealing cookies (MITM attacks).
 
 ```
-set-cookie: test=123; Max-Age=60; HttpOnly; Secure; Same-Site=Strict
+set-cookie: test=123; Max-Age=60; HttpOnly; Secure; Same-Site=Lax
 ```
 
 ---
