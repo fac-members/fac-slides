@@ -19,7 +19,7 @@ title: Information Evening
 
 ---
 
-### There has been some signifcant changes to our programme
+### There have been some significant changes to our programme
 
 --- 
 <!-- {.primary} -->
