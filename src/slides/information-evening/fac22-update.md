@@ -86,7 +86,7 @@ title: Information Evening
 
 ### The main difference 
 
-Being an apprentice entails considerably less financial risk than looking for work after completing a training
+Being an apprentice is less financially risky than looking for work _after_ completing training
 
 ---  
 
