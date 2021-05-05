@@ -99,7 +99,7 @@ Being an apprentice is less financially risky than looking for work _after_ comp
 ### Income differences
 
 - Apprentices start on £24,000, paid from start of training (September)
-- Graduate developers on average £28-35,000, but need to consider job search time
+- Graduate developers start on about £28-35,000, but need to consider job search time
 - This means apprentices will generally earn more in their first year
 
 ---
