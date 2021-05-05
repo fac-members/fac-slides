@@ -60,11 +60,11 @@ title: Information Evening
 
 --- 
 
-- Application deadline: 23:59 on May 27
-- Invitation for interview: by 18:00 on May 31 
-- Interviews: June 3, 4, 5
-- Outcomes: latest June 9
-- Pre-apprenticeship: Week of June 14
+- **Application deadline** 23:59 on May 27
+- **Invitation for interview** by 18:00 on May 31 
+- **Interviews** June 3, 4, 5
+- **Outcomes** latest June 9
+- **Pre-apprenticeship** week of June 14
 
 ---
 <!-- {.primary} -->
@@ -86,22 +86,19 @@ title: Information Evening
 
 ### The main difference 
 
-Being an apprentice is less financially risky than looking for work _after_ completing training
+- Being an apprentice is less financially risky than looking for work _after_ completing training
 
 ---  
 
 ### The similarities 
-- An employer looks for the same qualities and have broadly similar expectations of both
+- An employer looks for the same qualities and has broadly similar expectations of both
 - Salaries after the end of the apprenticeship (typically 15 months) are likely to be similar
 
 ---  
 
 ### Income differences
 
-- Apprentices start on £24,000, paid from start of training (September)
-- Graduate developers start on about £28-35,000, but need to consider job search time
-- This means apprentices will generally earn more in their first year
-
+- An apprentice earns £24,000 in their first year, at the same time that a non-apprentice graduate of our training is likely to earn between £10,000 and £20,000.
 ---
 
 ### Contract differences
