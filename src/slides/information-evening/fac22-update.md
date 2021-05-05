@@ -62,7 +62,7 @@ title: Information Evening
 
 - Application deadline: 23:59 on May 26
 - Invitation for interview: by 18:00 on May 31 
-- Interviews: June 3,4,5
+- Interviews: June 3, 4, 5
 - Outcomes: latest June 9
 - Pre-apprenticeship: Week of June 14
 
