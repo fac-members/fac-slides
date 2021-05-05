@@ -48,7 +48,7 @@ title: Information Evening
 ---
 
 ### The full-time programme is now 12 weeks long
-- FAC22 will ends on December 17
+- FAC22 ends on December 17
 
 --- 
 <!-- {.primary} -->
