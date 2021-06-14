@@ -19,8 +19,11 @@ And congratulations!
 ### Agenda
 
 1. Plan for the next 12 weeks
-1. Talk about our values and expectations of you
-1. Introduce this week's learning and homework
+1. Write a personal user manual
+1. Installation
+1. Pair programming workshop
+1. Daily learning and working outside of this programme
+1. For next time
 
 ---
 
@@ -30,18 +33,47 @@ And congratulations!
 
 ### Schedule
 
-- This week: Introductions
-- Next week: No workshops, lots of homework!
-- Then: Two workshops each week, on Wednesdays and Thursdays from 17:00 - 20:00
+- **This week:** Introductions
+- **Next week:** No workshops
+- **Following weeks**: Two workshops each week
+
+Workshops on Wednesdays and Thursdays from 17:00 - 20:00.
+We encourage 10+ hours of self-study outside this programme.
 
 ---
 
 ### Weekly schedule
 
-- Wednesday: Curriculum days
-- Thursday: Employment preparation
-- In your own time: complete projects, build websites
-- Maintain a record of your learnings on GitHub
+- **Wednesday:** Curriculum
+- **Thursday:** Employment preparation
+- **In your own time:** Study and build websites
+- **Throughout:** Maintain a record of your learnings on GitHub
+
+---
+
+## Wednesdays
+
+---
+
+Wednesdays will focus on bridging the gap between the JavaScript you've learnt while working on your applications and what you'll need to start the course.
+
+---
+
+You are responsible for taking charge of your own learning outside the programme. We'll give you a project to work on each week and some resources to help you.
+
+You're welcome to pair up with each other outside our workshops. As always, be mindful to be inclusive.
+
+---
+
+## Thursdays
+
+---
+
+Focused on preparation for interviews with apprenticeship providers. You'll meet employers, follow our employment curriculum, and work together to practice technical interviews.
+
+---
+
+We'll talk more about Thursdays tomorrow!
 
 ---
 
@@ -53,13 +85,17 @@ You all have different levels of experience in different areas.
 
 The pre-apprenticeship is designed to ensure everyone starts the course with the coding fundamentals they need.
 
-You will also practice for technical interviews and work on your employment profiles.
+You'll be applying for apprenticeships in <12 weeks.
+
+We'll support you to practice for technical interviews and work on your employment profiles.
 
 ---
 
 Some of you have more free time than others.
 
-Please don't use this to try and get ahead.
+Share your learnings.
+
+Please don't use this to try and get ahead on the course.
 
 ---
 
@@ -112,36 +148,6 @@ It mostly defines unacceptable behaviour, and it's a low bar!
 
 ---
 
-## Wednesdays
-
----
-
-Wednesdays will focus on bridging the gap between the JavaScript you've learnt while working on your applications and what you'll need to start the course.
-
----
-
-The weeks will alternate between workshop weeks and discussion weeks. There will be some pair programming every week.
-
----
-
-You are responsible for taking charge of your own learning outside the programme. We'll give you a project to work on each week and some resources to help you.
-
-You're welcome to pair up with each other outside our workshops. As always, be mindful to be inclusive.
-
----
-
-## Thursdays
-
----
-
-Focused on preparation for interviews with apprenticeship providers. You'll meet employers, follow our employment curriculum, and work together to practice technical interviews.
-
----
-
-We'll talk more about Thursdays tomorrow!
-
----
-
 ## Zoom etiquette
 
 ---
@@ -162,11 +168,17 @@ Be aware of the space you're taking up on Zoom, only one person can speak at onc
 
 ---
 
-When working together, it's useful to know about others' work styles and how we can accomodate one another.
+It's great to have a space to reflect on ourselves, and how we work in a team.
+
+We can also learn about our team-mates before working together, so we know how to get the best out of each other and work well as a team.
 
 ---
 
 Let us know how to say your name and what you'd prefer to be called. If you're happy to share them, include your pronouns too.
+
+---
+
+https://namedrop.io/gregorthomson
 
 ---
 
@@ -197,7 +209,15 @@ Head over to the FAC22 GitHub organisation to get started.
 
 ---
 
-...
+Allows us to navigate through our file system, install software, use git, and manage databases.
+
+---
+
+Most of us will be familiar with using a Graphical User Interface (GUI), like Finder or Explorer.
+
+---
+
+We'll use the terminal for installing everything we need for the course.
 
 ---
 
@@ -205,15 +225,107 @@ Head over to the FAC22 GitHub organisation to get started.
 
 ---
 
-Work together to get things installed, ask us for help
+The first thing to install, if you're on Windows, is the [Windows Subsystem for Linux (WSL)](https://wiki.ubuntu.com/WSL).
 
 ---
 
-## git / GitHub
+Once you've installed this, work through the [installation guide](https://learn.foundersandcoders.com/course/handbook/installation/) in small groups.
 
 ---
 
-Clone a learnings repo, add your weekly websites
+We're around to help, so let us know if you need us!
+
+You might need to restart your computer, we'll keep an eye out for when you rejoin Zoom.
+
+---
+
+## git
+
+---
+
+git is a program for saving the history of changes you make to your files.
+
+---
+
+Saves "snapshots" of your project with descriptive messages.
+
+---
+
+![Screenshot of my terminal, showing a history of all the recent changes to the FAC coursebook](../intro-to-git/git-history.png)
+
+---
+
+Without this its impossible to go back to an old version of a file.
+
+---
+
+Professional code is "version controlled" with git, as are all of your projects on FAC.
+
+---
+
+## GitHub
+
+---
+
+GitHub is a website for backing up and sharing your files.
+
+---
+
+Sync your project from your computer to their website using git.
+
+A bit like Dropbox for your code.
+
+---
+
+![Screenshot of FAC's Coursebook on GitHub, showing all the files that make up the curriculum](../intro-to-git/github-example.png)
+
+---
+
+GitHub is _not_ the same as git (despite the name).
+
+There are other similar sites like Gitlab and Bitbucket.
+
+---
+
+## Using git
+
+---
+
+There are a few ways to use git:
+
+1. git command-line program in your terminal
+1. Your editor's git integration
+1. GitHub's desktop app
+
+---
+
+### Terminology
+
+- _repository_ (_repo_)  
+  a folder whose changes are tracked by git
+- _remote_  
+  a copy of your repo in the cloud (e.g. on GitHub)
+
+---
+
+### Tracking changes
+
+1. Edit your files
+1. "Stage" the changes you want to keep
+1. "Commit" those changes with a description
+
+---
+
+### Syncing to remote
+
+1. Create new repo on GitHub
+1. Give GitHub repo URL to local git
+1. "Push" your local changes to the remote
+1. "Pull" remote changes to your computer
+
+---
+
+Throughout the pre-apprenticeship, you'll each maintain a repository on your profile with your learnings from each week.
 
 ---
 
@@ -221,8 +333,72 @@ Clone a learnings repo, add your weekly websites
 
 ---
 
-Workshop
+In pairs, work through the [pair programming workshop](https://learn.foundersandcoders.com/course/handbook/pair-programming/).
 
 ---
 
-## Homework
+## Daily learning
+
+---
+
+We believe it's important to build a habit of learning
+
+---
+
+The best way to do this is with structured, focused sessions every (working) day
+
+---
+
+### Active problem-solving
+
+Warm up by writing some code before you start the day
+
+(i.e. CodeWars or Execute Program)
+
+---
+
+### Passive learning
+
+Finish the day by reading an interesting article.
+
+Try to take notes as you go to reinforce the learning.
+
+(Dan likes [Anki](https://apps.ankiweb.net/) for turning notes into flashcards)
+
+---
+
+## Execute Program
+
+---
+
+Execute Program is a great place to practice code
+
+![Execute Program's homepage](../precourse-3/execute-program-1.png)
+
+---
+
+Interactive courses that force you to cement fundamentals
+
+![Execute Program's modern JS course](../precourse-3/execute-program-2.png)
+
+---
+
+Limited number of lessons per day so you can't burn out
+
+---
+
+### Order
+
+1. From today: Modern JavaScript and Arrays
+1. From Week 3: Concurrency
+1. From Week 5: SQL Regular Expressions
+
+---
+
+## What to work on
+
+- Execute Program: Modern JavaScript and Arrays
+- Cultivate a daily habit
+- Work through [Command Line Primer](https://www.digitalocean.com/community/tutorials/a-linux-command-line-primer)
+- Learn about [Semantic HTML](https://learn.foundersandcoders.com/workshops/semantic-html/)
+- Create a repository to track your learnings and the websites you're building
