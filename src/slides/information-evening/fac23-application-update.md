@@ -8,7 +8,7 @@ title: Information Evening
 
 <!-- {.secondary.invert} -->
 
-## Winter cohort 2022
+## January cohort 2022
 
 - 17:00 - Updates
 - 17:45 - Q&A
@@ -16,11 +16,11 @@ title: Information Evening
 
 ---
 
-### Things we'll cover tonight 
+### Things we'll cover tonight
 
 - The ladder of learning
 - Application changes
-- Programme changes 
+- Programme changes
 
 ---
 
@@ -28,7 +28,7 @@ title: Information Evening
 
 ## The ladder of learning
 
---- 
+---
 
 ### Expectation vs Reality
 
@@ -40,7 +40,7 @@ title: Information Evening
 
 ---
 
-### There are now "application cycles" 
+### There are now "application cycles"
 
 ---
 
@@ -53,7 +53,7 @@ title: Information Evening
 ### Application stages
 
 - Pre-application stage (where we are now)
-- Application stage 
+- Application stage
 - Applying stage
 - Interview stage
 
@@ -72,21 +72,21 @@ title: Information Evening
 - Receive an invite to Discord
 - Work through the rest of the course requirements with the community
 - Attend pairing evenings and workshops
-- Learn how to study on your own and with others 
+- Learn how to study on your own and with others
 
 ---
 
 ### Applying stage
 
 - Closed applications
-- Only people who are on Discord will receive application link 
+- Only people who are on Discord will receive application link
 
 ---
 
 ### Interview stage
 
-- We usually interview 24-32 people per cycle 
-- Conversational and technical interview 
+- We usually interview 24-32 people per cycle
+- Conversational and technical interview
 
 ---
 
@@ -103,35 +103,35 @@ title: Information Evening
 
 ---
 
-### Interviews with employers before the course begins 
+### Interviews with employers before the course begins
 
 - Held during the pre-apprenticeship
-- For winter 2022 cohort interviews are in November/December
+- For January 2022 cohort interviews are in November/December
 
---- 
+---
 
-### Longer pre-apprenticeship programme  
+### Longer pre-apprenticeship programme
 
-- 12-weeks, part-time commitment 
+- 12-weeks, part-time commitment
 - Includes employment and interview preparation
-- 15+ hour commitment each week 
+- 15+ hour commitment each week
 
 ---
 
 ### Apprentices will be paid starting Week 1 of the full-time programme
 
---- 
+---
 
 <!-- {.primary} -->
 
-## Winter 2022 application dates
+## January 2022 application dates
 
---- 
+---
 
 - **Submit Tribute Pages** — now to July 16
 - **Last day to join Discord** July 19
 - **Submitting application between** August 23-27
-- **Interviews** September 1-3 
+- **Interviews** September 1-3
 - **Outcomes** September 6
 - **Apprenticeship** January 10
 
@@ -139,22 +139,22 @@ title: Information Evening
 
 <!-- {.primary} -->
 
-## Apprentices vs. non-apprentices 
+## Apprentices vs. non-apprentices
 
----  
+---
 
-### The main difference 
+### The main difference
 
 - Being an apprentice is less financially risky than looking for work _after_ completing training
 
----  
+---
 
-### The similarities 
+### The similarities
 
 - An employer looks for the same qualities and has broadly similar expectations of both
 - Salaries after the end of the apprenticeship (typically 12-15 months) are likely to be similar
 
----  
+---
 
 ### Income differences
 
@@ -168,7 +168,7 @@ title: Information Evening
 ### Contract differences
 
 - The contract ends when the apprenticeship ends
-- After which a new contract (at a significantly higher salary) can be signed 
+- After which a new contract (at a significantly higher salary) can be signed
 
 ---
 
