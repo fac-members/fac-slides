@@ -18,9 +18,56 @@ title: Information Evening
 
 ### Things we'll cover tonight
 
+- Our values
 - The ladder of learning
 - Application changes
 - Programme changes
+
+---
+
+<!-- {.primary} -->
+
+## Our values
+
+---
+
+### Cooperative
+
+We expect you to prioritise collective learning over personal goals.
+
+---
+
+### Inclusive
+
+We want the tech industry to be a place where people from all backgrounds can thrive.
+
+---
+
+### Social Impact
+
+We provide digital solutions to non-profits through our Tech for Better programme.
+
+---
+
+<!-- {.primary} -->
+
+## What kind of people are we looking for?
+
+---
+
+We prioritise a cohesive cohort of people who we think will work well together over any strong individual candidates.
+
+---
+
+Learning to code is just _part_ of what makes you a good developer.
+
+---
+
+The tech industry is disproportionately white, male and university-educated.
+
+---
+
+Founders and Coders will always prioritise marginalised people’s safety over the comfort of the privileged.
 
 ---
 
