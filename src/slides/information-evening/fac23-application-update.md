@@ -167,7 +167,7 @@ title: Information Evening
 
 ### Contract differences
 
-- The contract ends when the apprenticeship ends (12-18 months from September)
+- The contract ends when the apprenticeship ends
 - After which a new contract (at a significantly higher salary) can be signed 
 
 ---
