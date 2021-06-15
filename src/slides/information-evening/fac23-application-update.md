@@ -158,7 +158,11 @@ title: Information Evening
 
 ### Income differences
 
-- An apprentice earns £24,000 in their first year, at the same time that a non-apprentice graduate of our training is likely to earn between £10,000 and £20,000.
+- An apprentice earns £24,000 in their first year  
+  (since you start earning from Week 1)
+- In the same time period a non-apprentice graduate is likely to earn between £10,000 and £20,000  
+  (since you won't start earning until well after you graduate)
+
 ---
 
 ### Contract differences
