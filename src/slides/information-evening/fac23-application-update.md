@@ -106,7 +106,7 @@ title: Information Evening
 ### Interviews with employers before the course begins 
 
 - Held during the pre-apprenticeship
-- For winter 2022 cohort, interviews are in October/November
+- For winter 2022 cohort interviews are in November/December
 
 --- 
 
@@ -133,8 +133,7 @@ title: Information Evening
 - **Submitting application between** August 23-27
 - **Interviews** September 1-3 
 - **Outcomes** September 6
-- **Pre-apprenticeship** Sept 27 - Dec 17
-- **Apprenticeship** TBD, Jan 3 or Jan 10 
+- **Apprenticeship** January 10
 
 ---
 
@@ -153,7 +152,7 @@ title: Information Evening
 ### The similarities 
 
 - An employer looks for the same qualities and has broadly similar expectations of both
-- Salaries after the end of the apprenticeship (typically 15 months) are likely to be similar
+- Salaries after the end of the apprenticeship (typically 12-15 months) are likely to be similar
 
 ---  
 
@@ -164,7 +163,7 @@ title: Information Evening
 
 ### Contract differences
 
-- The contract ends when the apprenticeship ends (18 months from September)  
+- The contract ends when the apprenticeship ends (12-18 months from September)
 - After which a new contract (at a significantly higher salary) can be signed 
 
 ---
