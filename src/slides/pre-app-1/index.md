@@ -55,11 +55,11 @@ We encourage 10+ hours of self-study outside this programme.
 
 ---
 
-Wednesdays will focus on bridging the gap between the JavaScript you've learnt while working on your applications and what you'll need to start the course.
+Bridging the gap between your application learnings and what you'll need on the course.
 
 ---
 
-You are responsible for taking charge of your own learning outside the programme. We'll give you a project to work on each week and some resources to help you.
+You're responsible for your own learning outside these sessions. We'll give you a project and some helpful resources each week.
 
 You're welcome to pair up with each other outside our workshops. As always, be mindful to be inclusive.
 
@@ -69,7 +69,7 @@ You're welcome to pair up with each other outside our workshops. As always, be m
 
 ---
 
-Focused on preparation for interviews with apprenticeship providers. You'll meet employers, follow our employment curriculum, and work together to practice technical interviews.
+Preparing for interviews with apprenticeship providers. You'll meet employers, follow our employment curriculum, and practice technical interviews together.
 
 ---
 
@@ -391,7 +391,7 @@ Limited number of lessons per day so you can't burn out
 
 1. From today: Modern JavaScript and Arrays
 1. From Week 3: Concurrency
-1. From Week 5: SQL Regular Expressions
+1. From Week 5: SQL and Regular Expressions
 
 ---
 
