@@ -9,6 +9,7 @@ title: Information Evening
 <!-- {.secondary.invert} -->
 
 ## Winter cohort 2022
+
 - 17:00 - Updates
 - 17:45 - Q&A
 - 18:30 - End
@@ -46,9 +47,11 @@ title: Information Evening
 ### We only want a dedicated group of engaged and committed applicants
 
 ---
+
 <!-- {.primary} -->
 
 ### Application stages
+
 - Pre-application stage (where we are now)
 - Application stage 
 - Applying stage
@@ -57,6 +60,7 @@ title: Information Evening
 ---
 
 ### Pre-application stage
+
 - Submit an EOI during the application cycle
 - Complete Basic HTML & Basic CSS on freeCodeCamp on your own
 - Create a Tribute Page and send it to us
@@ -87,15 +91,18 @@ title: Information Evening
 ---
 
 <!-- {.primary} -->
+
 ## Programme changes
 
 ---
 
 ### Split into two 12-week programmes
+
 - Pre-apprenticeship (12 weeks, part-time)
 - Apprenticeship (12 weeks, full-time)
 
 ---
+
 ### Interviews with employers before the course begins 
 
 - Held during the pre-apprenticeship
@@ -104,6 +111,7 @@ title: Information Evening
 --- 
 
 ### Longer pre-apprenticeship programme  
+
 - 12-weeks, part-time commitment 
 - Includes employment and interview preparation
 - 15+ hour commitment each week 
@@ -113,10 +121,13 @@ title: Information Evening
 ### Apprentices will be paid starting Week 1 of the full-time programme
 
 --- 
+
 <!-- {.primary} -->
+
 ## Winter 2022 application dates
 
 --- 
+
 - **Submit Tribute Pages** — now to July 16
 - **Last day to join Discord** July 19
 - **Submitting application between** August 23-27
@@ -140,6 +151,7 @@ title: Information Evening
 ---  
 
 ### The similarities 
+
 - An employer looks for the same qualities and has broadly similar expectations of both
 - Salaries after the end of the apprenticeship (typically 15 months) are likely to be similar
 
@@ -158,4 +170,5 @@ title: Information Evening
 ---
 
 <!-- {.secondary.invert} -->
+
 ### Any other questions?
