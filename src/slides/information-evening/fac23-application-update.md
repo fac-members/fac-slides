@@ -72,7 +72,7 @@ title: Information Evening
 - Receive an invite to Discord
 - Work through the rest of the course requirements with the community
 - Attend pairing evenings and workshops
-- Learn to both learn on your own and learn with others 
+- Learn how to study on your own and with others 
 
 ---
 
