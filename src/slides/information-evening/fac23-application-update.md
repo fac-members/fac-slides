@@ -184,6 +184,10 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
+<img src="../fac23-dates.png" width="2722" height="820" alt="A timeline visualising all the dates from the previous slide">
+
+---
+
 <!-- {.primary} -->
 
 ## Apprentices vs. non-apprentices
