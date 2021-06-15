@@ -55,7 +55,7 @@ We encourage 10+ hours of self-study outside this programme.
 
 ---
 
-Wednesdays will focus on bridging the gap between the JavaScript you've learnt while working on your applications and what you'll need to start the course.
+Bridging the gap between application learnings and what you'll need to start the course.
 
 ---
 
@@ -85,7 +85,9 @@ You all have different levels of experience in different areas.
 
 The pre-apprenticeship is designed to ensure everyone starts the course with the coding fundamentals they need.
 
-You'll be applying for apprenticeships in <12 weeks.
+---
+
+You'll be applying for apprenticeships in less than 12 weeks.
 
 We'll support you to practice for technical interviews and work on your employment profiles.
 
@@ -174,7 +176,7 @@ We can also learn about our team-mates before working together, so we know how t
 
 ---
 
-Let us know how to say your name and what you'd prefer to be called. If you're happy to share them, include your pronouns too.
+Let us know how to say your name; what you'd prefer to be called; and your pronouns.
 
 ---
 
