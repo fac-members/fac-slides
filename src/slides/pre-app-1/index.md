@@ -10,7 +10,7 @@ title: Pre-Apprenticeship Wednesday Week One
 
 <!-- {.primary} -->
 
-Welcome to FAC22.
+Welcome to FAC22!
 
 And congratulations!
 
@@ -42,15 +42,6 @@ We encourage 10+ hours of self-study outside this programme.
 
 ---
 
-### Weekly schedule
-
-- **Wednesday:** Curriculum
-- **Thursday:** Employment preparation
-- **In your own time:** Study and build websites
-- **Throughout:** Maintain a record of your learnings on GitHub
-
----
-
 ## Wednesdays
 
 ---
@@ -70,10 +61,6 @@ You're welcome to pair up with each other outside our workshops. As always, be m
 ---
 
 Preparing for interviews with apprenticeship providers. You'll meet employers, follow our employment curriculum, and practice technical interviews together.
-
----
-
-We'll talk more about Thursdays tomorrow!
 
 ---
 
@@ -97,7 +84,7 @@ Some of you have more free time than others.
 
 Share your learnings.
 
-Please don't use this to try and get ahead on the course.
+Please don't use this to try and get ahead on the curriculum.
 
 ---
 
