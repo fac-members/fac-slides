@@ -42,6 +42,26 @@ In CSS, we write selectors which target HTML elements and CSS properties to defi
 
 ---
 
+## An Analogy
+
+---
+
+It's like a house...
+
+---
+
+HTML is the building blocks, the structure of the house.
+
+![The structure of a house showing walls and windows but no colours](html.png)
+
+---
+
+CSS is the decoration of the house.
+
+![The same house from the previous slide with some colour and bushes](css.png)
+
+---
+
 ## freeCodeCamp
 
 ---
