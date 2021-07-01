@@ -312,7 +312,7 @@ let t0 = text("Count: ");
 let t1 = text(/*count*/ "0");
 span.append(t0, t1);
 // ...
-update(dirty) {
+function update(dirty) {
   if (dirty) t1.textContent = "1";
 }
 ```
@@ -341,6 +341,42 @@ E.g. animation helpers, conditional classnames, grouped input state, easy scroll
 
 ## Getting started
 
+---
+
+### Svelte REPL
+
+The Svelte website has a playground where you can start building.
+
+You can download this to continue working locally.
+
+https://svelte.dev/repl
+
+---
+
+### SPAs
+
+Svelte apps must be compiled.
+
+Usually with a bundler like Rollup (same creator).
+
+```shell
+npx degit sveltejs/template your-project-name
+```
+
+---
+
+### SvelteKit
+
+SvelteKit is like Next.js for Svelte.
+
+Still in beta but helps you build prod-ready multi-page apps.
+
+https://kit.svelte.dev
+
+---
+
+## Learning Svelte
+
 The official tutorial is a fantastic interactive guide:
 
-https://svelte.dev/tutorial/
+https://svelte.dev/tutorial
