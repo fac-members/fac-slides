@@ -116,3 +116,44 @@ e.g. `:valid`
 Relate to elements within the document tree
 
 e.g. `:root` and `:first-child`
+
+---
+
+## Tech Spikes
+
+---
+
+As a developer, learning never stops
+
+---
+
+You'll spend a lot of time conducting technical research and digesting
+
+---
+
+### Work collaboratively
+
+- The aim of research is that **everyone on the team** (and in the cohort!) should have an understanding of the content.
+- Pairing up, tackling multiple points together, discussing and **sharing the load** will help to prevent siloing.
+
+---
+
+### People learn in different ways
+
+- **Mix up the media** according to your learning style. Watching videos, reading diagrams and even listening to podcasts might be a better alternative to reading text.
+
+---
+
+### Avoid copy and pasting
+
+- Try to understand a concept and convey it **in your own words** to your teammates.
+- If it's a code snippet, make sure you **type it out yourself**!
+
+---
+
+### Take your time
+
+- Try not to rush into writing detailed notes.
+- Make sure **everyone** has taken the time they need to **absorb and understand** the topic you're researching.
+
+---
