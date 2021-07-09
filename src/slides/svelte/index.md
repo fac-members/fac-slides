@@ -110,7 +110,7 @@ Here's the same thing as a Svelte component:
 
 ```html
 <script>
-  let count = 1;
+  let count = 0;
 </script>
 
 <button on:click="{() => count += 1}">Count: {count}</button>
@@ -133,7 +133,7 @@ function Counter() {
   let [count, setCount] = useState(0);
   useEffect(() => {
     document.title = `Count: ${count}`;
-  });
+  }, [count]);
   // ...
 }
 ```
@@ -144,7 +144,7 @@ In Svelte:
 
 ```html
 <script>
-  let count = 1;
+  let count = 0;
   $: document.title = `Count: ${count}`;
 </script>
 
@@ -153,7 +153,7 @@ In Svelte:
 
 ---
 
-Svelte automatically re-runs lines starting with `$`.
+Svelte automatically re-runs lines starting with `$:`.
 
 But only when the state values used within change.
 
@@ -251,7 +251,7 @@ React does this comparison:
 let prev = {
   type: "button",
   children: [
-    { type: "span", children: ["Count: 0"],
+    { type: "span", children: ["Count: ", "0"],
     { type: "p", children: ["unrelated"] },
   ],
 };
@@ -259,7 +259,7 @@ let prev = {
 let next = {
   type: "button",
   children: [
-    { type: "span", children: ["Count: 1"],
+    { type: "span", children: ["Count: ", "1"],
     { type: "p", children: ["unrelated"] },
   ],
 };
