@@ -168,7 +168,7 @@ Review and prune your backlog, what are the highest priority issues leftover fro
 
 ---
 
-## Demo's
+## Demos
 
 ---
 
