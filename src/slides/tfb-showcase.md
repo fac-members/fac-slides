@@ -12,7 +12,7 @@ title: Tech for Better Summer Showcase
 
 - A brief history of Tech for Better
 - **SpeakEasy**
-- **Movement and Code**
+- **Move and Code by Pell Ensemble**
 - Tech for Better in 2020-21
 - **Inclusion Labs**
 - **Growing Me**
@@ -26,7 +26,7 @@ title: Tech for Better Summer Showcase
 
 ### _2015_
 
-Founders and Coders starts offering pro-bono work for non-profits. From an expectations mismatch, we learned the importance of having clients who understood the application development process.
+Founders and Coders starts offering pro-bono work for non-profits. Due to expectations mismatch, we learned the importance of having clients who understood the application development process.
 
 ---
 
@@ -38,17 +38,17 @@ As part of the _CAST Digital Fellowship_, we piloted a series of design and buil
 
 ### _2017_
 
-The digital fellowship continued with a dedicated team of developers offering consistent programme delivery. The core of this team went on to form the [InFact Co-op](https://www.infactcoop.com/).
+The Digital Fellowship continued with a dedicated team of developers offering consistent programme delivery. The core of this team went on to form the [InFact Co-op](https://www.infactcoop.com/).
 
 ---
 
 ### _2018_
 
-The Tech for Better programme was initiated built on our learnings from the last three years. It runs alongside our software developer training as a training programme for Product Owners.
+The Tech for Better programme was initiated, built on our learnings from the last three years. It runs alongside our software developer training as a training programme for Product Owners.
 
 ---
 
-Over the first two years of Tech for Better, we learnt that building products is a less urgent need than building expertise within the nonprofit sector. Based on this insight, we looked for further opportunities to train the non-profit sector.
+Over the first two years of Tech for Better, we learnt that building products is a less urgent need than building expertise within the nonprofit sector.
 
 ---
 
@@ -65,7 +65,7 @@ This evening, we present four products built as part of our Tech for Better prog
 ---
 
 - **SpeakEasy**
-- **Movement and Code**
+- **Move and Code by Pell Ensemble**
 
 ---
 
@@ -73,11 +73,11 @@ This evening, we present four products built as part of our Tech for Better prog
 
 ---
 
-In March, we collaborated with New Philanthropy Capital on My Best Life Phase 2, involving a series of fully-online collaborative design sprints with three youth charities.
+In March 2020, we collaborated with New Philanthropy Capital on My Best Life Phase 2, involving a series of fully-online collaborative design sprints with three youth charities.
 
 ---
 
-Then in May 2020, we applied our learnings from previous engagements to the Collaborative Digital Training programme with CAST.
+Then in May, we applied our learnings from previous engagements to the Collaborative Digital Training programme with CAST.
 
 This programme consolidated our experience of using the design, test and build process as a way to foster collaborative working between charities.
 
@@ -85,7 +85,7 @@ This programme consolidated our experience of using the design, test and build p
 
 In October 2020, we were selected to be a digital partner on the Discovery Learning Programme alongside nine other digital agencies.
 
-This tailored programme helped guide nine charities with disparate user groups and levels of digital experience through a programme of learning and doing.
+On this tailored programme helped guide nine charities with disparate user groups and levels of digital experience through a programme of learning and doing.
 
 ---
 
@@ -99,7 +99,7 @@ We have been able to continue developing our Tech for Better programme throughou
 
 ---
 
-The experience has provided valuable real-world experience for our developers while they seek full-time employment.
+The programme has provided valuable real-world experience for our developers while they seek full-time employment.
 
 ---
 
@@ -124,7 +124,7 @@ All developers who completed our programme without an apprenticeship or an offer
 
 ---
 
-For our next full-time cohort, beginning in September 2021, we are aiming to secure ten apprenticeships before the course begins.
+For our next full-time cohort, beginning in September 2021, we are aiming to secure up to twelve apprenticeships
 
 ---
 
@@ -146,4 +146,16 @@ We will be expanding the training offering to Product Owners and piloting a supp
 
 We are seeking further opportunities to grow what Tech for Better can offer to the third sector and to developers.
 
-We'd like to set up a digital agency in partnership with Founders and Coders that will offer a 'Tech for Better apprenticeship'
+We plan to set up a digital agency that will offer a 'Tech for Better apprenticeship' to developers
+
+---
+
+## Get in touch
+
+Express interest in Tech for Better through our website:
+
+https://www.foundersandcoders.com/tech-for-better
+
+Email me at:
+
+gregor@foundersandcoders.com
