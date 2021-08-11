@@ -79,7 +79,7 @@ In March 2020, we collaborated with New Philanthropy Capital on My Best Life Pha
 
 Then in May, we applied our learnings from previous engagements to the Collaborative Digital Training programme with CAST.
 
-This programme consolidated our experience of using the design, test and build methodology as a way to foster collaborative working between charities.
+This programme consolidated our experience of designing, testing and building to foster collaborative working between charities.
 
 ---
 
@@ -95,7 +95,9 @@ Alongside this, PHF referred their Ideas and Pioneers grantees to our programme.
 
 ---
 
-This support allows us to continue developing our Tech for Better programme throughout 2020 and 2021. The funding has directly supported building of ten MVPs, including those presented today. Eight of these were built with Ideas and Pioneers grantees.
+This support has allowed us to continue developing our Tech for Better programme throughout 2020 and 2021.
+
+As a direct result of this support, we've been able to build ten MVPs, including those presented today. Eight of these were built with Ideas and Pioneers grantees.
 
 ---
 
@@ -103,7 +105,7 @@ The programme has provided valuable real-world experience for our developers whi
 
 ---
 
-We have provided practical Product Management experience to PHF grantees and validation of their planned new digital services.
+We have provided practical Product Management experience to PHF grantees and validation of their new digital services.
 
 ---
 
@@ -132,7 +134,7 @@ For our next full-time cohort, beginning in September 2021, we are aiming to sec
 
 ---
 
-This will involve a significant move away from developers seeking employment once completing their training to finding employment before and supporting their training.
+Apprenticeships involve a significant move away from developers seeking employment after completing their training to finding employment before and supporting their training.
 
 ---
 
