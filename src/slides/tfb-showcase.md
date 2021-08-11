@@ -79,13 +79,13 @@ In March 2020, we collaborated with New Philanthropy Capital on My Best Life Pha
 
 Then in May, we applied our learnings from previous engagements to the Collaborative Digital Training programme with CAST.
 
-This programme consolidated our experience of using the design, test and build process as a way to foster collaborative working between charities.
+This programme consolidated our experience of using the design, test and build methodology as a way to foster collaborative working between charities.
 
 ---
 
 In October 2020, we were selected to be a digital partner on the Discovery Learning Programme alongside nine other digital agencies.
 
-On this tailored programme helped guide nine charities with disparate user groups and levels of digital experience through a programme of learning and doing.
+On this tailored programme, we guided nine charities with disparate user groups and levels of digital experience through a programme of research, wireframing and planning their next steps.
 
 ---
 
@@ -95,11 +95,15 @@ Alongside this, PHF referred their Ideas and Pioneers grantees to our programme.
 
 ---
 
-We have been able to continue developing our Tech for Better programme throughout 2020 and 2021 due to this funding. The funding has directly supported building of ten MVPs, including those presented today. Eight of these were built with Ideas and Pioneers grantees.
+This support allows us to continue developing our Tech for Better programme throughout 2020 and 2021. The funding has directly supported building of ten MVPs, including those presented today. Eight of these were built with Ideas and Pioneers grantees.
 
 ---
 
 The programme has provided valuable real-world experience for our developers while they seek full-time employment.
+
+---
+
+We have provided practical Product Management experience to PHF grantees and validation of their planned new digital services.
 
 ---
 
@@ -111,7 +115,7 @@ By the end of March 2021, we had secured our first apprenticeships for seven dev
 
 ---
 
-All developers who completed our programme without an apprenticeship or an offer of full-time employment have been offered the opportunity to work on Tech for Better projects.
+All developers who completed the programme without an apprenticeship or an offer of full-time employment have been offered the opportunity to work on Tech for Better projects.
 
 ---
 
@@ -124,7 +128,7 @@ All developers who completed our programme without an apprenticeship or an offer
 
 ---
 
-For our next full-time cohort, beginning in September 2021, we are aiming to secure up to twelve apprenticeships
+For our next full-time cohort, beginning in September 2021, we are aiming to secure up to twelve apprenticeships.
 
 ---
 
@@ -140,7 +144,11 @@ We have consistently identified a need in the third sector for Product Managemen
 
 ---
 
-We will be expanding the training offering to Product Owners and piloting a support system for them to identify their next steps beyond Tech for Better
+We will be expanding the training offering to Product Owners and piloting a support system for them to identify their next steps beyond Tech for Better.
+
+---
+
+Alongside this, we're offering developers the opportunity to gain real-world development experience as part of their apprenticeship training.
 
 ---
 
