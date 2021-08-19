@@ -10,9 +10,9 @@ title: Information Evening
 
 ## January cohort 2022
 
-- 17:00 - Updates
-- 17:45 - Q&A
-- 18:30 - End
+- 18:00 - Updates
+- 18:45 - Q&A
+- 19:00 - End
 
 ---
 
@@ -143,7 +143,7 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
-### Split into two 12-week programmes
+### Our programme is now a 24-week programme
 
 - Pre-apprenticeship (12 weeks, part-time)
 - Apprenticeship (12 weeks, full-time)
@@ -153,7 +153,7 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 ### Interviews with employers before the course begins
 
 - Held during the pre-apprenticeship
-- For January 2022 cohort interviews are in November/December
+- For January 2022 cohort interviews are in February/March
 
 ---
 
@@ -175,16 +175,17 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
-- **Submit Tribute Pages** — now to July 16
-- **Last day to join Discord** July 19
-- **Submitting application between** August 23-27
-- **Interviews** September 1-3
-- **Outcomes** September 6
-- **Apprenticeship** January 10
+- **Submit Tribute Pages** — now to September 19
+- **Last day to join Discord** — September 24
+- **Workshops begin** — September 27
+- **Submitting application between** — November 22-26
+- **Interviews** — December 6-10
+- **Outcomes** — December 17
+- **Programme begins** — January 10
 
 ---
 
-<img src="../fac23-dates.png" width="2722" height="820" alt="A timeline visualising all the dates from the previous slide">
+<img src="../fac24-dates.png" width="2722" height="820" alt="A timeline visualising all the dates from the previous slide">
 
 ---
 
