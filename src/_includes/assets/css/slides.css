@@ -69,6 +69,7 @@ html {
 
 .slide.secondary {
   background-color: var(--secondary);
+  color: var(--text-light);
 }
 
 .slide.tertiary {
