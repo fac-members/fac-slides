@@ -172,6 +172,24 @@ Gregor (FAC17) - Programmes Manager
 
 ---
 
+## Expecations
+
+---
+
+Be on time, and let us know if you'll be late
+
+---
+
+Attend every session, unless you've let us know in advance
+
+---
+
+Work together during workshops, respect other people's time outside of these
+
+You might be working on a project together but you're not expected to pair synchronously
+
+---
+
 <!-- {.primary} -->
 
 ## Pastoral Care
@@ -192,4 +210,4 @@ Gregor (FAC17) - Programmes Manager
 
 ---
 
-Guided tour w/ Yvonne
+Guided tour
