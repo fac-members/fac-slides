@@ -4,7 +4,7 @@ const markdownIt = require("markdown-it");
 const markdownItDecorate = require("markdown-it-decorate");
 const syntaxHighlight = require("@11ty/eleventy-plugin-syntaxhighlight");
 const markdownSlides = require("./markdown-it-slides");
-// const markdownSlides = require("./markdown-it-slides");
+const markdownTableCaptions = require("./markdown-it-table-captions");
 
 module.exports = (config) => {
   config.addWatchTarget("assets");
@@ -37,6 +37,7 @@ module.exports = (config) => {
 
   md.use(markdownSlides);
   md.use(markdownItDecorate);
+  md.use(markdownTableCaptions);
 
   config.setLibrary("md", md);
 
