@@ -172,7 +172,7 @@ Gregor (FAC17) - Programmes Manager
 
 ---
 
-## Expecations
+## Expectations
 
 ---
 
