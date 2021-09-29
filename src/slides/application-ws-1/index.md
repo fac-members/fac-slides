@@ -4,7 +4,7 @@ title: Applicant Workshop One
 
 # Application workshops
 
-## 1. Introduction
+## 1. Introduction to the community
 
 ---
 
@@ -14,51 +14,47 @@ title: Applicant Workshop One
 
 <!-- {.primary} -->
 
-### Application stages
+### Founders and Coders learning journey
 
-- Pre-application stage
-- Application stage (where we are now)
-- Applying stage
-- Interview stage
+- Stage 0: Expression of Interest & Tribute Page
+- Stage 1: Application stage
+- Applying and Interviews
+- Stage 2: Part Time Skills Bootcamp
+- Stage 3: Full Time Apprenticeship Training
 
 ---
 
-### Pre-application stage
+### Expression of Interest & Tribute Page
 
-_June 15, 2021 — July 15, 2021_
+_July 19, 2021 — October 1, 2021_
 
-- Submit an EOI during the application cycle
-- Complete Basic HTML & Basic CSS on freeCodeCamp on your own
-- Create a Tribute Page and send it to us
+- Submit an Expression of Interest
+- Complete Basic HTML & Basic CSS on freeCodeCamp
+- Create a Tribute Page and submit it via our website
 
 ---
 
 ### Application stage
 
-_June 15, 2021 — August 26, 2021_
+_July 19, 2021 — December 10, 2021_
 
-- Receive an invite to Discord
+- Participate in the Discord community
 - Work through the rest of the course requirements with the community
-- Attend pairing evenings and workshops
+- Attend workshops and meetups
 - Learn how to study on your own and with others
-
----
-
-### Applying stage
-
-_August 22, 2021 — August 27, 2021, 17:00 UTC_
-
-- Closed applications
-- Only people who are on Discord will receive application link
 
 ---
 
 ### Interview stage
 
-_August 31, 2021 — September 2, 2021_
+_December 13, 2021 — December 17, 2021_
 
 - We usually interview 24-32 people per cycle
 - Conversational and technical interview
+
+---
+
+_Note: We're rethinking our interview process and we may change this before the deadline. We'll communicate any changes on Discord._
 
 ---
 
@@ -66,23 +62,24 @@ _August 31, 2021 — September 2, 2021_
 
 ### Application Workshops
 
-_July 19, 2021 — August 23, 2021_
+_October 4, 2021 — December 10, 2021_
 
-1. Introduction to the course requirements, the community and events
 1. Functions and daily challenges
-1. Introduction to Codewars
-1. Intro to DOM manipulation
+1. Codewars and higher-order functions
+1. Intro to the DOM
+1. Array methods
 1. Git and GitHub
-1. Image carousel codealong
+1. Flexbox
+1. Image Carousel
 
 ---
 
 **Mondays at 17:00**
 
 - Led by Gregor
-- Semi-interactive
+- Participatory - we'd like everyone to have the space to share their suggestions
 - Focus on the key parts of applying to FAC
-- Introductions, follow-up on your own
+- Introductions, follow-up on your own, share your learnings on Discord
 
 ---
 
@@ -92,7 +89,7 @@ Work with others in the community in small groups. Mentored by our current cohor
 
 ---
 
-**Tuesdays at 16:30 (TBC)**
+**Tuesdays at 18:15**
 
 - Let us know what you're working on
 - Work in small groups with other applicants
@@ -326,7 +323,7 @@ Start thinking of your learning journey as part of a wider community learning al
 
 ---
 
-**7. Help other people out when you can.**
+**7. Help other people out when you can**
 
 You don’t have to be a senior developer to be able to help someone else. Founders and Coders is a peer-led learning environment, and we really encourage a collaborative learning space. If people see you helping others, they might also feel encouraged to help others too!
 
