@@ -9,11 +9,8 @@ Original Base16 color scheme by Chris Kempson (https://github.com/chriskempson/b
 */
 code,
 pre {
-  font-family: Consolas, Menlo, Monaco, "Andale Mono WT", "Andale Mono",
-    "Lucida Console", "Lucida Sans Typewriter", "DejaVu Sans Mono",
-    "Bitstream Vera Sans Mono", "Liberation Mono", "Nimbus Mono L",
-    "Courier New", Courier, monospace;
-  font-size: 0.75rem;
+  font-family: var(--mono);
+  font-size: 0.675rem;
   line-height: 1.375;
   direction: ltr;
   text-align: left;
@@ -22,7 +19,7 @@ pre {
   word-break: normal;
   tab-size: 2;
   hyphens: none;
-  background: #f5f7ff;
+  background-color: var(--nearWhite);
   color: #5e6687;
 }
 

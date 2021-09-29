@@ -32,11 +32,11 @@ Here are some examples of structured data:
 
 ---
 
-Computers have both "memory" (RAM) and "storage" (disk)
+Computers have both "memory" (RAM) and "storage" (disk).
 
 ---
 
-Memory is how much stuff the computer can hold in its head at once
+Memory is how much stuff the computer can hold in its head.
 
 ---
 
@@ -76,35 +76,38 @@ These are called "relational" databases.
 
 They store data in tables, like a spreadsheet.
 
-```
-name   quantity price
-apple  10       1.00
-banana 20       0.40
-```
+Table: fruits
+
+| name   | quantity | price |
+| ------ | -------- | ----- |
+| apple  | 10       | 1.00  |
+| banana | 20       | 0.40  |
 
 ---
 
 They are "relational" because they can "relate" multiple tables.
 
-Here's a `stores` table:
+If we had a `stores` table to go with our `fruits`:
 
-```
-id location
-1  camden
-2  kensington
-```
+Table: stores
+
+| id  | location   |
+| --- | ---------- |
+| 1   | camden     |
+| 2   | kensington |
 
 ---
 
-Our `fruits` table can now use each store's ID:
+Our `fruits` table could use the store IDs:
 
-```
-store_id name   quantity price
-1        apple  10       1.00
-1        banana 20       0.40
-2        apple  05       1.20
-2        banana 30       0.20
-```
+Table: fruits
+
+| name   | quantity | price | store_id |
+| ------ | -------- | ----- | -------- |
+| apple  | 10       | 1.00  | 1        |
+| banana | 20       | 0.40  | 1        |
+| apple  | 05       | 1.20  | 2        |
+| banana | 30       | 0.20  | 2        |
 
 ---
 
@@ -114,7 +117,7 @@ We can now see which store has which fruit at what price.
 
 This structure is helpful because it reduces duplication.
 
-We only list each store once, no matter how many fruits they have.
+We list each store once, no matter how many fruits they have.
 
 ---
 
@@ -122,21 +125,41 @@ If we stored this as an object we'd have duplicate info.
 
 Every fruit object would have to list all the stores with it.
 
+```json
+{
+  "fruits": [
+    {
+      "name": "apple",
+      "quantity": 10,
+      "price": 1,
+      "store": { "id": 1, "location": "camden" }
+    },
+    {
+      "name": "banana",
+      "quantity": 20,
+      "price": 0.4,
+      "store": { "id": 1, "location": "camden" }
+    },
+    {...}
+  ]
+}
+```
+
 ---
 
-In a database with thousands of fruit entries this saves a _lot_ of duplication.
+In a DB with thousands of entries this saves a _lot_ of duplication.
 
 ---
 
 Certain types of questions are simpler to answer too.
 
-For example "how much total fruit is there?".
+For example "how much total fruit is there?"
 
-We just have to add up the "quantity" column—no need to touch the "stores" data at all.
+We add up the "quantity" column—no need to look at `stores`.
 
 ---
 
-Examples include MySQL and PostgreSQL
+MySQL and PostgreSQL are both popular relational DBs.
 
 ---
 
@@ -200,10 +223,10 @@ So we'll be using Postgres for the rest of the course
 
 When we say "database" we usually mean:
 
-1. The actual structured data
+1. The actual structured data _and_
 1. The program managing access to that data
 
-The proper term for this is "Database Management Software" (DBMS)
+This is called "Database Management Software" (DBMS)
 
 ---
 
@@ -253,7 +276,7 @@ The DBMS will look up the file for the `fruit` table, insert the new data, save 
 
 ---
 
-### Thinking about relationships
+### Thinking about relationships
 
 ---
 
@@ -273,21 +296,19 @@ Each capital city is in one country.
 
 ---
 
-`countries`
+Table: countries
 
-```
-id name capital_id
-1  uk   1
-2  usa  2
-```
+| id  | name | capital_id |
+| --- | ---- | ---------- |
+| 1   | uk   | 1          |
+| 2   | usa  | 2          |
 
-`cities`
+Table: cities
 
-```
-id name          population
-1  london        8.9m
-2  washington dc 0.7m
-```
+| id  | name          | population |
+| --- | ------------- | ---------- |
+| 1   | london        | 8.9m       |
+| 2   | washington dc | 0.7m       |
 
 ---
 
@@ -305,28 +326,26 @@ Each film has only one director (usually).
 
 ---
 
-`directors`
+Table: directors
 
-```
-id name
-1  Olivia Wilde
-2  Sofia Coppola
-```
+| id  | name          |
+| --- | ------------- |
+| 1   | Olivia Wilde  |
+| 2   | Sofia Coppola |
 
-`films`
+Table: films
 
-```
-id name                director_id
-1  booksmart           1
-2  lost in translation 2
-3  the bling ring      2
-```
+| id  | name                | director_id |
+| --- | ------------------- | ----------- |
+| 1   | booksmart           | 1           |
+| 2   | lost in translation | 2           |
+| 3   | the bling ring      | 2           |
 
 ---
 
 The only difference here is the foreign keys aren't unique.
 
-We can represent the "many" relationship by having multiple films with the same `director_id`.
+We represent the "many" relationship by using the same `director_id` for multiple films.
 
 ---
 
@@ -338,42 +357,58 @@ Each actor appears in many films.
 
 ---
 
-`actors`
+Table: actors
 
-```
-id name
-1  lisa kudrow
-2  jason sudeikis
-```
+| id  | name           |
+| --- | -------------- |
+| 1   | lisa kudrow    |
+| 2   | jason sudeikis |
 
-`films`
+Table: films
 
-```
-id name
-1  booksmart
-2  the angry bird's movie
-3  the angry bird's movie 2
-```
+| id  | name                     |
+| --- | ------------------------ |
+| 1   | booksmart                |
+| 2   | the angry bird's movie   |
+| 3   | the angry bird's movie 2 |
 
 ---
 
-We cannot represent a many-to-many relationship with foreign keys.
+Many-to-many relationships cannot use foreign keys.
 
-We need to use another table to hold the relationships.
+Since e.g. each film would need multiple `actor_id` columns.
+
+Instead we can use another table to store the relationships.
 
 ---
 
-This is often called a "join table" (or junction/bridge table).
+This is often called a "join table" (or junction/bridge table)
 
-`actors_films`
+Table: actors_films
 
+| actor_id | film_id |
+| -------- | ------- |
+| 1        | 1       |
+| 2        | 2       |
+| 2        | 3       |
+
+It bridges the gap between `actors` and `films`.
+
+If we know an actor's ID we can look up their films.
+
+---
+
+```sql
+SELECT actors.name, films.name
+  FROM actors
+    JOIN actors_films ON actors.id = actor_id
+    JOIN films ON actor_id = films.id;
 ```
-actor_id film_id
-1        2
-1        3
-2        1
-```
 
-We can use this table to bridge the gap between `actors` and `films`.
+Table: result
 
-If we know an actor's ID we can look up all the films they were in.
+| actors.​name   | films.​name              |
+| -------------- | ------------------------ |
+| Lisa Kudrow    | booksmart                |
+| Jason Sudeikis | the angry bird's movie   |
+| Jason Sudeikis | the angry bird's movie 2 |
