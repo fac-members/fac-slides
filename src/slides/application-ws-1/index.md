@@ -36,7 +36,7 @@ _July 19, 2021 — October 1, 2021_
 
 ### Application stage
 
-_July 19, 2021 — November 26, 2021_
+_July 19, 2021 — December 10, 2021_
 
 - Participate in the Discord community
 - Work through the rest of the course requirements with the community
@@ -45,17 +45,9 @@ _July 19, 2021 — November 26, 2021_
 
 ---
 
-### Applying stage
-
-_November 22, 2021 — November 26, 2021_
-
-- Only people who are on Discord will receive application link
-
----
-
 ### Interview stage
 
-_December 6, 2021 — December 10, 2021_
+_December 13, 2021 — December 17, 2021_
 
 - We usually interview 24-32 people per cycle
 - Conversational and technical interview
@@ -70,7 +62,7 @@ _Note: We're rethinking our interview process and we may change this before the 
 
 ### Application Workshops
 
-_October 4, 2021 — November 15, 2021_
+_October 4, 2021 — December 10, 2021_
 
 1. Functions and daily challenges
 1. Codewars and higher-order functions
