@@ -183,11 +183,12 @@ function addTwoNumbers(num1, num2) {
 }
 
 let total = addTwoNumbers(2, 3);
+console.log(total);
 ```
 
 ---
 
-Nothing after the return will run, as we break out of the block
+Nothing inside the curly brackets and after the return will run, as we break out of the block
 
 ---
 
@@ -212,15 +213,44 @@ function addTwoNumbers(num1, num2) {
 }
 
 let total = addTwoNumbers(2, 3);
+console.log(total);
+```
+
+---
+
+### Scope
+
+---
+
+Scope is the context in which a variable can be accessed
+
+---
+
+_Global variables_ are defined outside any function blocks and can be accessed anywhere
+
+---
+
+_Local variables_ are defined within a function block and can only be accessed within that function
+
+---
+
+```js
+
+let myGlobalVariable = "Hello";
+
+const stringMaker = (){
+let myLocalVariable = "World";
+
+return myGlobalVariable + " " + myLocalVariable
+};
+
+console.log(stringMaker()) // logs "Hello World"
+console.log(myLocalVariable) // causes error
 ```
 
 ---
 
 ## Examples
-
----
-
-We'll code our answers in [replit.com](replit.com)
 
 ---
 
@@ -268,11 +298,11 @@ should output
 
 ---
 
-Each day, we'll post a challenge on Discord
+Each week, we'll post a set of challenges on Discord
 
 ---
 
-Read `#-how-to` first to understand how to post your attempt
+Read `#-how-to` first to understand how to complete the challenges and share them
 
 ---
 
@@ -287,155 +317,3 @@ Read `#-how-to` first to understand how to post your attempt
 `#attempts` is the channel to post your attempt at solving the challenge
 
 You don't need to solve the challenge to post an attempt
-
----
-
-<!-- {.primary} -->
-
-## Harder concepts
-
----
-
-### Arrow functions
-
----
-
-An arrow function does not need curly brackets if there’s only one expression inside it
-
-In this case, the return keyword is implied (automatic) and anything after the arrow (`=>`) will be returned from the function
-
----
-
-You can’t put more than one expression in an arrow function unless you have curly brackets.
-
----
-
-```js
-const addTwo = (num1, num2) => num1 + num2;
-
-// is the same as
-
-const addTwo = (num1, num2) => {
-  return num2 + num2;
-};
-```
-
----
-
-### Referencing a function
-
----
-
-Referencing a function is when we use the name of a function without immediately calling it
-
-We’re telling JavaScript which function body to run, not returning the result of running the function
-
----
-
-```js
-const myElement = querySelector("#my-element");
-
-const changeElementToBlue = (event) => {
-  event.target.style.backgroundColor = "blue";
-};
-
-myElement.addEventListener("click", changeElementToBlue);
-```
-
----
-
-If we add brackets, the function will run when we add the event listener and not when the event happens
-
----
-
-### Methods
-
----
-
-Methods are functions which are built in to JavaScript
-
----
-
-There are different methods for different datatypes like Arrays, Objects and Strings
-
-Some examples are `map`, `reduce`, `substring` and `splice`
-
----
-
-### Higher Order functions
-
----
-
-A higher order function takes another function as input, or returns a new function
-
-This is possible because functions can be passed around like strings, numbers, arrays or objects
-
----
-
-### Callbacks
-
----
-
-Callbacks are functions that are passed into a higher order function, to be called later
-
----
-
-An example is javascript’s map method, which is called on arrays.
-
-This takes a callback function as an argument, and calls the function for every element of the array
-
----
-
-```js
-const multiplyBy2 = (number) => number * 2;
-
-const arr = [1, 2, 3, 4];
-
-const doubledArr = arr.map(multiplyBy2);
-```
-
----
-
-Or we can create our own...
-
----
-
-```js
-const multiplyBy2 = (number) => number * 2;
-
-const doSomething = (value, action) => action(value);
-
-const doubled = doSomething(2, multiplyBy2);
-```
-
----
-
-### Scope
-
----
-
-Scope is the context in which a variable can be accessed
-
----
-
-_Global variables_ are defined outside any function blocks and can be accessed anywhere
-
----
-
-_Local variables_ are defined within a function block and can only be accessed within that function
-
----
-
-```js
-
-let myGlobalVariable = "Hello";
-
-const stringMaker = (){
-let myLocalVariable = "World";
-
-return myGlobalVariable + " " + myLocalVariable
-};
-
-console.log(stringMaker()) // logs "Hello World"
-console.log(myLocalVariable) // causes error
-```
