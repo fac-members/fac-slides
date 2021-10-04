@@ -235,17 +235,16 @@ _Local variables_ are defined within a function block and can only be accessed w
 ---
 
 ```js
-
 let myGlobalVariable = "Hello";
 
 function stringMaker() {
   let myLocalVariable = "World";
 
-  return myGlobalVariable + " " + myLocalVariable
-};
+  return myGlobalVariable + " " + myLocalVariable;
+}
 
-console.log(stringMaker()) // logs "Hello World"
-console.log(myLocalVariable) // causes error
+console.log(stringMaker()); // logs "Hello World"
+console.log(myLocalVariable); // causes error
 ```
 
 ---
@@ -294,19 +293,21 @@ should output
 
 <!-- {.primary} -->
 
-## The daily challenge
+## Weekly prompts
+
+formerly, _The daily challenge_
 
 ---
 
-Each week, we'll post a set of challenges on Discord
+Each week, we'll post a set of prompts on Discord
 
 ---
 
-Read `#-how-to` first to understand how to complete the challenges and share them
+Read `#-how-to` first to understand how to work on the tasks
 
 ---
 
-`#daily-challenge` is where we'll post the challenge
+`#weekly-prompts` is where we'll post the prompts
 
 ---
 
@@ -314,6 +315,4 @@ Read `#-how-to` first to understand how to complete the challenges and share the
 
 ---
 
-`#attempts` is the channel to post your attempt at solving the challenge
-
-You don't need to solve the challenge to post an attempt
+We'll start with three this week and build up from there. The concepts you need for each set of prompts will be introduced in workshops!
