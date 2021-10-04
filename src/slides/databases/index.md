@@ -408,8 +408,9 @@ SELECT actors.name, films.name
 
 Table: result
 
-| actors.​name   | films.​name              |
-| -------------- | ------------------------ |
-| Lisa Kudrow    | booksmart                |
-| Jason Sudeikis | the angry bird's movie   |
-| Jason Sudeikis | the angry bird's movie 2 |
+| actors.​name   | films.​name                      |
+| -------------- | -------------------------------- |
+| Cate Blanchett | LOTR: The Fellowship of the Ring |
+| Cate Blanchett | Ocean's 8                        |
+| Ian McKellan   | LOTR: The Fellowship of the Ring |
+| Ian McKellan   | X-Men                            |
