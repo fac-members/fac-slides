@@ -361,22 +361,22 @@ Table: actors
 
 | id  | name           |
 | --- | -------------- |
-| 1   | lisa kudrow    |
-| 2   | jason sudeikis |
+| 1   | Cate Blanchett |
+| 2   | Ian McKellan   |
 
 Table: films
 
-| id  | name                     |
-| --- | ------------------------ |
-| 1   | booksmart                |
-| 2   | the angry bird's movie   |
-| 3   | the angry bird's movie 2 |
+| id  | name                             |
+| --- | -------------------------------- |
+| 1   | LOTR: The Fellowship of the Ring |
+| 2   | X-Men                            |
+| 3   | Ocean's 8                        |
 
 ---
 
-Many-to-many relationships cannot use foreign keys.
+We cannot use foreign keys here.
 
-Since e.g. each film would need multiple `actor_id` columns.
+Since each film would need multiple `actor_id` columns.
 
 Instead we can use another table to store the relationships.
 
@@ -389,8 +389,9 @@ Table: actors_films
 | actor_id | film_id |
 | -------- | ------- |
 | 1        | 1       |
+| 1        | 3       |
+| 2        | 1       |
 | 2        | 2       |
-| 2        | 3       |
 
 It bridges the gap between `actors` and `films`.
 
