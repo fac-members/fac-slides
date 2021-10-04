@@ -238,10 +238,10 @@ _Local variables_ are defined within a function block and can only be accessed w
 
 let myGlobalVariable = "Hello";
 
-const stringMaker = (){
-let myLocalVariable = "World";
+function stringMaker() {
+  let myLocalVariable = "World";
 
-return myGlobalVariable + " " + myLocalVariable
+  return myGlobalVariable + " " + myLocalVariable
 };
 
 console.log(stringMaker()) // logs "Hello World"
