@@ -83,22 +83,6 @@ function multiplyTwoNumbers(numOne, numTwo) {
 
 ---
 
-```js
-const myArrowFunction = (parameterOne, parameterTwo) => {
-  // What my function does
-};
-```
-
----
-
-```js
-const multiplyTwoNumbers = (numOne, numTwo) => {
-  return numOne * numTwo;
-};
-```
-
----
-
 **Step two:** Call the function
 
 ---
@@ -109,23 +93,11 @@ myNamedFunction(argumentOne, argumentTwo);
 
 ---
 
-```js
-myArrowFunction(argumentOne, argumentTwo);
-```
-
----
-
-_Suggestion:_ Learn the syntax for and get comfortable with named functions first then learn about arrow functions
-
----
-
 ## Parts of a function
 
 ---
 
 These definitions are specific to named functions
-
-Arrow functions do not require all of these parts
 
 ---
 
@@ -316,3 +288,50 @@ Read `#-how-to` first to understand how to work on the tasks
 ---
 
 We'll start with three this week and build up from there. The concepts you need for each set of prompts will be introduced in workshops!
+
+---
+
+<!-- {.primary} -->
+
+## Approaching problems
+
+A four-step approach
+
+---
+
+### 1. Understand the problem
+
+What is it asking you to do? What are the inputs and outputs?
+
+---
+
+### 2. Write Pseudocode
+
+Break the problem down into key steps
+
+Use JavaScript Comments
+
+---
+
+```js
+// Add all the numbers in the array
+// and assign the result to a variable
+
+// Find out how many numbers are in the array
+// and assign that to a variable
+
+// Divide the total by the length of the array
+// and return the result
+```
+
+---
+
+### 3. Write JavaScript
+
+Following your pseudocode, code each step. Remember to `console.log()` to check your code along the way.
+
+---
+
+### 4. Refactor
+
+What can you change about your code to make it more efficient? How might you solve the problem differently?
