@@ -4,7 +4,7 @@ title: Applicant Workshop Three
 
 # Application workshops
 
-## 3. Codewars
+## 3. Solving Challenges
 
 ---
 
@@ -32,81 +32,33 @@ We'll be replacing this portion of the requirements with our weekly prompts
 
 ---
 
-In week 5, we'll look at git and GitHub as a way to share your code
+We'd like everyone in the community to solve every weekly prompt - in your own time
+
+These will give you the opportunity to learn web development in a practical way
+
+---
+
+From week 5 onwards, we'll ask everyone to upload their solutions to GitHub
+
+We'll introduce how to do this in that week
+
+For now, keep your solutions on Repl or your own computer
+
+---
+
+You'll have a record of your own learning as you've progressed through the application cycle
+
+🌱
+
+---
 
 We'll ask everyone to share their profile with us at FAC
 
----
-
-You'll then have a record of your own learning and learn in a practical way
+We will review them all towards the end of the application cycle to get a general sense of your progress
 
 ---
 
-Bearing that in mind, we still recommend Codewars as a platform to practice solving problems
-
----
-
-<!-- {.primary} -->
-
-## Introduction
-
----
-
-Codewars is a platform where you can complete coding challenges
-
----
-
-By completing `kata` you earn `honor`
-
----
-
-By gaining `honor` you progress through `kyu` or ranks
-
-`Kyu` starts at `8kyu` and moves upwards to `1kyu`
-
----
-
-<!-- {.primary} -->
-
-## Getting started
-
----
-
-Go to [codewars.com](codewars.com)
-
----
-
-Sign in with GitHub
-
----
-
-Solve the problem
-
----
-
-<!-- {.primary} -->
-
-## Solving the problem
-
----
-
-Step one: find the right problem
-
----
-
-Step two: Read the instructions carefully
-
----
-
-Step three: Have a look at the inputs and outputs
-
----
-
-Step four: move to [replit.com](replit.com)
-
----
-
-Step five: Solve the problem
+Bearing that in mind, you may still find Codewars useful as a platform to practice solving problems
 
 ---
 
@@ -166,7 +118,7 @@ Check for syntax errors
 
 ---
 
-Read the error message
+Read any error messages
 
 ---
 
@@ -186,12 +138,28 @@ We'll follow these steps:
 
 ---
 
-[Squaring a number](https://www.codewars.com/kata/523b623152af8a30c6000027)
+### Squaring a number
+
+Write a function which accepts one input, a number.
+
+The function should return the square of that number.
 
 ---
 
-[Sum of positive](https://www.codewars.com/kata/5715eaedb436cf5606000381)
+### Odd or Even
+
+Write a function which accepts a number as an argument.
+
+The function should determine whether the number is even or odd.
+
+Return 'Even' or 'Odd' based on the parity of the number.
 
 ---
 
-[Even or Odd](https://www.codewars.com/kata/53da3dbb4a5168369a0000fe)
+### Sum of positive
+
+Write a function which accepts an array as an argument.
+
+The function should add up all the positive numbers from the array and return the sum.
+
+If there are no positive numbers to sum, return zero.
