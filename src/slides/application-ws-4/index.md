@@ -43,6 +43,7 @@ We can respond to HTML and DOM `events` within JavaScript
 ---
 
 Event examples:
+
 - `load`
 - `click`
 - `mouseover`
@@ -54,42 +55,20 @@ There are a number of properties and methods to each event
 
 ---
 
-Before we look at event properties and methods, let's refresh on object properties and methods
+Before we look at event properties and methods, let's have a look at object properties and methods
 
 ---
 
 ```js
 const myPet = {
-    type: "dog",
-    name: "Spot",
-    age: 6,
-    calculateHumanAge: function(){
-        return this.age * 7;
-    },
-    findTreasure: function(){
-        depthDug = 0;
-        while (depthDug < 10){
-            moveLeftPaw();
-            moveRightPaw();
-            depthDug++;
-        };
-        return "I found treasure!";
-    }
+  type: "dog",
+  name: "Spot",
+  age: 6,
+  calculateHumanAge: function () {
+    return this.age * 7;
+  },
 };
 ```
----
-
-## KeyboardEvent
-
----
-
-Using `keydown` or `keyup` we can detect if the user has pressed or released a key
-
----
-
-From the event, we can examine properties like `key` to identify which key was pressed
-
-Or we can use the `.getModifierState()` method to check if a modifier (like `alt`) was pressed with the key
 
 ---
 
@@ -105,17 +84,7 @@ We can find the coordinates of the mouse when the event happened using the `clie
 
 ---
 
-## Events
-
----
-
-`KeyboardEvent` and `MouseEvent` interfaces derive from the `Event` interface 
-
----
-
-We might like to look for the `target` of an event or use the `preventDefault()` method on an event
-
----
+We can also find the `target` of the event - in other words, what was clicked
 
 ## Event Listeners
 
@@ -135,9 +104,9 @@ When the event happens, they call a function
 const myButton = document.querySelector("button");
 console.log(myButton);
 
-function changeText(event){
-    event.target.textContent = "Clicked";
-};
+function changeText(event) {
+  event.target.textContent = "Clicked";
+}
 
 myButton.addEventListener("click", changeText);
 ```
@@ -145,3 +114,11 @@ myButton.addEventListener("click", changeText);
 ---
 
 ## Demo...
+
+---
+
+1. Write a function to add two numbers
+1. Add two inputs, a button and an output to the HTML document
+1. When the user clicks the button:
+   - run the function
+   - display the output on the page
