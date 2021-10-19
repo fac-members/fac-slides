@@ -22,11 +22,15 @@ title: Meetups
 
 ---
 
-You'll take turns filling three roles at a meetup: Leader, Supporter and Observer.
+You'll take turns filling three roles at a meetup:
+
+- Leader
+- Supporter
+- Observer
 
 ---
 
-Each round will last 20 minutes and once the time is up, you'll switch roles.
+You'll work together in rounds, each will last 20 minutes and once the time is up, you'll switch roles.
 
 ---
 
@@ -34,7 +38,7 @@ Each round will last 20 minutes and once the time is up, you'll switch roles.
 
 - Shares their screen
 - Presents a challenge
-- Works with the Supporter
+- Codes with help from the Supporter
 
 ---
 
@@ -42,7 +46,8 @@ Each round will last 20 minutes and once the time is up, you'll switch roles.
 
 - Starts by reading and understanding the problem
 - Guides towards a solution
-- Focuses on asking questions over telling the leader how to solve the problem
+- Focuses on asking questions to the leader
+- Supports the leader to solve the problem
 
 ---
 
@@ -50,7 +55,7 @@ Each round will last 20 minutes and once the time is up, you'll switch roles.
 
 - Provides feedback to the leader and supporter
 - Is quiet during the coding and gives space to the others
-- Gives constructive feedback
+- Gives constructive feedback at the end of the round
 
 ---
 
