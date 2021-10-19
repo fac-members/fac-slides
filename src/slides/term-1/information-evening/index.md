@@ -1,5 +1,6 @@
 ---
 title: Information Evening
+private: true
 ---
 
 # <img width="651" height="284" src="https://facresources.com/assets/logos/fac_logo.png" alt="Founders and Coders">
@@ -86,15 +87,15 @@ We prioritise a cohesive cohort of people who we think will work well together o
 
 ---
 
-Learning to code is just *part* of what makes you a good developer. 
+Learning to code is just _part_ of what makes you a good developer.
 
 ---
 
-The tech industry is disproportionately white, male and university-educated. 
+The tech industry is disproportionately white, male and university-educated.
 
 ---
 
-Founders and Coders will always prioritise marginalised people’s safety over the comfort of the privileged. 
+Founders and Coders will always prioritise marginalised people’s safety over the comfort of the privileged.
 
 ---
 
@@ -104,7 +105,7 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
-### 1. Check your eligibility 
+### 1. Check your eligibility
 
 - Be over 18 years old
 - Be eligible to apply for an apprenticeship
@@ -112,30 +113,30 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
-### 2. Submit an expression of interest 
+### 2. Submit an expression of interest
 
 - We communicate everything through our online channels
-- We're moving from Slack to Discord, stay tuned for the invitiation 
+- We're moving from Slack to Discord, stay tuned for the invitiation
 - We encourage all applicants to actively participate in our online community and learn collaboratively with each other
 
 ---
 
-### 3. Start working on the requirements 
+### 3. Start working on the requirements
 
 - Create a GitHub account
-- Be active in our online community 
+- Be active in our online community
 - freeCodeCamp modules
-- Codewars katas 
-- Create an application website with interactive features 
+- Codewars katas
+- Create an application website with interactive features
 - All of this can be found on our [Apply](https://www.foundersandcoders.com/apply) page
 
 ---
 
-### 4. Submit the application 
+### 4. Submit the application
 
-- This should take no more than an hour 
-- We only accept applications during the application window 
-- All course requirements must be completed by the time the window closes 
+- This should take no more than an hour
+- We only accept applications during the application window
+- All course requirements must be completed by the time the window closes
 
 ---
 
@@ -146,21 +147,24 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 ---
 
 ### Two parts
+
 - 30 minute conversational interview
-- 30 minute technical interview 
+- 30 minute technical interview
 
 ---
 
-### Conversational interview 
-- No trick questions 
+### Conversational interview
+
+- No trick questions
 - It's an opportunity for us to get to know you
-- We love feedback 
+- We love feedback
 
 ---
 
-### Technical interview 
-- Application website 
-- Pair programming 
+### Technical interview
+
+- Application website
+- Pair programming
 - Variation on Codewars katas
 
 ---
@@ -174,22 +178,22 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 ### Autumn 2021 dates
 
 - Work on your application: now - May 23
-- Application window: May 16 - 23 
+- Application window: May 16 - 23
 - Interview dates: Jun 1 - 4
 - Pre-apprenticeship (12 weeks PT): Jun 14 - Sep 3
 - Apprenticeship (12 weeks FT): Sep 27 - Dec 17
 
 ---
 
-### Pre-apprenticeship 
+### Pre-apprenticeship
 
-- 90-minute workshop 
+- 90-minute workshop
 - 90-minute group session
-- 10-15 hour commitment each week 
+- 10-15 hour commitment each week
 
 ---
 
-### Apprenticeship 
+### Apprenticeship
 
 - Monday - Friday
 - 09:45 - 18:00
@@ -202,7 +206,7 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 - 100% commitment
 - Mentor applicants and the next cohort
 - Be an active member of our community
-- Seek apprenticeship or employment through us 
+- Seek apprenticeship or employment through us
 
 ---
 
@@ -212,21 +216,21 @@ Founders and Coders will always prioritise marginalised people’s safety over t
 
 ---
 
-### 1. Right now the job market is tough, _however_ 
+### 1. Right now the job market is tough, _however_
 
-Even though 2020 has been challenging, everyone on our most recent cohort has found a job as junior developer between 2-4 months after graduation 
+Even though 2020 has been challenging, everyone on our most recent cohort has found a job as junior developer between 2-4 months after graduation
 
 ---
 
-### 2. We are now an apprenticeship training provider 
+### 2. We are now an apprenticeship training provider
 
-We will be offering 16 places on our Autumn 2021 programme. We do not yet know how many of those 16 will be able to secure an apprenticeship. 
+We will be offering 16 places on our Autumn 2021 programme. We do not yet know how many of those 16 will be able to secure an apprenticeship.
 
 ---
 
 ### 3. Apprentice interviews will happen in the summer
 
-For successful applicants to our programme, apprenticeship interviews with employers are likely to be in July/August. Those who are successfull will start the full-time programme as apprentices in September. 
+For successful applicants to our programme, apprenticeship interviews with employers are likely to be in July/August. Those who are successfull will start the full-time programme as apprentices in September.
 
 ---
 
