@@ -8,9 +8,11 @@
     />
     <title>FAC Slides</title>
     {% if config.env == "development" %}
+      <link href="/assets/css/home.css" rel="stylesheet">
       <link href="/assets/css/themes/fac.css" rel="stylesheet">
     {% else %}
       {% set styles %}
+        {% include "assets/css/home.css" %}
         {% include "assets/css/themes/fac.css" %}
       {% endset %}
       <style>
@@ -21,7 +23,7 @@
   </head>
   <body>
     <h1>Slide index</h1>
-    <ul>
+    <ul role="list" class="slides">
       {% for slideshow in collections.slides %}
         <li>
           <a href="{{slideshow.data.page.url}}">{{slideshow.data.title}}</a>

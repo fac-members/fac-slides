@@ -53,6 +53,7 @@ html {
 
   --bg-dark: var(--black);
   --bg-light: var(--white);
+  --bg-dim: var(--lightGray);
 
   --text-dark: var(--black);
   --text-light: var(--white);

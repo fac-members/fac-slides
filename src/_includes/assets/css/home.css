@@ -1,0 +1,19 @@
+body {
+  padding: 2rem;
+}
+
+.slides {
+  list-style: none;
+  padding-left: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(30ch, 1fr));
+  gap: 2ch;
+  font-size: 1.125rem;
+}
+
+.slides a {
+  display: block;
+  padding: 1rem;
+  background-color: var(--bg-dim);
+  color: inherit;
+}
