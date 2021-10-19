@@ -86,6 +86,8 @@ We can find the coordinates of the mouse when the event happened using the `clie
 
 We can also find the `target` of the event - in other words, what was clicked
 
+---
+
 ## Event Listeners
 
 ---
