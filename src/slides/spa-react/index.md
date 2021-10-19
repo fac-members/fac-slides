@@ -24,27 +24,19 @@ What we've done with Node so far:
 
 ---
 
-### MVC
-
-"Model View Controller" is the old-school architecture:
-
-- Controllers are route handlers
-- Model looks after database access
-- View takes data and renders it into an HTML template
-
----
-
 Generally the browser is a "thin client".
 
 It just displays what the server gives it and handles no logic.
 
 ---
 
-### Client-side enhancement
-
 Client-side JS used to add some interactivity (modals etc).
 
 The heavy lifting is done server-side.
+
+---
+
+HTML is the source of truth.
 
 ---
 
@@ -96,7 +88,7 @@ Can't trust any code executed in the browser.
 
 Everything requires a request to the server and back.
 
-Full page loads can make interactions feel slower.
+Full page loads can make interactions _feel_ slower.
 
 ---
 
@@ -134,21 +126,19 @@ After that all templating/routing happens in JS in the browser.
 
 ---
 
-### Architecture
-
-MVC is less relevant.
-
 Database access is still on server (for security).
 
 But logic and templating is in the browser.
 
 ---
 
-### Architecture
-
 `fetch` JSON data from servers (either 3rd party or your own).
 
 Use that data to render dynamic DOM.
+
+---
+
+JSON is the source of truth.
 
 ---
 
@@ -338,7 +328,8 @@ or refuse to add features you want.
 
 ### Declarative UI
 
-Instead of telling the browser each step to render an element you _describe_ it (just like in HTML!)
+Instead of telling the browser each step to render an element you _describe_ it  
+(just like in HTML!)
 
 ---
 
@@ -404,13 +395,22 @@ You can group markup, styling & behaviour in a re-usable thing.
 ### Component model for easy code reuse
 
 ```jsx
-<Form>
-  <Field>
-    <Label>Date of birth</Label>
-    <DateInput>
-    <Error>
-  </Field>
-</Form>
+function App() {
+  return (
+    <Form>
+      <Field>
+        <Label>Name</Label>
+        <TextInput />
+        <Error />
+      </Field>
+      <Field>
+        <Label>Date of birth</Label>
+        <DateInput />
+        <Error />
+      </Field>
+    </Form>
+  );
+}
 ```
 
 ---
@@ -440,7 +440,31 @@ You can just update state and React will keep the UI in sync.
 
 ---
 
-### UI is a function of your state
+#### Pure functions
+
+```js
+let x = add(1, 2);
+```
+
+If `add` is "pure" we can be sure what `x` is every time we call it.
+
+We also know nothing else will be affected.
+
+---
+
+#### Apply the same idea to UI
+
+```js
+let state = { name: "oli", basket: [...] }
+let dom = app(state);
+// OR `ui = fn(state)`
+```
+
+We can know exactly what the DOM is for any given app state.
+
+---
+
+#### UI is a function of your state
 
 ```jsx
 return <button>The count is: {count}</button>;
@@ -448,16 +472,16 @@ return <button>The count is: {count}</button>;
 
 ---
 
-### Efficient DOM updates
+Instead of:
 
-React "diffs" the DOM when it re-renders your components.
+```
+When this thing happens, find this element and change this property to that value...
+```
 
-It only updates the DOM elements that have changed.
+we have:
 
-In a large UI this can have performance advantages.
+```
+Given the current state, this is what the UI should be
+```
 
----
-
-### Efficient DOM updates
-
-![](https://i.imgur.com/MK99CYt.gif)
+and React just makes it happen.
