@@ -4,113 +4,102 @@ title: Applicant Workshop Five
 
 # Application workshops
 
-## 5. Git and GitHub
-
----
-
-[An intro to git and GitHub](../intro-to-git)
-
----
-
-## Steps to set up your first repository
-
----
-
-1. Install git on your local machine
-
-See the [installation guide here](https://git-scm.com/book/en/v2/Getting-Started-Installing-Git)
-
----
-
-2. Go to the code on your computer
-   OR create the local repository and files
-
----
-
-3. Save your changes
-
-And check the status:
-
-```
-git status
-```
-
----
-
-4. Initialise your repository
-
-```
-git init
-```
-
----
-
-5. Stage your changes
-
-```
-git add .
-```
-
----
-
-6. Commit your changes
-
-```
-git commit -m "...what you did"
-```
-
----
-
-7. Create a remote repository
-
----
-
-8. Push your existing (local) repository to GitHub
-
----
-
-```
-git remote add origin <url>
-git branch -M main
-git push -u origin main
-```
-
----
-
-9. Deploy to GitHub Pages
-
----
-
-## The regular GitHub flow
-
----
-
-1. Make your changes
-
----
-
-2. Save your changes
-
----
-
-3. Stage your changes
-
-`git add .`
-
----
-
-4. Commit your changes
-
-`git commit -m "commit message"`
-
----
-
-5. Push your local changes to the remote
-
-`git push origin main`
+## 5. Arrays and Methods
 
 ---
 
 <!-- {.primary} -->
 
-## Questions?
+## Introduction
+
+---
+
+Arrays allow us to store multiple values within a variable
+
+---
+
+```js
+let myNumbers = [1, 2, 3, 5];
+
+let myStrings = ["g", "re", "g", "or"];
+
+let mixedVals = [true, 1, "12", 45];
+```
+
+---
+
+## Methods
+
+---
+
+What is a method?
+
+---
+
+A method is a **function** which is a **property** of **an object**.
+
+---
+
+### Examples
+
+---
+
+```js
+let myNumbers = [1, 2, 3, 5];
+
+myNumbers.push(14);
+
+console.log(myNumbers);
+```
+
+---
+
+```js
+let myNumbers = [1, 2, 3, 5];
+
+const example = myNumbers.pop();
+
+console.log(example);
+```
+
+---
+
+Which method would remove and return the 1st element?
+
+---
+
+Which method allows us to join two arrays together?
+
+---
+
+[`forEach()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)
+
+---
+
+[`map()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/map)
+
+---
+
+Higher order functions are functions which are given or return a function
+
+---
+
+Functions which we pass to a function (or method) to call later are called _callbacks_
+
+---
+
+```js
+function addTwo(num1, num2) {
+  return num1 + num2;
+}
+
+const addThree = (num1, num2, num3) => num1 + num2 + num3;
+```
+
+---
+
+[`reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/Reduce)
+
+---
+
+[`filter()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
