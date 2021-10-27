@@ -212,3 +212,7 @@ td {
   display: flex;
   align-items: center;
 }
+
+.highlight-line-active {
+  background-color: var(--primary);
+}
