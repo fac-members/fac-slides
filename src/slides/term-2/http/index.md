@@ -165,7 +165,7 @@ But it's nice to know how human-readable the HTTP format is.
 ### Request method
 
 <pre>
-<span style="background: var(--primary);">POST</span> https://facebook.com/signup HTTP/1.1
+<span class="highlight-line-active"">POST</span> https://facebook.com/signup HTTP/1.1
 ...
 </pre>
 
@@ -180,7 +180,7 @@ But it's nice to know how human-readable the HTTP format is.
 ### Request path
 
 <pre>
-POST <span style="background: var(--primary);">https://facebook.com/signup</span> HTTP/1.1
+POST <span class="highlight-line-active"">https://facebook.com/signup</span> HTTP/1.1
 ...
 </pre>
 
@@ -240,6 +240,7 @@ The path can be a full URL (`https://google.com/`) or just the "path" (`/thing.j
 <div class="url">
   <span data-label="protocol">https://</span>
   <span data-label="domain">google.com</span>
+  <span data-label="port">:443</span>
   <span data-label="path">/search</span>
   <span data-label="search">?query=cats</span>
 </div>
@@ -249,7 +250,7 @@ The path can be a full URL (`https://google.com/`) or just the "path" (`/thing.j
 ### Request protocol
 
 <pre>
-POST https://facebook.com/signup <span style="background: var(--primary);">HTTP/1.1</span>
+POST https://facebook.com/signup <span class="highlight-line-active"">HTTP/1.1</span>
 ...
 </pre>
 
@@ -263,7 +264,7 @@ E.g. this could be `HTTP/2` nowadays
 
 <pre>
 POST https://facebook.com/signup HTTP/1.1
-<span style="background: var(--primary);">User-Agent: Mozilla/5.0...
+<span class="highlight-line-active"">User-Agent: Mozilla/5.0...
 Accept: text/html</span>
 ...
 </pre>
@@ -280,7 +281,7 @@ E.g. `accept` defines what type of response the client understands
 ...
 Content-Type: application/json
 
-<span style="background: var(--primary);">{ "name": "leia organa" }</span>
+<span class="highlight-line-active">{ "name": "leia organa" }</span>
 </pre>
 
 Requests that _send_ information (e.g. `POST`s) should include that here.
@@ -308,7 +309,7 @@ HTTP responses have a very similar structure to requests.
 ### Response status code
 
 <pre>
-HTTP/1.1 <span style="background: var(--primary);">200 Ok</span>
+HTTP/1.1 <span class="highlight-line-active"">200 Ok</span>
 Content-Type: text/html
 Content-Length 420
 
@@ -336,7 +337,7 @@ HTTP/1.1 200 Ok
 Content-Type: text/html
 Content-Length 420
 
-<span style="background: var(--primary);">&lt;!DOCTYPE html>
+<span class="highlight-line-active">&lt;!DOCTYPE html>
 &lt;html>
 ...</span>
 </pre>
@@ -399,7 +400,7 @@ The browser won't do anything automatically—your JS is responsible for updatin
 
 Try making a request yourself using the `curl` command:
 
-```bash
+```bash/0
 $ curl --verbose google.com
 
 *   Trying 2a00:1450:400e:807::200e...
