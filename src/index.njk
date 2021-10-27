@@ -9,9 +9,11 @@
     <title>FAC Slides</title>
     {% if config.env == "development" %}
       <link href="/assets/css/themes/fac.css" rel="stylesheet">
+      <link href="/assets/css/home.css" rel="stylesheet">
     {% else %}
       {% set styles %}
         {% include "assets/css/themes/fac.css" %}
+        {% include "assets/css/home.css" %}
       {% endset %}
       <style>
         {{ styles | cssmin | safe }}
@@ -20,13 +22,58 @@
 
   </head>
   <body>
-    <h1>Slide index</h1>
-    <ul>
-      {% for slideshow in collections.slides %}
-        <li>
-          <a href="{{slideshow.data.page.url}}">{{slideshow.data.title}}</a>
-        </li>
+    <form role="search" hidden>
+        <svg width="32" height="32" viewBox="0 0 20 20" fill="currentColor">
+          <path d="M9 9a2 2 0 114 0 2 2 0 01-4 0z" />
+          <path fill-rule="evenodd" d="M10 18a8 8 0 100-16 8 8 0 000 16zm1-13a4 4 0 00-3.446 6.032l-2.261 2.26a1 1 0 101.414 1.415l2.261-2.261A4 4 0 1011 5z" clip-rule="evenodd" />
+        </svg>
+      <input type="search" id="search" aria-label="Filter by title" placeholder="Filter by title" autofocus>
+    </form>
+    <main>
+      <h1>All slides</h1>
+      {% for name, collection in collections | dictsort %}
+        {% if name !== "all" and name !== "slides" %}
+          <section>
+            <h2>{{ name | replace("-", " ") | capitalize }}</h2>
+            <ul role="list" class="slides">
+              {% for slideshow in collection %}
+                {% if slideshow.data.private !== true %}
+                  <li class="slide">
+                    <a class="row" href="{{slideshow.data.page.url}}">
+                      <svg viewBox="0 0 20 20" fill="currentColor" width="20" height="20">
+                        <path fill-rule="evenodd" d="M4 4a2 2 0 012-2h4.586A2 2 0 0112 2.586L15.414 6A2 2 0 0116 7.414V16a2 2 0 01-2 2H6a2 2 0 01-2-2V4zm2 6a1 1 0 011-1h6a1 1 0 110 2H7a1 1 0 01-1-1zm1 3a1 1 0 100 2h6a1 1 0 100-2H7z" clip-rule="evenodd" />
+                      </svg>
+                      <span>{{slideshow.data.title}}</span>
+                    </a>
+                  </li>
+                {% endif %}
+              {% endfor %}
+            </ul>
+          </section>
+        {% endif %}
       {% endfor %}
-    </ul>
+    </main>
+    <script>
+      const form = document.querySelector("[role='search']");
+      const h1 = document.querySelector("h1");
+      const input = document.querySelector("#search");
+      const slides = document.querySelectorAll(".slide");
+
+      form.removeAttribute("hidden");
+
+      input.addEventListener("input", event => {
+        const search = event.target.value.toLowerCase();
+        h1.textContent = search ? `Slides matching "${search}"` : "All slides";
+        slides.forEach(slide => {
+          const title = slide.textContent.toLowerCase();
+          if (title.includes(search)) {
+            slide.removeAttribute("hidden");
+          } else {
+            slide.setAttribute("hidden", "");
+          }
+        })
+      })
+
+    </script>
   </body>
 </html>

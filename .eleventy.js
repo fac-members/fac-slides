@@ -12,8 +12,9 @@ module.exports = (config) => {
   // in prod we inline CSS/JS into the HTML files
   if (process.env.ELEVENTY_ENV === "development") {
     config.addPassthroughCopy({ "src/_includes/assets": "assets" });
+  } else {
+    config.addPassthroughCopy({ "src/_includes/assets/fonts": "assets/fonts" });
   }
-  config.addPassthroughCopy({ "src/_includes/assets/fonts": "assets/fonts" });
 
   // passthrough any images included in slides
   //so they can be referenced as relative URLs

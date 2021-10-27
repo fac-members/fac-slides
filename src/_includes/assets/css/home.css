@@ -1,0 +1,86 @@
+body {
+  margin: 0;
+}
+
+main {
+  max-width: 120ch;
+  margin: 0 auto;
+  padding: 8ch 4ch;
+}
+
+h1,
+h2 {
+  margin: 0;
+  line-height: 1;
+  text-decoration: none;
+}
+
+[role="search"] {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1ch;
+  padding: 4ch;
+  background-color: var(--bg-dim);
+  color: var(--text-dim);
+}
+
+[role="search"]:focus-within {
+  color: inherit;
+}
+
+input[type="search"] {
+  display: block;
+  width: 100%;
+  max-width: 40ch;
+  border: 0;
+  padding: 1ch;
+  background-color: var(--bg-light);
+  font: inherit;
+}
+
+:focus {
+  outline: 0.25rem solid var(--primary);
+  outline-offset: 1px;
+}
+
+[role="list"] {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+section {
+  margin-top: 4ch;
+}
+
+.slides {
+  margin-top: 1.5ch;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1.5ch;
+  font-size: 1.125rem;
+}
+
+.slide a {
+  padding: 1rem;
+  text-decoration: none;
+  background-color: var(--bg-dim);
+  color: var(--text-dim);
+  transition: color 0.2s;
+  gap: 0.5ch;
+}
+
+.slide a:hover,
+.slide a:focus {
+  color: inherit;
+}
+
+.slide a svg {
+  transition: transform 0.2s;
+}
+
+.slide a:hover svg,
+.slide a:focus svg {
+  transform: scale(1.1);
+}
