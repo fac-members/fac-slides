@@ -1,8 +1,8 @@
 ---
-title: Full-stack app
+title: Full-stack apps
 ---
 
-You always need a server to provide an HTML page.
+# Full-stack apps
 
 ---
 
@@ -22,7 +22,7 @@ Sometimes your data is static (doesn't change much).
 
 You can get away with writing the HTML in advance.
 
-Your server just responds with the static `.html` file.
+Your server (or Netlify's) just responds with the static `.html` file.
 
 ---
 
@@ -157,7 +157,7 @@ export default user;
 
 ---
 
-This les you build an API route to fetch JSON from.
+This lets you build an API route to fetch JSON from.
 
 Simpler than having to create and deploy a whole separate server.
 
@@ -171,17 +171,20 @@ Next supports both server-rendered pages _and_ static
 
 ---
 
-A page component can export a `getStaticProps` or `getServerSideProps` function.
+Page components have two options for getting data:
 
-These are both places to generate any data your component needs (e.g. fetch from your database).
+1. export a `getStaticProps` function, or
+2. export a `getServerSideProps` function
+
+This is where you e.g. query your database.
 
 ---
 
 `getStaticProps` marks the page as static.
 
-Next will build this to HTML when you deploy your site.
+Next will build this to an .html file when you deploy your site.
 
-That way the server already has the HTML file to send.
+Your server avoids making a dynamic route for this page.
 
 ---
 
@@ -225,6 +228,18 @@ This makes data-fetching simpler and safer.
 Code used in here will only run on the server.
 
 So it's safe to use secrets, talk to the DB etc.
+
+---
+
+**Warning**: `getStaticProps` is _not_ a good default.
+
+Consider this an optimisation—always start with `getServerSideProps` until you're _sure_ this page's data never changes.
+
+---
+
+E.g. if you use `getStaticProps` for a DB query.
+
+When the DB is updated while the app is running you'll see old data until the app is re-deployed.
 
 ---
 
