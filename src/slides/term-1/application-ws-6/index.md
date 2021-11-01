@@ -129,4 +129,4 @@ We'll ask everyone to send us their GitHub and freeCodeCamp profiles this week
 
 ---
 
-We are updating our application process this time around
+We are updating our application process
