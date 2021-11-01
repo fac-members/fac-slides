@@ -114,3 +114,19 @@ git push -u origin main
 <!-- {.primary} -->
 
 ## Questions?
+
+---
+
+## Uploading your weekly prompts
+
+---
+
+From this week on, you'll be uploading your weekly prompts to GitHub
+
+---
+
+We'll ask everyone to send us their GitHub and freeCodeCamp profiles this week
+
+---
+
+We are updating our application process
