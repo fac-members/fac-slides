@@ -105,7 +105,7 @@ test("add() works for positive numbers", () => {
 
 Can also provide better feedback than just logs:
 
-![](uvu.gif)
+![](../term-2/testing/uvu.gif)
 
 ---
 
@@ -170,7 +170,7 @@ It's like automated-manual-testing.
 
 ---
 
-![](cypress.png)
+![](../term-2/testing/cypress.png)
 
 ---
 
@@ -244,7 +244,7 @@ Good tests cover edge-cases that are tedious to check manually.
 
 However don't forget to test the "happy path"!
 
-> <cite><img width="80" height="80" src="brenankeller.jpg" alt=""><strong>Brenan Keller</strong>@brenankeller</cite>
+> <cite><img width="80" height="80" src="../term-2/testing/brenankeller.jpg" alt=""><strong>Brenan Keller</strong>@brenankeller</cite>
 >
 > A QA engineer walks into a bar. Orders a beer. Orders 0 beers. Orders 99999999999 beers. Orders a lizard. Orders -1 beers. Orders a ueicbksjdhd.
 >
