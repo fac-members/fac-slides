@@ -153,6 +153,7 @@ blockquote:not([class])::before {
   display: grid;
   grid-template-columns: 80px auto;
   grid-template-rows: auto auto;
+  column-gap: 0.25rem;
   font-style: normal;
 }
 
