@@ -104,3 +104,7 @@ https://www.foundersandcoders.com/tech-for-better
 Email me at:
 
 gregor@foundersandcoders.com
+
+---
+
+Please join us in celebrating all of our teams' successes and congratulating our Product Managers on completing the programme! 🎉
