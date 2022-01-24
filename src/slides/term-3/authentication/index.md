@@ -159,7 +159,7 @@ So how do we actually track whether a user is logged in?
 The simplest way is to put all the info you need into cookies.
 
 ```
-set-cookie: userid={"id":"1","name":"oliverjam","role":"admin"}
+set-cookie: user={"id":"1","name":"oliverjam","role":"admin"}
 ```
 
 ---
