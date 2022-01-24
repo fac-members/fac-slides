@@ -318,7 +318,7 @@ The web has been plagued by serious breaches.
 
 ---
 
-![Screenshot of all the breaches listed on haveibeenpwned.com](pwned.png)
+![Screenshot of all the breaches listed on haveibeenpwned.com](/slides/term-3/authentication/pwned.png)
 
 ---
 
