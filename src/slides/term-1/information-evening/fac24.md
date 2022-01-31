@@ -1,5 +1,6 @@
 ---
 title: Information Evening
+private: true
 ---
 
 # <img width="651" height="284" src="https://facresources.com/assets/logos/fac_logo.png" alt="Founders and Coders">
