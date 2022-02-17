@@ -49,10 +49,10 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 - Qualitative user research
 
-  - Interviews
+  - User Interviews
 
 - Quantitative user research
-  - e.g. collective expressions of interest via a prominent link on your website home page to a sign up page
+  - Collecting survey responses
 
 ---
 
@@ -67,27 +67,26 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
+- What have we identified from conducting research?
+- What does the user journey look like?
 - How might we meet the user need?
-- Is the proposed product or service feasible to build? (i.e. is it within the competence of your team)
-- Is it a viable idea for your organisation? (i.e. does the potential value to users justify the cost of development?)
-- What might be the unintended consequences of this approach? ("consequence scanning")
-- What data do we need to collect or content do we need to create before we can proceed with this approach?
+- What other solutions might give us a direction for our product?
+- What might our solution look like?
 
 ---
 
 ### Primary activities
 
-- Resource planning
-- Storyboarding
-- Data collection and content creation
+- Idea generation
+- Sketching
+- Decision making
 
 ---
 
 ### Primary outputs
 
-- Initial commitment of time and resources
+- A clear User Journey
 - Low-fidelity prototypes
-- Initial catalogue of content and data
 
 ---
 
@@ -101,8 +100,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ### Primary activities
 
-- Prototyping
-- One-on-one stakeholder acceptance
+- High-fidelity prototyping
 
 ---
 
@@ -156,3 +154,7 @@ Be prepared to repeat the **Define**, **Prototype** and **Test** phases until yo
 - [The Design Sprint](https://www.gv.com/sprint/) by Google Ventures
 - [A study of the design process](<https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf>) which describes the **_Diverge, Converge_** pattern used by Google Ventures
 - [Rapid Prototyping, Getting Good Fast](https://vimeo.com/374139411) a talk recorded for us by Sara Kimmich
+
+---
+
+## Discovery
