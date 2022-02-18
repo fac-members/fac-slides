@@ -14,6 +14,24 @@ title: The Design Sprint
 
 ---
 
+## Agile software development
+
+Agile product development is an iterative process rooted in user feedback and adaptation.
+
+Product teams reduce waste through early user validation.
+
+---
+
+We focus on the user first and throughout.
+
+Services we design must respond to the needs of the user.
+
+---
+
+Before we embark on building a product, we spend time conjuring ideas through a _Design Sprint_.
+
+---
+
 The Design Sprint as most people understand it comes from the [Google Ventures Design Sprint](https://www.gv.com/sprint/).
 
 ---
@@ -52,6 +70,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
   - User Interviews
 
 - Quantitative user research
+
   - Collecting survey responses
 
 ---
@@ -59,6 +78,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 ### Primary outputs
 
 - Problem statement
+- User personas
 - Research data
 
 ---
@@ -70,7 +90,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 - What have we identified from conducting research?
 - What does the user journey look like?
 - How might we meet the user need?
-- What other solutions might give us a direction for our product?
+- What can give us inspiration for our product?
 - What might our solution look like?
 
 ---
@@ -114,7 +134,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
-What do users think of it?
+What do users think of the prototype?
 
 ---
 
@@ -143,7 +163,7 @@ Be prepared to repeat the **Define**, **Prototype** and **Test** phases until yo
 
 ---
 
-(Although in our case, we are constrained by the course timetable, so scope for significant product redefinition after the end of this week will be limited.)
+(Although in our case, we are constrained by the course timetable, so we won't have time to redefine)
 
 ---
 
@@ -157,4 +177,63 @@ Be prepared to repeat the **Define**, **Prototype** and **Test** phases until yo
 
 ---
 
-## Discovery
+# Discovery
+
+---
+
+The Discovery workshop helps examine our understanding of the user and the problem(s) they are facing
+
+---
+
+Our key activities:
+
+- Defining a problem statement
+- Creating user personas
+- Writing a user research script
+- Consequence scanning
+
+---
+
+## Problem statements
+
+- Who is our user?
+- What is their need?
+- How will responding to that need benefit them?
+
+---
+
+## User Personas
+
+Fictional representations of our user group and the diversity within it
+
+---
+
+## Research scripting
+
+A guide for questions to ask during a user interview. This gives structure to the interview - going off script is encouraged
+
+---
+
+## Consequence scanning
+
+What might be the intended and unintended, negative and positive results from responding to this user need?
+
+---
+
+## User Research
+
+---
+
+User interviews, using a script as a guide
+
+---
+
+Ask open-ended questions and welcome critical feedback
+
+---
+
+Avoid confirming biases, instead validated or refute them
+
+---
+
+Give the user space to speak and give feedback
