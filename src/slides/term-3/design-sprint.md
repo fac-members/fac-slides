@@ -14,6 +14,24 @@ title: The Design Sprint
 
 ---
 
+## Agile software development
+
+Agile product development is an iterative process rooted in user feedback and adaptation.
+
+Product teams reduce waste through early user validation.
+
+---
+
+We focus on the user first and throughout.
+
+Services we design must respond to the needs of the user.
+
+---
+
+Before we embark on building a product, we spend time conjuring ideas through a _Design Sprint_.
+
+---
+
 The Design Sprint as most people understand it comes from the [Google Ventures Design Sprint](https://www.gv.com/sprint/).
 
 ---
@@ -49,16 +67,18 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 - Qualitative user research
 
-  - Interviews
+  - User Interviews
 
 - Quantitative user research
-  - e.g. collective expressions of interest via a prominent link on your website home page to a sign up page
+
+  - Collecting survey responses
 
 ---
 
 ### Primary outputs
 
 - Problem statement
+- User personas
 - Research data
 
 ---
@@ -67,27 +87,26 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
+- What have we identified from conducting research?
+- What does the user journey look like?
 - How might we meet the user need?
-- Is the proposed product or service feasible to build? (i.e. is it within the competence of your team)
-- Is it a viable idea for your organisation? (i.e. does the potential value to users justify the cost of development?)
-- What might be the unintended consequences of this approach? ("consequence scanning")
-- What data do we need to collect or content do we need to create before we can proceed with this approach?
+- What can give us inspiration for our product?
+- What might our solution look like?
 
 ---
 
 ### Primary activities
 
-- Resource planning
-- Storyboarding
-- Data collection and content creation
+- Idea generation
+- Sketching
+- Decision making
 
 ---
 
 ### Primary outputs
 
-- Initial commitment of time and resources
+- A clear User Journey
 - Low-fidelity prototypes
-- Initial catalogue of content and data
 
 ---
 
@@ -101,8 +120,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ### Primary activities
 
-- Prototyping
-- One-on-one stakeholder acceptance
+- High-fidelity prototyping
 
 ---
 
@@ -116,7 +134,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
-What do users think of it?
+What do users think of the prototype?
 
 ---
 
@@ -145,7 +163,7 @@ Be prepared to repeat the **Define**, **Prototype** and **Test** phases until yo
 
 ---
 
-(Although in our case, we are constrained by the course timetable, so scope for significant product redefinition after the end of this week will be limited.)
+(Although in our case, we are constrained by the course timetable, so we won't have time to redefine)
 
 ---
 
@@ -156,3 +174,66 @@ Be prepared to repeat the **Define**, **Prototype** and **Test** phases until yo
 - [The Design Sprint](https://www.gv.com/sprint/) by Google Ventures
 - [A study of the design process](<https://www.designcouncil.org.uk/sites/default/files/asset/document/ElevenLessons_Design_Council%20(2).pdf>) which describes the **_Diverge, Converge_** pattern used by Google Ventures
 - [Rapid Prototyping, Getting Good Fast](https://vimeo.com/374139411) a talk recorded for us by Sara Kimmich
+
+---
+
+# Discovery
+
+---
+
+The Discovery workshop helps examine our understanding of the user and the problem(s) they are facing
+
+---
+
+Our key activities:
+
+- Defining a problem statement
+- Creating user personas
+- Writing a user research script
+- Consequence scanning
+
+---
+
+## Problem statements
+
+- Who is our user?
+- What is their need?
+- How will responding to that need benefit them?
+
+---
+
+## User Personas
+
+Fictional representations of our user group and the diversity within it
+
+---
+
+## Research scripting
+
+A guide for questions to ask during a user interview. This gives structure to the interview - going off script is encouraged
+
+---
+
+## Consequence scanning
+
+What might be the intended and unintended, negative and positive results from responding to this user need?
+
+---
+
+## User Research
+
+---
+
+User interviews, using a script as a guide
+
+---
+
+Ask open-ended questions and welcome critical feedback
+
+---
+
+Avoid confirming biases, instead validated or refute them
+
+---
+
+Give the user space to speak and give feedback
