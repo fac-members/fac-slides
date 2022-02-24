@@ -30,7 +30,7 @@ You can start the process after 12 months of apprenticeship.
 
 Starting your assessment period is known as "EPA gateway".
 
-This should generally take under 6 months.
+The assessment itself will take about 12 weeks.
 
 ---
 
@@ -66,6 +66,12 @@ When you enter EPA gateway you must submit:
 - your portfolio
 
 So you should only start assessment when these are ready.
+
+---
+
+Your assessor will sign off your project summary within 2 weeks.
+
+You then have 9 weeks to complete your project.
 
 ---
 
@@ -115,11 +121,11 @@ They will ask at least 12 questions about the project to assess your learnings.
 
 **Your portfolio is not directly assessed**.
 
-It is used as the basis for the "professional discussion", which is what determines your grade.
+It is used as the basis for the "professional discussion", which determines your grade.
 
 ---
 
-The portfolio should contain 10 pieces of evidence.
+The portfolio should contain (up to) 10 pieces of evidence.
 
 Each should relate to at least one of the required knowledge, skills or behaviours.
 
@@ -130,18 +136,20 @@ The portfolio should contain:
 - evidence of work projects completed
 - written accounts of activities
 - photographic evidence and work products
-- work instructions
-- technical reports
 - progress review documentation
-- witness testimonies
 - feedback from colleagues
 
 ---
 
-The porfolio should **not** contain:
+In plain English this means:
 
-- reflective accounts
-- self-assessments
+1. Write up some of your work projects (or even TFB)
+1. Describe all the ways **you** met the required knowledge, skills & behaviours
+1. Include code samples, screenshots of plans/issues/stories, architecture diagrams etc
+
+---
+
+You can probably cover most of the KSBs with only a few projects.
 
 ---
 
