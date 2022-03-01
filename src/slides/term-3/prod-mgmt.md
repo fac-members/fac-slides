@@ -33,7 +33,7 @@ _"The CEO of the product"_
 
 ---
 
-The key to their role is holding the vision of the Product and ensure that the team is able to make progress towards that vision.
+The key to their role is holding the vision of the Product and ensuring that the product team is able to make progress towards that vision.
 
 ---
 
@@ -65,11 +65,11 @@ A Product Owner is the point of contact with the development team. The developme
 
 ---
 
-The Product Owner supplies all content and copy for the product, supports in setting the priorities of the product, and supports prioritising a product backlog.
+The Product Owner supplies all content and copy for the product, supports in setting the priorities of the product, and supports prioritisation of the product backlog.
 
 ---
 
-All good **_product managers_** should be good at playing the role of **product owner**. It is one of their 6 key competencies.
+All good **product managers** should be good at playing the role of **product owner**. It is one of their 6 key competencies.
 
 ---
 
