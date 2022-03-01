@@ -33,7 +33,7 @@ _"The CEO of the product"_
 
 ---
 
-The only role in the product team that should not be outsourced.
+The key to their role is holding the vision of the Product and ensure that the team is able to make progress towards that vision.
 
 ---
 
@@ -45,19 +45,27 @@ Their task is to spot ideas that won't work early in the process, reduce the ris
 
 ---
 
-There is a difference between the roles of **_product manager_** and **product owner**.
+There is a difference between the roles of **product manager** and **product owner**.
 
 ---
 
 #### Product manager
 
-A role that didn't really exist a few years ago, but is increasingly used in job adverts when a company is looking for somebody who is familiar with modern methods of project management, particularly in the area of software development.
+Being Product Manager involves leading on managing the development of a digital product. This role is typically used to describe someone who is familiar with modern methods of project management, particularly in the area of software development.
 
 ---
 
 #### Product owner
 
-The single source of information for a product development team about the product they are trying to build. This term comes from the Scrum(TM) method that is very widely used in software development and that we use at Founders and Coders.
+The Product Owner is the single source of information for a product development team about the product they are trying to build. This term comes from the _Scrum_ method that is widely used in software development and that we use at Founders and Coders.
+
+---
+
+A Product Owner is the point of contact with the development team. The development team are lead by their Scrum Facilitator.
+
+---
+
+The Product Owner supplies all content and copy for the product, supports in setting the priorities of the product, and supports prioritising a product backlog.
 
 ---
 
@@ -69,74 +77,39 @@ All good **_product managers_** should be good at playing the role of **product 
 
 ---
 
-#### 1. Objective setting
+#### 1. Clarity of Vision
 
-and outcome measurement
-
----
-
-_Clarity of vision_
+Set business objectives and measure outcomes
 
 ---
 
 #### 2. Product development
 
-the _“product owner”_ role
-
----
-
-_Responsiveness_
+Being a responsive, empathetic and well-organised Product Owner
 
 ---
 
 #### 3. Data analysis
 
-both collecting and interpreting data
-
----
-
-_Attention to detail_
+Having attention to detail when collecting and interpreting data
 
 ---
 
 #### 4. User knowledge
 
-professional experience, user research, user testing
-
----
-
-_Empathy_
+Having empathy and experience working with a user group
 
 ---
 
 #### 5. Organisational knowledge
 
-and stakeholder engagement
-
----
-
-_Authority_
+Understanding of (and authority to act on) the needs, practices and objectives of the organisation
 
 ---
 
 #### 6. Domain expertise
 
-and knowledge of the sector
-
----
-
-_Wisdom_
-
----
-
-### RECAP: Competencies
-
-1. Objective setting
-2. Product development
-3. Data analysis
-4. User knowledge
-5. Organisational knowledge
-6. Domain expertise
+Knowledge of the sector they are working within
 
 ---
 
