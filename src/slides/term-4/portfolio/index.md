@@ -91,7 +91,7 @@ Build your portfolio throughout your apprenticeship.
 
 ---
 
-[FAC standard](https://fac-standard.netlify.app/)
+https://fac-standard.netlify.app/
 
 ---
 
