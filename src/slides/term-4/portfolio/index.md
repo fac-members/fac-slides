@@ -75,7 +75,7 @@ The portfolio should contain:
 
 ---
 
-In plain English this means writing documenation which:
+In plain English this means writing documentation which:
 
 1. Summarises each of your work projects
 1. Describes all the ways **you** met the required knowledge, skills & behaviours
