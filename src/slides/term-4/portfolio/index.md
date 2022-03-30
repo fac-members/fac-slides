@@ -110,3 +110,25 @@ Keep a record of the time you spend learning, as this will be submitted to the E
 ---
 
 ## Questions
+
+---
+
+## Project
+
+---
+
+The aim of the project is to research and develop a software solution to meet a specification provided by a customer or other stakeholder.
+
+---
+
+The project should:
+
+- meet the needs of your employer
+- be relevant to your role
+- demonstrate the required knowledge, skills & behaviours
+
+---
+
+The project is submitted in the form of a 4500 word report.
+
+It has a set structure with sections for each part of the software development lifecycle.
