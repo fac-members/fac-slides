@@ -10,12 +10,13 @@ The training is almost over 🥲 and you'll be joining your employers from Monda
 
 ---
 
-| Date    | Event                  |
-| ------- | ---------------------- |
-| 10/1/22 | Start training         |
-| 4/4/22  | Start working          |
-| 9/1/23  | Enter EPA gateway      |
-| 9/7/23  | Latest completion date |
+| Date    | Event                              |
+| ------- | ---------------------------------- |
+| 10/1/22 | Start training                     |
+| 4/4/22  | Start working                      |
+| 10/1/23 | Earliest date to enter EPA gateway |
+| 10/4/23 | Target completion date             |
+| 9/7/23  | Latest completion date             |
 
 ---
 
@@ -37,15 +38,7 @@ So you should only start assessment when these are ready.
 
 Founders and Coders will support you throughout the lead up and during EPA gateway. We'll hold 'tripartite reviews' between you, your employer, and us.
 
----
-
-### Review schedule
-
-| Month     | Topic            |
-| --------- | ---------------- |
-| May       | Portfolio        |
-| September | Project          |
-| December  | Entering gateway |
+These will be (roughly) every 3 months.
 
 ---
 
@@ -65,25 +58,11 @@ Each should relate to at least one of the required knowledge, skills or behaviou
 
 ---
 
-The portfolio should contain:
-
-- evidence of work projects completed
-- written accounts of activities
-- photographic evidence and work products
-- progress review documentation
-- feedback from colleagues
-
----
-
-In plain English this means writing documentation which:
+Evidence is documentation which:
 
 1. Summarises each of your work projects
 1. Describes all the ways **you** met the required knowledge, skills & behaviours
 1. Includes code samples, screenshots of plans/issues/stories, architecture diagrams etc
-
----
-
-You can probably cover most of the KSBs with only a few projects.
 
 ---
 
@@ -109,10 +88,6 @@ Keep a record of the time you spend learning, as this will be submitted to the E
 
 ---
 
-## Questions
-
----
-
 ## Project
 
 ---
@@ -129,6 +104,14 @@ The project should:
 
 ---
 
-The project is submitted in the form of a 4500 word report.
+The project is submitted in the form of a 4,500 word report.
 
 It has a set structure with sections for each part of the software development lifecycle.
+
+---
+
+Think of it as an extended version of your TFB documentation
+
+---
+
+## Questions
