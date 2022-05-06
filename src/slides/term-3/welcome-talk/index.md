@@ -36,7 +36,7 @@ and Congratulations! 🎉
 
 ## 2015
 
-- FAC moves from Camden to Palmers Road in Bethnal Green
+- FAC moves to Palmers Road in Bethnal Green
 
 ---
 
@@ -86,7 +86,7 @@ and Congratulations! 🎉
 
 ---
 
-## FAC22 Team
+## FAC Team
 
 Reuben (FAC17)
 
@@ -102,7 +102,7 @@ Gregor (FAC17
 
 All of FAC23 💖
 
-![FAC23 on a jolly Friday](fac23.png)
+![FAC23 on a jolly Friday](../term-3/welcome-talk/fac23.png)
 
 ---
 
@@ -132,7 +132,7 @@ All of FAC23 💖
 
 <!-- {.primary} -->
 
-## Pastoral Care
+## Pastoral Support
 
 ---
 
