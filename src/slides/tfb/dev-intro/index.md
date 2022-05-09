@@ -60,10 +60,10 @@ At the end of the programme, you'll present your product at the Tech for Better 
 ---
 
 - A clear vision for the product
-- They listen and are communicative
+- They listen and collaborate
 - They know their user group
-- Can make important decisions
-- Enthusiasm
+- Decisive, but flexible
+- Enthusiastic
 
 ---
 
