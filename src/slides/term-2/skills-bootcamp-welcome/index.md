@@ -8,7 +8,7 @@ title: Skills Bootcamp welcome talk
 
 <!-- {.primary} -->
 
-## Welcome to the Spring 2022 Skills Bootcamp
+## Welcome to the Summer 2022 Skills Bootcamp
 
 and Congratulations! 🎉
 
@@ -21,8 +21,6 @@ Reuben
 ### Core team
 
 Dan - Employment
-
-Yvonne - Operations
 
 Oli - Developer in Residence
 
@@ -92,9 +90,11 @@ Attend every session, unless you've let us know in advance
 
 ---
 
-Work together during workshops, respect other people's time outside of these
+Finish every workshop
 
-You might be working on a project together but you're not expected to pair synchronously
+---
+
+Work together during workshops, respect others' time outside of these
 
 ---
 
