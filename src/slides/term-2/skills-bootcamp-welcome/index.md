@@ -78,6 +78,47 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
+<!-- {.primary} -->
+
+## Safeguarding
+
+---
+
+**Safeguarding** means protecting children, young people and adults at risk from abuse and neglect.
+
+---
+
+**Prevent** is a government policy intended to safeguard people and communities from the threat of terrorism.
+
+---
+
+Safeguarding is about being vigilant.
+
+If you see or hear anything that concerns you while studying here please use our reporting form to tell us about it.
+
+---
+
+Doing so will allow us to build up a case file of reported incidents that will help us be better prepared to identify and respond to potential issues in future.
+
+---
+
+Our safeguarding team is:
+
+- **Designated Safeguarding Officer**: Dan Sofer
+- **Deputy Designated Safeguarding Officer**: Gregor Thomson
+
+---
+
+Our reporting form is here:
+
+https://airtable.com/shr3X3AAoT8JJwyb7
+
+You can read more about safeguarding in the Coursebook:
+
+https://learn.foundersandcoders.com/course/handbook/safeguarding/
+
+---
+
 ## Expectations
 
 ---
