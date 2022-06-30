@@ -6,21 +6,7 @@ title: Portfolio
 
 ---
 
-The training is almost over 🥲 and you'll be joining your employers from Monday
-
----
-
-| Date    | Event                              |
-| ------- | ---------------------------------- |
-| 10/1/22 | Start training                     |
-| 4/4/22  | Start working                      |
-| 10/1/23 | Earliest date to enter EPA gateway |
-| 10/4/23 | Target completion date             |
-| 9/7/23  | Latest completion date             |
-
----
-
-You will be assessed in two ways:
+To complete your apprenticeship, you'll be assessed in two ways:
 
 - Project (“Work-based project with questioning”)
 - Portfolio (“Professional discussion underpinned by portfolio”)
@@ -39,6 +25,15 @@ So you should only start assessment when these are ready.
 Founders and Coders will support you throughout the lead up and during EPA gateway. We'll hold 'tripartite reviews' between you, your employer, and us.
 
 These will be (roughly) every 3 months.
+
+---
+
+| Date    | Event                              |
+| ------- | ---------------------------------- |
+| 9/5/22  | Start apprenticeship               |
+| 1/8/22  | Join employer FT                   |
+| 9/5/23  | Earliest date to enter EPA gateway |
+| 8/11/23 | Latest completion date             |
 
 ---
 
