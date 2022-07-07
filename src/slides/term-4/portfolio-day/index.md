@@ -1,5 +1,5 @@
 ---
-title: Portfolio
+title: Portfolio Day
 ---
 
 # Portfolio Day
@@ -26,16 +26,15 @@ So you should only start assessment when these are ready.
 
 Founders and Coders will support you throughout the lead up and during EPA gateway. We'll hold 'tripartite reviews' between you, your employer, and us.
 
-These will be (roughly) every 3 months.
+These will be (roughly) every 4 months.
 
 ---
 
-| Date    | Event                              |
-| ------- | ---------------------------------- |
-| 9/5/22  | Start apprenticeship               |
-| 1/8/22  | Join employer FT                   |
-| 9/5/23  | Earliest date to enter EPA gateway |
-| 8/11/23 | Latest completion date             |
+| Activity                           | FAC22    | FAC23    |
+| ---------------------------------- | -------- | -------- |
+| Start apprenticeship               | 27/09/21 | 10/01/22 |
+| Earliest date to enter EPA gateway | 27/09/22 | 10/01/23 |
+| Latest completion date             | 26/03/23 | 09/07/23 |
 
 ---
 
@@ -71,6 +70,26 @@ https://fac-standard.netlify.app/
 
 ---
 
+## Additional guidance
+
+---
+
+Focus on **WHAT** you did and **How** you did it.
+
+**WHO** is important too - but your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, our, us**.
+
+---
+
+Put together a narrative of what you did on the project, and use supporting evidence.
+
+Mapping to KSBs comes after documenting, and in a separate document.
+
+---
+
+## Questions
+
+---
+
 ## Learning diary
 
 ---
@@ -81,7 +100,15 @@ Alongside your work, you'll spend time learning _on the job_
 
 ---
 
-Keep a record of the time you spend learning, as this will be submitted to the ESFA on completion of your apprenticeship
+Keep a record of what you learn as you go, you're likely to encounter new technologies and working with different stacks throughout the apprenticeship
+
+---
+
+Your manager or mentor might write a learning plan with you
+
+---
+
+You may also record the time you spend learning. This can be submitted to the ESFA on completion of your apprenticeship
 
 ---
 
@@ -112,3 +139,17 @@ Think of it as an extended version of your TFB documentation
 ---
 
 ## Questions
+
+---
+
+## Today
+
+---
+
+- 10:00 - Intro talk
+- 10:30 - Work on your Portfolio and mapping document
+- 11:15 - Peer review
+- 11:45 - Q & A
+- 12:30 - Lunch 🥗 🥙
+- 14:00 - Working on Portfolios / Individual reviews
+- 17:00 - End / Pub 🍻
