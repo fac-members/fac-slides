@@ -11,9 +11,9 @@ title: Summer Showcase '22
 ## This evening
 
 - Welcome
-- **Economy**
 - **Streetcred**
 - **Ali's Learning App**
+- **Economy**
 
 ---
 
@@ -59,9 +59,9 @@ These products are what we'll see showcased this evening
 
 ---
 
-1. **Economy**
 1. **Streetcred**
 1. **Ali's Learning App**
+1. **Economy**
 
 ---
 
