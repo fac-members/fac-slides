@@ -26,7 +26,7 @@ The iterative approach to software development
 
 ### Scrum(TM)
 
-A widely-used and agile software development method, that uses some of the terms below
+A widely-used and agile software development method, that introduces the following terms
 
 ---
 
@@ -62,27 +62,9 @@ All uncompleted user stories
 
 ---
 
-### Sprint backlog
-
-A prioritised backlog of all the user stories that we estimate will be completed in the next sprint
-
----
-
-### Sprint planning
-
-Where the team reprioritises user stories and agrees the next sprint backlog
-
----
-
 ### Sprint retrospective
 
 Stop, go, continue
-
----
-
-### Sprint review
-
-Where the team compares their estimate with the actual number of user stories completed
 
 ---
 
@@ -93,30 +75,22 @@ which you are going to use to track your project
 
 ---
 
+### Kanban columns
+
+- `backlog`
+- `doing`
+- `done`
+
+---
+
 ### RECAP
 
 - Scrum(TM)
 - Sprint
 - User story
-- Backlog, sprint backlog
-- Sprint planning, retrospective and review
+- Backlog
+- Sprint retrospective
 - Project board (_Kanban_)
-
----
-
-## Labels
-
-To be added to issues
-
----
-
-### Kanban
-
-- `backlog`
-- `stretch`
-- `todo`
-- `doing`
-- `done`
 
 ---
 
@@ -148,7 +122,9 @@ Ensuring a smooth process and good communication.
 
 ---
 
-Consider taking on the role that you feel least comfortable with and don't forget that you are all developers, too.
+Consider taking on the role that you feel least comfortable with
+
+Take each role once, over the next six weeks
 
 ---
 
@@ -163,13 +139,13 @@ Consider taking on the role that you feel least comfortable with and don't forge
 
 ---
 
-Punctuate your build with check-ins amongst the team.
+Punctuate your build with check-ins amongst the team
 
 ---
 
 Focus on three things:
 
-- What have you completed?
+- What have you done?
 - What will you do next?
 - Is there anything blocking progress?
 
@@ -184,7 +160,7 @@ It is the responsibility of the Facilitator to manage resolving blockers
 ### Remember...
 
 - Actually stand up
-- Take no more than 15 minutes
+- Take no more than 10 minutes
 - Facilitator can
   - take notes of actions e.g. project board updates
   - take notes of blockers to address
@@ -193,8 +169,6 @@ It is the responsibility of the Facilitator to manage resolving blockers
 ---
 
 Swap pairs in your teams frequently
-
-A team of three can have an individual flying solo for some parts of the day
 
 Everyone should pair with everyone else
 
@@ -212,10 +186,78 @@ When you swap, punctuate the switch with a stand-up
 
 ---
 
-From next week onwards, you'll have time for role circles
+On Thursdays, you'll have time for role circles
 
 This is a chance for cross-team collaboration grouped around your roles
 
 ---
 
-### That's all for now
+## The Agile Manifesto
+
+---
+
+A number of approaches to Software Development are rooted in the [Agile Manifesto](https://agilemanifesto.org/)
+
+---
+
+The agile manifesto was written in 2001 by a group of 17 software developers who had met to discuss the future of software development
+
+---
+
+**Individuals and interactions** over processes and tools
+**Working software** over comprehensive documentation
+**Customer collaboration** over contract negotiation
+**Responding to change** over following a plan
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+---
+
+Read more:
+
+https://www.atlassian.com/agile/manifesto
+
+---
+
+### Do companies follow this process?
+
+---
+
+Not always...
+
+---
+
+A FAC alumn, and experienced software developer, told of the approach their former employer took to software development. Something we might call...
+
+---
+
+_Shovelling 💩 onto the development team_
+
+---
+
+## Extreme Programming
+
+another agile approach to software development
+
+---
+
+_Extreme Programming improves a software project in five essential ways; communication, simplicity, feedback, respect, and courage._
+
+http://www.extremeprogramming.org/
+
+---
+
+![Diagram showing the approach to extreme programming](http://www.extremeprogramming.org/images/agileflowchart.gif)
+
+---
+
+## Final thoughts
+
+---
+
+There are many different approaches to developing software, and most companies won't rigidly follow one in particular
+
+---
+
+Being aware of the approaches, and how your company operates is an important part of meeting the apprenticeship standard

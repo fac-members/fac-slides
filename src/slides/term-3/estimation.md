@@ -14,7 +14,7 @@ title: Issue management and estimation
 
 ---
 
-Estimation is probably the most valuable skill you need to cultivate as a developer.
+Estimation is probably the most valuable skill you need to cultivate as a develope
 
 ---
 
@@ -27,8 +27,8 @@ Estimation is probably the most valuable skill you need to cultivate as a develo
 - Scrum(TM)
 - Sprint
 - User story
-- Backlog, sprint backlog
-- Sprint planning, retrospective and review
+- Backlog
+- Sprint retrospective
 - Project board (_Kanban_)
 
 ---
@@ -43,8 +43,6 @@ The difficulty level of a user story, expressed in _points_
 
 ---
 
-#### CONTROVERSY ALERT
-
 Some people prefer to estimate in _absolute_ time, expressed in hours or half-days, but in order to develop a good sense of _relative_ time, for now we will estimate our user stories in _points_
 
 ---
@@ -57,28 +55,28 @@ The team capacity, expressed in points, for each sprint
 
 ### Sprint backlog
 
-_new definition_
-A prioritised backlog of all the user stories that we estimate will be completed in the next sprint, _given each user story estimate and the team's velocity_
+A prioritised backlog of all the user stories that we estimate will be completed in the next sprint
+
+---
+
+### Sprint planning
+
+Where the team reprioritises user stories and agrees the next sprint backlog
 
 ---
 
 ### Sprint review
 
-_new definition_
-Where the team compares their _points estimate of each user story with their actual points and adjusts their estimated velocity for the next sprint_
+Where the team compares their estimate with the actual number of user stories completed
 
 ---
 
 ### RECAP
 
-- Scrum(TM)
-- Sprint
-- User story
-- Estimate _NEW_
-- Velocity _NEW_
-- Backlog, sprint backlog
-- Sprint planning, retrospective and review
-- Project board (_Kanban_)
+- Estimate
+- Velocity
+- Sprint backlog
+- Sprint planning and review
 
 ---
 
@@ -97,29 +95,9 @@ Not all issues raised in the project board contribute to the velocity estimate. 
 
 ---
 
-#### CONTROVERSY ALERT
-
-Some people prefer to estimate chores, bugs, refactors and spikes just like user stories. The argument for making them zero-point issues is to emphasise that they are _non-negotiable_ and therefore outside the scope of the sprint planning process.
-
----
-
 ## Labels
 
 To be added to issues
-
----
-
-### Kanban
-
-- `backlog`
-- `stretch`
-- `todo`
-- `doing`
-- `done`
-
----
-
-### New labels
 
 ---
 
