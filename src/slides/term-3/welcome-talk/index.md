@@ -49,7 +49,6 @@ and Congratulations! 🎉
 ## 2017
 
 - FAC10 starts at the same time as cohorts in Nazareth and Gaza
-- Oli joins FAC10 🌺
 
 ---
 
@@ -61,13 +60,13 @@ and Congratulations! 🎉
 
 ## 2019
 
-- Reuben and Gregor complete the course as part of FAC17 🚀
+- Gregor completes the course as part of FAC17 🚀
 
 ---
 
 ## 2020
 
-- Oli and Gregor join the team 🌱
+- Gregor joins the team 🌱
 - FAC19 experience two weeks of working in Space4 before FAC goes remote for the remainder of the year
 - We publish our new curriculum
 
@@ -76,33 +75,36 @@ and Congratulations! 🎉
 ## 2021
 
 - We register as an apprenticeship training provider
+- Neville joins FAC21 🎯
 - FAC22 complete the first iteration of our Skills Bootcamp
 
 ---
 
 ## 2022
 
-- FAC24 complete the Skills Bootcamp and are the **first cohort to begin the full-time programme in person!** 🎉
+- FAC25 complete the Skills Bootcamp and **begin the full-time programme!** 🎉
 
 ---
 
 ## FAC Team
 
-Reuben (FAC17)
-
 Dan (FAC)
 
-Oli (FAC10)
+Anni (FAC)
 
-Gregor (FAC17
+Ivan (FAC7)
+
+Gregor (FAC17)
+
+Neville (FAC21)
 
 ---
 
 ### Your mentors
 
-All of FAC23 💖
+All of FAC24 💖
 
-![FAC23 on a jolly Friday](../term-3/welcome-talk/fac23.png)
+![FAC24 modelling FAC t-shirts](../term-3/welcome-talk/fac24.jpg)
 
 ---
 
@@ -116,7 +118,7 @@ All of FAC23 💖
 
 ---
 
-[FAC24 GitHub](https://github.com/fac24)
+[FAC25 GitHub](https://github.com/fac25)
 
 ---
 
@@ -132,12 +134,22 @@ All of FAC23 💖
 
 <!-- {.primary} -->
 
+## Cohort expectations
+
+---
+
+Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
+
+---
+
+<!-- {.primary} -->
+
 ## Pastoral Support
 
 ---
 
 - Each person on the cohort will have a mentor from the core team
-- You'll meet every 3 weeks to have a catch-up
+- You'll meet a couple of times to have a 1-1 catch-up
 - Raise any questions or concerns you have here
 - We're here to support you
 - We are not trained in and cannot provide mental health support
@@ -192,28 +204,6 @@ https://learn.foundersandcoders.com/course/handbook/safeguarding/
 ---
 
 Guided tour
-
----
-
-<!-- {.primary} -->
-
-## Cohort expectations
-
----
-
-Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
-
----
-
-In groups of 4, write up a list of expecations in [HackMD](https://hackmd.io)
-
----
-
-As a cohort, take turns in your groups suggesting points to add to a cohort expectations document
-
----
-
-Amend the document and agree to uphold it
 
 ---
 
