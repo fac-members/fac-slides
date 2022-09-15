@@ -90,7 +90,7 @@ and Congratulations! 🎉
 
 Dan (FAC)
 
-Anni (FAC)
+Anni (Director)
 
 Ivan (FAC7)
 
@@ -148,8 +148,7 @@ Alongside the official code of conduct, we'd like you to think about what you ex
 
 ---
 
-- Each person on the cohort will have a mentor from the core team
-- You'll meet a couple of times to have a 1-1 catch-up
+- You'll meet with your CF a couple of times to have a 1-1 catch-up
 - Raise any questions or concerns you have here
 - We're here to support you
 - We are not trained in and cannot provide mental health support
