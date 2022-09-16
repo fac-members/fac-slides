@@ -122,6 +122,10 @@ All of FAC24 💖
 
 ---
 
+[FAC25 Discord](https://discord.com/channels/781095715681992734/976791489386541106)
+
+---
+
 <!-- {.primary} -->
 
 ## Code of Conduct
@@ -197,13 +201,5 @@ https://learn.foundersandcoders.com/course/handbook/safeguarding/
 ---
 
 <!-- {.primary} -->
-
-## Discord
-
----
-
-Guided tour
-
----
 
 ## Break!
