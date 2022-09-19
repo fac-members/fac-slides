@@ -70,7 +70,7 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
-**Safeguarding** is about protecting the health, wellbeing and human rights of all individuals, and in particular about protecting children and vulnerable adults from from abuse and neglect.
+**Safeguarding** is about protecting the health, wellbeing and human rights of all individuals, and in particular about protecting children and vulnerable adults from abuse and neglect.
 
 ---
 
@@ -113,7 +113,7 @@ Attend every session, unless you've let us know in advance.
 
 ---
 
-Finish every workshop.
+Make a serious attempt to finish every workshop.
 
 ---
 
@@ -128,7 +128,7 @@ Work together during workshops, respect each others' time outside of them.
 ---
 
 - You'll meet individually with the course facilitator in the first 3 weeks of the course;
-- We'll also check in with you at the end of the course;
+- We'll also check in with you near the end of the course;
 - You can also schedule additional meetings at any time;
 - Use these meetings to talk about anything that's on your mind;
 - We're here to support you.
@@ -154,3 +154,7 @@ learn.foundersandcoders.com
 ---
 
 Guided tour.
+
+---
+
+End.
