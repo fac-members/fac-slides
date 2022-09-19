@@ -125,6 +125,8 @@ Work together during workshops, respect each others' time outside of them.
 
 ## Pastoral Care
 
+---
+
 - You'll meet individually with the course facilitator in the first 3 weeks of the course;
 - We'll also check in with you at the end of the course;
 - You can also schedule additional meetings at any time;
@@ -152,5 +154,3 @@ learn.foundersandcoders.com
 ---
 
 Guided tour.
-
-https://discord.gg/QEaahzpE
