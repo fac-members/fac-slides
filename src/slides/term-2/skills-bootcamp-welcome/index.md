@@ -8,49 +8,45 @@ title: Skills Bootcamp welcome talk
 
 <!-- {.primary} -->
 
-## Welcome to the Summer 2022 Skills Bootcamp
+## Welcome to the FAC Skills Bootcamp
 
 and Congratulations! 🎉
 
 ---
 
-### Course Facilitator
+This programme is designed to prepare you for a software developer apprenticeship
 
-Reuben
+(although we cannot guarantee you an apprenticeship).
 
-### Core team
+---
 
-Dan - Employment
+## Team
 
-Oli - Developer in Residence
-
-Gregor - Programmes Manager
+**Course Facilitator**: Dan
+**Developer-in-residence**: Ivan
+**Programme Manager**: Gregor
 
 ---
 
 <!-- {.primary} -->
 
-## Skills Bootcamp
+## Privacy notice
 
 ---
 
-This is a part-time course to learn web dev fundamentals.
+The programme is funded by the Department for Education, who require us to collect some personal data from you.
 
-It is designed to quickly get you to the point of interviewing for software developer apprenticeships.
-
----
-
-We have partnered with the Department for Education, who are funding the course.
-
-This means we need to report some data back to the government.
-
-This includes info you provided in your application, attendance records, and interview statistics.
-
----
-
-For more info on data collection see the DfE's Privacy Notice:
+See the DfE's Privacy Notice:
 
 foundersandcoders.com/skills-bootcamps-privacy-notice
+
+---
+
+<!-- {.primary} -->
+
+## Complaints
+
+---
 
 If you have any complaints about us you can file them here:
 
@@ -60,19 +56,11 @@ gov.uk/government/organisations/department-for-education/about/complaints-proced
 
 <!-- {.primary} -->
 
-## Coursebook
+## Code of conduct
 
 ---
 
-learn.foundersandcoders.com
-
----
-
-<!-- {.primary} -->
-
-## Code of Conduct
-
----
+Please read our code of conduct:
 
 foundersandcoders.com/code-of-conduct/
 
@@ -84,7 +72,7 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
-**Safeguarding** means protecting children, young people and adults at risk from abuse and neglect.
+**Safeguarding** is about protecting the health, wellbeing and human rights of all individuals, and also about protecting children and vulnerable adults from from abuse and neglect.
 
 ---
 
@@ -92,7 +80,7 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
-Safeguarding is about being vigilant.
+If in doubt, let us know about it.
 
 If you see or hear anything that concerns you while studying here please use our reporting form to tell us about it.
 
@@ -119,7 +107,7 @@ https://learn.foundersandcoders.com/course/handbook/safeguarding/
 
 ---
 
-## Expectations
+## Expectations of you
 
 ---
 
@@ -135,7 +123,7 @@ Finish every workshop
 
 ---
 
-Work together during workshops, respect others' time outside of these
+Work together during workshops, respect each others' time outside of them.
 
 ---
 
@@ -143,13 +131,23 @@ Work together during workshops, respect others' time outside of these
 
 ## Pastoral Care
 
+- You'll meet individually with the course facilitator in the first 3 weeks of the course
+- We'll also check in with you at the end of the course
+- You can also schedule additional meetings at any time 
+- Use these meetings to talk about anything that's on your mind
+- We're here to support you
+
 ---
 
-- Each person on the cohort will have a mentor from the core team
-- You'll meet every 3 weeks to have a catch-up
-- Raise any questions or concerns you have here
-- We're here to support you
-- We are not trained in and cannot provide mental health support
+<!-- {.primary} -->
+
+## Coursebook
+
+---
+
+Guided tour.
+
+learn.foundersandcoders.com
 
 ---
 
@@ -159,4 +157,6 @@ Work together during workshops, respect others' time outside of these
 
 ---
 
-Guided tour
+Guided tour.
+
+https://discord.gg/QEaahzpE
