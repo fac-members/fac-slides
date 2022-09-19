@@ -22,9 +22,9 @@ This programme is designed to prepare you for a software developer apprenticeshi
 
 ## Team
 
-**Course Facilitator**: Dan
-**Developer-in-residence**: Ivan
-**Programme Manager**: Gregor
+- **Course Facilitator**: Dan
+- **Developer-in-residence**: Ivan
+- **Programme Manager**: Gregor
 
 ---
 
@@ -35,8 +35,6 @@ This programme is designed to prepare you for a software developer apprenticeshi
 ---
 
 The programme is funded by the Department for Education, who require us to collect some personal data from you.
-
-See the DfE's Privacy Notice:
 
 foundersandcoders.com/skills-bootcamps-privacy-notice
 
@@ -72,7 +70,7 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
-**Safeguarding** is about protecting the health, wellbeing and human rights of all individuals, and also about protecting children and vulnerable adults from from abuse and neglect.
+**Safeguarding** is about protecting the health, wellbeing and human rights of all individuals, and in particular about protecting children and vulnerable adults from from abuse and neglect.
 
 ---
 
@@ -80,11 +78,7 @@ foundersandcoders.com/code-of-conduct/
 
 ---
 
-If in doubt, let us know about it.
-
-If you see or hear anything that concerns you while studying here please use our reporting form to tell us about it.
-
----
+If you see or hear anything that concerns your own safety or the safety of others, please use our reporting form to tell us about it.
 
 Doing so will allow us to build up a case file of reported incidents that will help us be better prepared to identify and respond to potential issues in future.
 
@@ -111,15 +105,15 @@ https://learn.foundersandcoders.com/course/handbook/safeguarding/
 
 ---
 
-Be on time, and let us know if you'll be late
+Be on time, and let us know if you'll be late.
 
 ---
 
-Attend every session, unless you've let us know in advance
+Attend every session, unless you've let us know in advance.
 
 ---
 
-Finish every workshop
+Finish every workshop.
 
 ---
 
@@ -131,11 +125,11 @@ Work together during workshops, respect each others' time outside of them.
 
 ## Pastoral Care
 
-- You'll meet individually with the course facilitator in the first 3 weeks of the course
-- We'll also check in with you at the end of the course
-- You can also schedule additional meetings at any time 
-- Use these meetings to talk about anything that's on your mind
-- We're here to support you
+- You'll meet individually with the course facilitator in the first 3 weeks of the course;
+- We'll also check in with you at the end of the course;
+- You can also schedule additional meetings at any time;
+- Use these meetings to talk about anything that's on your mind;
+- We're here to support you.
 
 ---
 
