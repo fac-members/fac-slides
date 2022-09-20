@@ -205,8 +205,11 @@ The agile manifesto was written in 2001 by a group of 17 software developers who
 ---
 
 **Individuals and interactions** over processes and tools
+
 **Working software** over comprehensive documentation
+
 **Customer collaboration** over contract negotiation
+
 **Responding to change** over following a plan
 
 That is, while there is value in the items on
