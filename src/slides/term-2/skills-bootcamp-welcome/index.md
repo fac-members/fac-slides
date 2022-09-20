@@ -130,7 +130,7 @@ Work together during workshops, respect each others' time outside of them.
 - You'll meet individually with the course facilitator in the first 3 weeks of the course;
 - We'll also check in with you near the end of the course;
 - You can also schedule additional meetings at any time;
-Use these meetings to talk about any questions or concerns you have relating to the programme;
+- Use these meetings to talk about any questions or concerns you have relating to the programme;
 - We're here to support you.
 
 ---
