@@ -27,11 +27,11 @@ You can only enter the Gateway period when these are ready
 
 ---
 
-Founders and Coders will support you throughout the lead up and during EPA gateway
+Founders and Coders will support you throughout the lead up to and during EPA gateway
 
 ---
 
-Each term, Gregor is available for regular check-ins, portfolio feedback
+Each term, Gregor is available for regular check-ins and portfolio feedback
 
 We'll also hold 'tripartite reviews' between you, your employer, and us
 
@@ -89,7 +89,7 @@ https://fac-standard.netlify.app/portfolio
 
 Focus on **WHAT** you did and **HOW** you did it.
 
-**WHO** is important too - but your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, our, us**.
+**WHO** is important too - but your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, us, our**.
 
 Also consider, **WHY** you are making the technical decisions that you are.
 
