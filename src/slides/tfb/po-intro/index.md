@@ -32,7 +32,7 @@ Our developers learn about the software development lifecycle by exploring real 
 | 4 or 11 Oct | Discovery workshop      |
 | W/C 17 Oct  | Conduct user research   |
 | 25 Oct      | User research analysis  |
-| 1 Nov       | Sprint planning         |
+| 1 Nov       | Product Management      |
 
 ---
 
@@ -93,7 +93,7 @@ Focus on the Problem Statement:
 
 Co-ordinate users to research with:
 
-- Anytime between 8 and 17 June
+- Anytime between W/C 17 Oct
 - You'll have written questions already
 - 1 - 1 sessions, qualitative interviews
 - Aim for 4 - 12 user interviews
