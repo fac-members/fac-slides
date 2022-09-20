@@ -14,7 +14,7 @@ title: Issue management and estimation
 
 ---
 
-Estimation is probably the most valuable skill you need to cultivate as a develope
+Estimation is probably the most valuable skill you need to cultivate as a developer
 
 ---
 
