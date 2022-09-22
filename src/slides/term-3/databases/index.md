@@ -159,7 +159,7 @@ We add up the "quantity" column—no need to look at `stores`.
 
 ---
 
-MySQL and PostgreSQL are both popular relational DBs.
+MySQL, PostgreSQL & SQLite are popular relational DBs.
 
 ---
 
@@ -213,62 +213,11 @@ Examples include MongoDB & CouchDB
 
 We think relational DBs are a safer default.
 
-So we'll be using Postgres for the rest of the course
-
 ---
 
-## How DBs work
+We'll be using SQLite for the rest of the course,
 
----
-
-When we say "database" we usually mean:
-
-1. The actual structured data _and_
-1. The program managing access to that data
-
-This is called "Database Management Software" (DBMS)
-
----
-
-Imagine the DBMS as a set of files representing the data.
-
-Plus a program that can read/write to those files efficiently.
-
----
-
-The program will usually allow access via the network.
-
-This could be HTTP or (for older DBs) a custom protocol.
-
-E.g. Postgres uses `postgres://` instead of `http://`
-
----
-
-So your app connects to the DB via a URL like:
-
-```
-postgres://myusername:mypassword@localhost:5432/mydb
-```
-
-It can then send requests to the DB and receive responses.
-
----
-
-This is a client/server model, just like HTTP.
-
-Your app is the client and the DB is the server.
-
----
-
-The DB could be on the same machine (a localhost address).
-
-Or it could be hosted somewhere else (e.g. on Heroku).
-
----
-
-If you send a request like "add an entry for grapes".
-
-The DBMS will look up the file for the `fruit` table, insert the new data, save the file, then send you a response.
+as it is relatively simple to get started with.
 
 ---
 
