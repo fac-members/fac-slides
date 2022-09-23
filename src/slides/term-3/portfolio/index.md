@@ -17,23 +17,30 @@ When you enter EPA gateway you must submit:
 
 - a 500-word project summary
 - your portfolio
+- Evidence of Level 2 English
+- Evidence of Level 2 Maths
+- Sign-off from your employer
 
 So you should only start assessment when these are ready.
 
 ---
 
-Founders and Coders will support you throughout the lead up and during EPA gateway. We'll hold 'tripartite reviews' between you, your employer, and us.
-
-These will be (roughly) every 3 months.
+Founders and Coders will support you throughout the lead up and during EPA gateway
 
 ---
 
-| Date    | Event                              |
-| ------- | ---------------------------------- |
-| 9/5/22  | Start apprenticeship               |
-| 1/8/22  | Join employer FT                   |
-| 9/5/23  | Earliest date to enter EPA gateway |
-| 8/11/23 | Latest completion date             |
+Each term, Gregor is available for regular check-ins and portfolio feedback
+
+We'll also hold 'tripartite reviews' between you, your employer, and us
+
+---
+
+| Date     | Event                              |
+| -------- | ---------------------------------- |
+| 19/09/22 | Start apprenticeship               |
+| 12/09/22 | Join employer FT                   |
+| 19/09/23 | Earliest date to enter EPA gateway |
+| 18/3/23  | Latest completion date             |
 
 ---
 
@@ -43,13 +50,19 @@ These will be (roughly) every 3 months.
 
 **Your portfolio is not directly assessed**.
 
-It is used as the basis for the "professional discussion", which determines your grade.
+It is used as the basis for the "professional discussion", which determines 50% of your grade.
 
 ---
 
-The portfolio should contain (up to) 10 pieces of evidence.
+The portfolio 'typically' contains 10 pieces of evidence
+
+---
 
 Each should relate to at least one of the required knowledge, skills or behaviours. And most likely, they'll cover many.
+
+---
+
+There is no specific structure for the documentation
 
 ---
 
@@ -61,52 +74,37 @@ Evidence is documentation which:
 
 ---
 
-Build your portfolio throughout your apprenticeship.
+Build your portfolio throughout your apprenticeship
+
+---
+
+Focus on **WHAT** you did and **HOW** you did it.
+
+**WHO** is important too - but your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, us, our**.
+
+Also consider, **WHY** you are making the technical decisions that you are.
+
+---
+
+- WHAT
+- HOW
+- WITH WHOM
+- WHY
+
+---
+
+Put together a narrative of what you did on the project, and use supporting evidence.
+
+Mapping to KSBs comes after documenting, and in a separate document.
+
+---
+
+## Mapping
+
+---
+
+Put together a separate document with a table which maps your evidence to the KSBs
 
 ---
 
 https://fac-standard.netlify.app/
-
----
-
-## Learning diary
-
----
-
-Alongside your work, you'll spend time learning _on the job_
-
-💼📚
-
----
-
-Keep a record of the time you spend learning, as this will be submitted to the ESFA on completion of your apprenticeship
-
----
-
-## Project
-
----
-
-The aim of the project is to research and develop a software solution to meet a specification provided by a customer or other stakeholder.
-
----
-
-The project should:
-
-- meet the needs of your employer
-- be relevant to your role
-- demonstrate the required knowledge, skills & behaviours
-
----
-
-The project is submitted in the form of a 4,500 word report.
-
-It has a set structure with sections for each part of the software development lifecycle.
-
----
-
-Think of it as an extended version of your TFB documentation
-
----
-
-## Questions

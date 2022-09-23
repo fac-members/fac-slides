@@ -18,7 +18,7 @@ The apprenticeship is assessed in two ways:
 When you enter EPA gateway we must submit:
 
 - a 500-word project summary
-- your portfolio of examples
+- your portfolio
 - _Evidence of Level 2 English_
 - _Evidence of Level 2 Maths_
 - _Sign-off from your employer_
@@ -75,7 +75,7 @@ Evidence is documentation which:
 
 ---
 
-Build your portfolio throughout your apprenticeship.
+Build your portfolio throughout your apprenticeship
 
 ---
 
