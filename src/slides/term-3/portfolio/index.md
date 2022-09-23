@@ -40,7 +40,7 @@ We'll also hold 'tripartite reviews' between you, your employer, and us
 | 19/09/22 | Start apprenticeship               |
 | 12/09/22 | Join employer FT                   |
 | 19/09/23 | Earliest date to enter EPA gateway |
-| 18/3/23  | Latest completion date             |
+| 18/3/24  | Latest completion date             |
 
 ---
 
