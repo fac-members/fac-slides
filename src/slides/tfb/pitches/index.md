@@ -12,13 +12,13 @@ Today we'll hear from each Product Owner about their digital product idea
 
 ---
 
-We'll then split into rotating breakout rooms for Q&A sessions
+We'll split into small groups for Q&A sessions
 
 ---
 
-In each breakout room, we'll have a Product Owner and a group of developers.
+In each group, we'll have a Product Owner and a few developers
 
-Developers will take turns asking questions and getting a deeper sense of the product idea.
+Developers will take turns asking questions and getting a deeper sense of the product idea
 
 ---
 
@@ -35,13 +35,11 @@ Instead:
 
 ---
 
-Product Owners will move around different breakout rooms and meet new groups of developers
+Product Owners will move around different tables and meet new groups of developers
 
 ---
 
-Once we’ve completed the rounds of pitches, everyone will return to the main room
-
-Here we’ll hear reflections from each Product Owner
+Once we’ve completed the rounds of pitches, we’ll hear reflections from each Product Owner
 
 ---
 
