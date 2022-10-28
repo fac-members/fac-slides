@@ -1,10 +1,10 @@
 ---
-title: Definition workshop
+title: Definition Workshop
 ---
 
 ## In-house Project
 
-# Definition workshop
+# Definition Workshop
 
 ---
 

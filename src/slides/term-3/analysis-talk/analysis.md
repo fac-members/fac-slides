@@ -1,10 +1,10 @@
 ---
-title: Research Analysis
+title: Analysis Workshop
 ---
 
 ## In-house Project
 
-# Research Analysis
+# Analysis Workshop
 
 ---
 
@@ -16,7 +16,7 @@ Or enough feedback from users to know we’re not on the right track
 
 ---
 
-In this session your teams will collate and explore what you found out in pairs during your user research
+In this session your teams will collate and explore what you found out during your user research
 
 ---
 
@@ -24,11 +24,9 @@ In this session your teams will collate and explore what you found out in pairs 
 
 ---
 
-<!-- Think about what was said; group statements together; and analyse the themes -->
-
 Like to your TfB anaysis session, you'll complete these steps:
 
-1. Write notes on what came out of the research !!!
+1. Write notes on what came out of the research
 1. Theme those notes
 1. Write insight statements to summarise the notes
 
@@ -87,13 +85,3 @@ Ask questions, not worrying about finding all the answers now. For example:
 ---
 
 ## Miro
-
----
-
-<!-- ADD IN A LINK TO THE MIRO  -->
-
-Team 1: https://miro.com/app/board/uXjVPJwsnJo=/
-
-Team 2: https://miro.com/app/board/uXjVPJwMdD4=/
-
-Team 3: https://miro.com/app/board/uXjVPJwMdM0=/
