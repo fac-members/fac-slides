@@ -84,4 +84,18 @@ Ask questions, not worrying about finding all the answers now. For example:
 
 ---
 
+## Consequence Scanning
+
+---
+
+- What are the intended and unintended consequences of this product or feature?
+- What are the positive consequences we want to focus on?
+- What are the negative consequences we want to mitigate?
+
+---
+
 ## Miro
+
+---
+
+https://miro.com/app/dashboard/
