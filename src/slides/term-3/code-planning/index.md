@@ -1,12 +1,45 @@
 ---
-title: Project architecture
+title: Code planning
 ---
 
-# Project architecture
+# Code Planning
 
 ---
 
-This is the first time we won't tell you what to use
+When building an application there's two significant things to make decisions on:
+
+- How the app will fit together, and respond to user interaction
+- What tech stack you'll choose
+
+---
+
+## Service Blueprinting
+
+---
+
+When you're building something, it's important to consider the points of interaction for the user
+
+---
+
+When the user interacts with the app, what should happen in the backend?
+
+---
+
+Plan out the stages of the user journey and the corresponding actions which will be triggered
+
+---
+
+What does the user see, and what do they do?
+
+What does the app see, and what does it do?
+
+---
+
+![A service blueprint](../term-3/code-planning/service-blueprint.jpg)
+
+---
+
+## Code Planning
 
 ---
 
