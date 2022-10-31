@@ -94,9 +94,9 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 - How might we meet the user need?
 
-- What are the consequences of this product?
-
 - What are the main technical challenges of the build?
+
+- What are the consequences of this product?
 
 ---
 
