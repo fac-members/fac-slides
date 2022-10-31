@@ -45,9 +45,10 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 ---
 
 1. Discover
-2. Define
-3. Prototype
-4. Test
+2. Analyse
+3. Define
+4. Prototype
+5. Test
 
 ---
 
@@ -67,11 +68,11 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 - Qualitative user research
 
-  - User Interviews
+- User Interviews
 
 - Quantitative user research
 
-  - Collecting survey responses
+- Collecting survey responses
 
 ---
 
@@ -83,13 +84,40 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
-## 2. Define
+## 2. Analyse
 
 ---
 
 - What have we identified from conducting research?
+
 - What does the user journey look like?
+
 - How might we meet the user need?
+
+- What are the consequences of this product?
+
+- What are the main technical challenges of the build?
+
+---
+
+### Primary activities
+
+- Research Synthesis
+- Mapping the Journey
+- Consequence Scanning
+
+---
+
+### Primary outputs
+
+- A clear User Journey
+
+---
+
+## 3. Define
+
+---
+
 - What can give us inspiration for our product?
 - What might our solution look like?
 
@@ -105,12 +133,11 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ### Primary outputs
 
-- A clear User Journey
 - Low-fidelity prototypes
 
 ---
 
-## 3. Prototype
+## 4. Prototype
 
 ---
 
@@ -130,7 +157,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 ---
 
-## 4. Test
+## 5. Test
 
 ---
 
@@ -153,9 +180,10 @@ What do users think of the prototype?
 ## Recap
 
 1. Discover
-1. Define
-1. Prototype
-1. Test
+2. Analyse
+3. Define
+4. Prototype
+5. Test
 
 ---
 
