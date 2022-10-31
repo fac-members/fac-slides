@@ -15,7 +15,6 @@ Our key activities:
 - Defining a problem statement
 - Creating user personas
 - Writing a user research script
-- Consequence scanning
 
 ---
 
