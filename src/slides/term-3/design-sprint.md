@@ -68,7 +68,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 
 - Qualitative user research
 
-- User Interviews
+  - User Interviews
 
 - Quantitative user research
 
