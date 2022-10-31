@@ -99,3 +99,131 @@ A Product Owner is the point of contact with the development team. The developme
 The Product Owner supplies all content and copy for the product, supports in setting the priorities of the product, and supports prioritising a product backlog.
 
 ---
+
+## Today
+
+---
+
+- Discuss projects
+- Choose a project
+- User stories
+- Prioritise
+- Plan
+
+---
+
+## Projects
+
+---
+
+### 1. Virtual Fridge
+
+As a busy person who cares about sustainability I would like to know what is in my fridge/kitchen so that when I cook I can avoid food waste and save money.
+
+---
+
+- A virtual fridge (graphic) with shelves displaying food with expiration dates
+- Automatically organise food by categories (dairy, fish, poultry, vegetables)
+- Can add and delete items from fridge
+- Generate recipes based on what's in my fridge
+- Like or favourite recipes which I've made
+- Create shopping list, where items get automatically added when used
+- Make weekly meal plan from ingredients in fridge and what is missing from planned recipes
+
+---
+
+### 2. Changing address
+
+As someone who is moving house I would like a list of the different places I need to update my address with so that I can see who I have updated my address with and make sure I don't forget to update with any provider
+
+---
+
+- User signs up on first use with name, email etc.
+- User creates a checklist by selecting providers that need the new address from list of pre-set providers (e.g. DVLA, water, gas...)
+- Can add or delete providers from checklist
+- Can filter list by priority
+- Can add/delete custom providers (e.g. library, hair salon)
+- Can show a provider has been updated by a tick
+- Can filter by the updated providers
+
+---
+
+### 3. Service Hub
+
+A hub for young people to find youth clubs and other services in their area.
+
+---
+
+- User enters their location - no sign up required
+- Based on the user's location, the app shows clubs and other services near where they live
+- The app compiles data from multiple sources
+- A user can filter through the services by their type
+- A user can save services for later
+
+---
+
+Choose one project to move forward with
+
+---
+
+## User Stories
+
+---
+
+A task that the user can complete while using a product
+
+---
+
+These often take the same form as a Problem Statement, but are more granular
+
+---
+
+- As a ...
+- I'd like to...
+- So that...
+
+---
+
+## Sprint planning
+
+---
+
+In this ceremony, the Product Owner and Product Team work together to prioritise issues for the next sprint.
+
+---
+
+Each story in the sprint backlog has a priority - usually Low, Medium or High
+
+---
+
+Each story has an estimation of complexity representing how much time it will take to complete
+
+---
+
+Add priority labels (L, M, H) and estimates (1, 2, 3, 5) to each story
+
+---
+
+We'll now plan our next sprint!
+
+---
+
+Imagine your team's velocity is the total estimates divided by 2
+
+---
+
+Choose which stories will go into the first sprint
+
+---
+
+<!-- { .primary } -->
+
+## Congratulations! 🎉
+
+---
+
+You have now completed the Product Management programme!
+
+Thank you for all your hard work over the past 7 weeks.
+
+We'll be in touch in the next week to chat about what's next... 🌱
