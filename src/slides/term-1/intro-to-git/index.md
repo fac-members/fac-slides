@@ -93,3 +93,7 @@ There are a few ways to use git:
 1. Give GitHub repo URL to local git
 1. "Push" your local changes to the remote
 1. "Pull" remote changes to your computer
+
+---
+
+If you're just getting started, check out [this workshop](https://learn.foundersandcoders.com/workshops/git-intro/)

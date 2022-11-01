@@ -141,3 +141,37 @@ Following your pseudocode, code each step. Remember to `console.log()` to check 
 ### 4. Refactor
 
 What can you change about your code to make it more efficient? How might you solve the problem differently?
+
+---
+
+## Git and GitHub
+
+[Slides](https://fac-slides.netlify.app/slides/intro-to-git/#0)
+
+---
+
+## Applying to FAC
+
+---
+
+Make an account here:
+
+https://account.foundersandcoders.com/
+
+---
+
+Complete the six projects in your own time
+
+---
+
+If you're brand new to coding, check out [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+Join Discord and come to our weekly meetups
+
+---
+
+Complete and submit the application form, before the deadline
+
+https://account.foundersandcoders.com/apply/application
