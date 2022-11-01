@@ -32,11 +32,11 @@ Draw from other sources to get an idea of what we might include in the app
 
 ### Generate ideas
 
-Draw 8 lightening sketches in 8 minutes
+Draw 8 lightning sketches in 8 minutes
 
 ---
 
-![Miro Board with lightening sketches](../term-3/definition-talk/crazy8.png)
+![Miro Board with lightning sketches](../term-3/definition-talk/crazy8.png)
 
 ---
 
