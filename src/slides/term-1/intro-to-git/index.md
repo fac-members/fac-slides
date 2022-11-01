@@ -18,7 +18,7 @@ Saves "snapshots" of your project with descriptive messages.
 
 ---
 
-![Screenshot of my terminal, showing a history of all the recent changes to the FAC coursebook](git-history.png)
+![Screenshot of the terminal, showing a history of all the recent changes to the FAC coursebook](/slides/term-1/intro-to-git/git-history.png)
 
 ---
 

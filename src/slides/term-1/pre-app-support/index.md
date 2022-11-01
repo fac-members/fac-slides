@@ -8,6 +8,21 @@ title: Pre-application support circle
 
 ---
 
+<!-- {.secondary .inverted} -->
+
+## Say hello
+
+---
+
+### Introduce yourself
+
+- Let everyone know your name and pronouns (if you're comfortable with sharing them)
+- Let us know what you're working on just now
+- What is one thing you'd like to get from this group?
+- What is one thing you can give to the group?
+
+---
+
 ## HTML
 
 🧱
