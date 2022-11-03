@@ -18,7 +18,7 @@ Saves "snapshots" of your project with descriptive messages.
 
 ---
 
-![Screenshot of my terminal, showing a history of all the recent changes to the FAC coursebook](git-history.png)
+![Screenshot of the terminal, showing a history of all the recent changes to the FAC coursebook](/slides/term-1/intro-to-git/git-history.png)
 
 ---
 
@@ -93,3 +93,7 @@ There are a few ways to use git:
 1. Give GitHub repo URL to local git
 1. "Push" your local changes to the remote
 1. "Pull" remote changes to your computer
+
+---
+
+If you're just getting started, check out [this workshop](https://learn.foundersandcoders.com/workshops/git-intro/)

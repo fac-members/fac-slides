@@ -8,6 +8,21 @@ title: Pre-application support circle
 
 ---
 
+<!-- {.secondary .inverted} -->
+
+## Say hello
+
+---
+
+### Introduce yourself
+
+- Let everyone know your name and pronouns (if you're comfortable with sharing them)
+- Let us know what you're working on just now
+- What is one thing you'd like to get from this group?
+- What is one thing you can give to the group?
+
+---
+
 ## HTML
 
 🧱
@@ -141,3 +156,37 @@ Following your pseudocode, code each step. Remember to `console.log()` to check 
 ### 4. Refactor
 
 What can you change about your code to make it more efficient? How might you solve the problem differently?
+
+---
+
+## Git and GitHub
+
+[Slides](https://fac-slides.netlify.app/slides/intro-to-git/#0)
+
+---
+
+## Applying to FAC
+
+---
+
+Make an account here:
+
+https://account.foundersandcoders.com/
+
+---
+
+Complete the six projects in your own time
+
+---
+
+If you're brand new to coding, check out [freeCodeCamp](https://www.freecodecamp.org/)
+
+---
+
+Join Discord and come to our weekly meetups
+
+---
+
+Complete and submit the application form, before the deadline
+
+https://account.foundersandcoders.com/apply/application
