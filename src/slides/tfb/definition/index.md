@@ -32,9 +32,17 @@ Draw from other sources to get an idea of what we might include in the app
 
 ---
 
+![Miro Board with images from other products](../term-3/definition-talk/inspiration.png)
+
+---
+
 ### Generate ideas
 
 Draw 8 lightning sketches in 8 minutes
+
+---
+
+![Miro Board with lightning sketches](../term-3/definition-talk/crazy8.png)
 
 ---
 
@@ -44,15 +52,27 @@ Expand on one idea and sketch more detail
 
 ---
 
+![Miro Board with big ideas](../term-3/definition-talk/big-idea.png)
+
+---
+
 ### Wireframing
 
 Create low fidelity flows on Miro
 
 ---
 
+![Miro Board with wireframing](../term-3/definition-talk/wireframes.png)
+
+---
+
 ### Dot Vote
 
 Mark what draws your attention or interest on Miro
+
+---
+
+![Miro Board with example of dot voting](../term-3/definition-talk/dot-vote.png)
 
 ---
 
