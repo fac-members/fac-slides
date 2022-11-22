@@ -39,7 +39,7 @@ What does the app see, and what does it do?
 
 ---
 
-## Code Planning
+## Tech Stack
 
 ---
 
