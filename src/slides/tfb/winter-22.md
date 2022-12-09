@@ -99,4 +99,8 @@ gregor@foundersandcoders.com
 
 ---
 
+None of this programme would be possible without the support of our mentors, speakers and employers. A huge thanks to you all for your valuable input!
+
+---
+
 Please join us in celebrating all of our teams' successes and congratulating our Product Managers on completing the programme! 🎉
