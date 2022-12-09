@@ -11,9 +11,9 @@ title: Winter Showcase '22
 ## This evening
 
 - Welcome
-- **Amai Mtoto**
 - **Cocoon Kids Big Hug**
 - **Immersive Empathy Training**
+- **Amai Mtoto**
 
 ---
 
@@ -59,9 +59,9 @@ These products are what we'll see showcased this evening
 
 ---
 
-1. **Amai Mtoto**
 1. **Cocoon Kids Big Hug**
 1. **Immersive Empathy Training**
+1. **Amai Mtoto**
 
 ---
 
