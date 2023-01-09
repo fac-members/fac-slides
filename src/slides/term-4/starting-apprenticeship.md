@@ -10,7 +10,7 @@ I hope you're all now settling in to your new roles!
 
 ---
 
-We're gonna run through EPA and what support we'll offer throughout the apprenticeship
+We're gonna run through End-point Assessment (EPA) and what support we'll offer throughout the apprenticeship
 
 ---
 
@@ -43,9 +43,9 @@ When you enter EPA gateway we must submit:
 
 - a 500-word project summary
 - your portfolio
-- _Evidence of Level 2 English_
-- _Evidence of Level 2 Maths_
-- _Sign-off from your employer_
+- Evidence of Level 2 English
+- Evidence of Level 2 Maths
+- Sign-off from your employer
 
 You can only enter the Gateway period when these are ready
 
@@ -69,13 +69,13 @@ Your evidence relates to a set of knowledge, skills and behaviours set out in th
 
 ---
 
-There's no template for documentation
-
-Use Google Doc's, and I can give feedback
+[fac-standard](https://fac-standard.netlify.app/)
 
 ---
 
-[fac-standard](https://fac-standard.netlify.app/)
+There's no template for documentation
+
+Use Google Doc's, and I can give feedback
 
 ---
 
@@ -88,10 +88,6 @@ Evidence is documentation which:
 1. Summarises a work project
 1. Describes all the ways **you** met the required knowledge, skills & behaviours
 1. Includes code samples, screenshots of plans/issues/stories, architecture diagrams etc
-
----
-
-Spend 30 - 60 minutes each week working on your portfolio
 
 ---
 
@@ -120,6 +116,10 @@ Mapping to KSBs comes after documenting, and in a separate document.
 
 ---
 
+Spend 30 - 60 minutes each week working on your portfolio
+
+---
+
 We'll support you throughout with _portfolio peer groups_
 
 ---
@@ -137,6 +137,27 @@ Once every 4 weeks, you'll meet with other apprentices for dedicated portfolio t
 ---
 
 Work on your portfolio and get feedback from your peers and me
+
+---
+
+### Groups
+
+| A    | B       | C        | D        |
+| ---- | ------- | -------- | -------- |
+| Joe  | Patrick | Paz      | Lisa     |
+| Abby | Yassien | Karwan   | Sumithra |
+|      |         | Abdullah | Manoela  |
+
+---
+
+### Schedule
+
+| A && B      | C && D      |
+| ----------- | ----------- |
+| 17 January  | 24 January  |
+| 14 February | 21 February |
+| 7 March     | 14 March    |
+| 4 April     | 11 April    |
 
 ---
 

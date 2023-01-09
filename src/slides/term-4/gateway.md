@@ -21,7 +21,7 @@ Essentially, you submit your documentation and BCS will approve or deny your req
 I will submit, on your behalf:
 
 - English and Maths qualifications
-- A complete Portfolio of evidence (and mapping)
+- A complete portfolio of evidence (and mapping)
 - Project summary and mapping
 - Sign-off forms
 
@@ -153,7 +153,5 @@ We submit two forms at Gateway:
 An apprentice requires approval from their employer that they feel the apprentice is ready to be assessed
 
 ---
-
-That's it...
 
 ## Questions
