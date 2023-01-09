@@ -31,7 +31,7 @@ I will submit, on your behalf:
 
 ---
 
-Once we've submitted all documentation at Gateway, we wait 10 days for approval
+Once we've submitted all documentation at Gateway, we wait 10 working days for approval
 
 ---
 
@@ -57,20 +57,22 @@ There's no typical length for the portfolio. We've seen documentation in the ran
 
 ---
 
-- What
-- How
-- With whom
-- Why
+- WHAT
+- HOW
+- WITH WHOM
+- WHY
 
 ---
 
 Map to the KSBs in an appendix
 
-We need to submit your mapping document which will give an indication to the assessor on where you feel you've met the KSB
+We need to submit your [mapping document](https://docs.google.com/spreadsheets/d/1A0lBLApi-JzdF5a73e-Eg_iXTsT1XqJWfZbIy4bhV7o/edit?usp=sharing) which will give an indication to the assessor on where you feel you've met the KSB
 
 ---
 
-A reminder that the portfolio is not directly assessed, but will form the basis of the assessment
+**Your portfolio is not directly assessed**.
+
+It is used as the basis for the "professional discussion", which determines 50% of your grade.
 
 ---
 
@@ -82,7 +84,7 @@ A conversation about your portfolio
 
 ---
 
-Questions focus on the _criteria_ which related to the KSBs
+Questions focus on the _criteria_ which relate to the KSBs
 
 ---
 
@@ -94,14 +96,14 @@ Only what you say will be assessed, you must articulate something for it to coun
 
 ---
 
-As of yet, we haven't had anyone sit the assessment. This is likely to change in the next couple of months.
+We haven't yet had anyone sit the assessment. This is likely to change in the next couple of months.
 
 ---
 
 We'll hold some prep sessions for EPA:
 
 - Portfolio peer groups (Tuesday 17 Jan)
-- Mock assessments (Tuesday 31 Jan and 7 Feb)
+- Mock assessments (Tuesday 31 Jan and Tuesday 7 Feb)
 
 ---
 
@@ -125,7 +127,7 @@ At Gateway, an apprentice will submit a summary of what the project will be and 
 
 ---
 
-Your project **must** be submitted 9 weeks after entering EPA
+Your project **must** be submitted within 9 weeks of starting
 
 ---
 
