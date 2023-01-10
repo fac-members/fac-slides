@@ -75,14 +75,21 @@ and Congratulations! 🎉
 ## 2021
 
 - We register as an apprenticeship training provider
-- Neville joins FAC21 🎯
+- Neville completes the course as part of FAC21 🚀
 - FAC22 complete the first iteration of our Skills Bootcamp
 
 ---
 
 ## 2022
 
-- FAC25 complete the Skills Bootcamp and **begin the full-time programme!** 🎉
+- Ivan, Sara, John, and Neville join the team 🎉
+- FAC26 complete the Skills Bootcamp 🌱
+
+---
+
+## 2023
+
+- FAC26 complete begin the full-time programme! 🚀
 
 ---
 
@@ -92,19 +99,21 @@ Dan (FAC)
 
 Anni (Director)
 
-Ivan (FAC7)
+Sarah (Community Lead)
 
-Gregor (FAC17)
+John (Partnerships Lead)
 
-Neville (FAC21)
+Ivan (FAC7, Coder In Residence)
+
+Gregor (FAC17, Apprenticeships Lead)
+
+Neville (FAC21, Course Facilitator)
 
 ---
 
-### Your mentors
+### Your FAC25 mentors 💖
 
-All of FAC24 💖
-
-![FAC24 modelling FAC t-shirts](../term-3/welcome-talk/fac24.jpg)
+![FAC25 modelling FAC t-shirts](../term-3/welcome-talk/fac25.jpg)
 
 ---
 
@@ -118,31 +127,11 @@ All of FAC24 💖
 
 ---
 
-[FAC25 GitHub](https://github.com/fac25)
+[FAC26 GitHub](https://github.com/fac26)
 
 ---
 
-[FAC25 Discord](https://discord.com/channels/781095715681992734/976791489386541106)
-
----
-
-<!-- {.primary} -->
-
-## Code of Conduct
-
----
-
-[Code of Conduct](https://www.foundersandcoders.com/code-of-conduct/)
-
----
-
-<!-- {.primary} -->
-
-## Cohort expectations
-
----
-
-Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
+[FAC26 Discord](https://discord.com/channels/781095715681992734/1021770118285500436)
 
 ---
 
@@ -197,6 +186,26 @@ https://airtable.com/shr3X3AAoT8JJwyb7
 You can read more about safeguarding in the Coursebook:
 
 https://learn.foundersandcoders.com/course/handbook/safeguarding/
+
+---
+
+<!-- {.primary} -->
+
+## Code of Conduct
+
+---
+
+[Code of Conduct](https://www.foundersandcoders.com/code-of-conduct/)
+
+---
+
+<!-- {.primary} -->
+
+## Cohort expectations
+
+---
+
+Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
 
 ---
 
