@@ -75,14 +75,21 @@ and Congratulations! 🎉
 ## 2021
 
 - We register as an apprenticeship training provider
-- Neville joins FAC21 🎯
+- Neville completes the course as part of FAC21 🚀
 - FAC22 complete the first iteration of our Skills Bootcamp
 
 ---
 
 ## 2022
 
-- FAC25 complete the Skills Bootcamp and **begin the full-time programme!** 🎉
+- Ivan, Sara, John, and Neville join the team 🎉
+- FAC26 complete the Skills Bootcamp 🌱
+
+---
+
+## 2023
+
+- FAC26 complete begin the full-time programme! 🚀
 
 ---
 
@@ -92,19 +99,21 @@ Dan (FAC)
 
 Anni (Director)
 
-Ivan (FAC7)
+Sarah (Community Lead)
 
-Gregor (FAC17)
+John (Partnerships Lead)
 
-Neville (FAC21)
+Ivan (FAC7, Coder In Residence)
+
+Gregor (FAC17, Apprenticeships Lead)
+
+Neville (FAC21, Course Facilitator)
 
 ---
 
-### Your mentors
+### Your FAC25 mentors 💖
 
-All of FAC24 💖
-
-![FAC24 modelling FAC t-shirts](../term-3/welcome-talk/fac24.jpg)
+![FAC25 modelling FAC t-shirts](../term-3/welcome-talk/fac25.jpg)
 
 ---
 
@@ -118,11 +127,11 @@ All of FAC24 💖
 
 ---
 
-[FAC25 GitHub](https://github.com/fac25)
+[FAC26 GitHub](https://github.com/fac26)
 
 ---
 
-[FAC25 Discord](https://discord.com/channels/781095715681992734/976791489386541106)
+[FAC26 Discord](https://discord.com/channels/781095715681992734/1021770118285500436)
 
 ---
 
