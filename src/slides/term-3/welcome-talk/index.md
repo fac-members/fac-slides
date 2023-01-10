@@ -137,26 +137,6 @@ Neville (FAC21, Course Facilitator)
 
 <!-- {.primary} -->
 
-## Code of Conduct
-
----
-
-[Code of Conduct](https://www.foundersandcoders.com/code-of-conduct/)
-
----
-
-<!-- {.primary} -->
-
-## Cohort expectations
-
----
-
-Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
-
----
-
-<!-- {.primary} -->
-
 ## Pastoral Support
 
 ---
@@ -206,6 +186,26 @@ https://airtable.com/shr3X3AAoT8JJwyb7
 You can read more about safeguarding in the Coursebook:
 
 https://learn.foundersandcoders.com/course/handbook/safeguarding/
+
+---
+
+<!-- {.primary} -->
+
+## Code of Conduct
+
+---
+
+[Code of Conduct](https://www.foundersandcoders.com/code-of-conduct/)
+
+---
+
+<!-- {.primary} -->
+
+## Cohort expectations
+
+---
+
+Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
 
 ---
 
