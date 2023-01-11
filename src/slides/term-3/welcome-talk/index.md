@@ -82,32 +82,39 @@ and Congratulations! 🎉
 
 ## 2022
 
-- Ivan, Sara, John, and Neville join the team 🎉
+- Ivan, Sarah, John, and Neville join the team 🎉
 - FAC26 complete the Skills Bootcamp 🌱
 
 ---
 
 ## 2023
 
-- FAC26 complete begin the full-time programme! 🚀
+- FAC26 begin the full-time programme! 🚀
+- Niete joins the team 🎉
 
 ---
 
+<!-- {.primary} -->
+
 ## FAC Team
 
-Dan (FAC)
+---
 
-Anni (Director)
+Dan (Executive Director)
+
+Anni (Non-Executive Director)
 
 Sarah (Community Lead)
 
 John (Partnerships Lead)
 
-Ivan (FAC7, Coder In Residence)
+Ivan (FAC7, Developer In Residence)
 
 Gregor (FAC17, Apprenticeships Lead)
 
 Neville (FAC21, Course Facilitator)
+
+Niete (FAC26, Course Facilitator)
 
 ---
 
