@@ -82,39 +82,32 @@ and Congratulations! 🎉
 
 ## 2022
 
-- Ivan, Sarah, John, and Neville join the team 🎉
+- Ivan, Sara, John, and Neville join the team 🎉
 - FAC26 complete the Skills Bootcamp 🌱
 
 ---
 
 ## 2023
 
-- FAC26 begin the full-time programme! 🚀
-- Niete joins the team 🎉
+- FAC26 complete begin the full-time programme! 🚀
 
 ---
-
-<!-- {.primary} -->
 
 ## FAC Team
 
----
+Dan (FAC)
 
-Dan (Executive Director)
-
-Anni (Non-Executive Director)
+Anni (Director)
 
 Sarah (Community Lead)
 
 John (Partnerships Lead)
 
-Ivan (FAC7, Developer In Residence)
+Ivan (FAC7, Coder In Residence)
 
 Gregor (FAC17, Apprenticeships Lead)
 
 Neville (FAC21, Course Facilitator)
-
-Niete (FAC26, Course Facilitator)
 
 ---
 
@@ -144,7 +137,9 @@ Niete (FAC26, Course Facilitator)
 
 <!-- {.primary} -->
 
-## Pastoral Support
+## Questions
+
+<!-- ## Pastoral Support
 
 ---
 
@@ -153,11 +148,11 @@ Niete (FAC26, Course Facilitator)
 - We're here to support you
 - We are not trained in and cannot provide mental health support
 
----
+--- -->
 
 <!-- {.primary} -->
 
-## Safeguarding
+<!-- ## Safeguarding
 
 ---
 
@@ -194,28 +189,28 @@ You can read more about safeguarding in the Coursebook:
 
 https://learn.foundersandcoders.com/course/handbook/safeguarding/
 
----
+--- -->
 
 <!-- {.primary} -->
-
+<!--
 ## Code of Conduct
 
 ---
 
 [Code of Conduct](https://www.foundersandcoders.com/code-of-conduct/)
 
----
+--- -->
 
 <!-- {.primary} -->
 
-## Cohort expectations
+<!-- ## Cohort expectations
 
 ---
 
 Alongside the official code of conduct, we'd like you to think about what you expect from one another throughout the course. How can you each contribute to a supportive and welcoming learning environment? What do you expect from one another?
 
----
+--- -->
 
 <!-- {.primary} -->
 
-## Break!
+<!-- ## Break! -->
