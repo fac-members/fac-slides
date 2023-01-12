@@ -88,8 +88,6 @@ This program could dynamically create a unique response for each request.
 
 They could be written in any language, but usually C or Perl.
 
-Mostly used to process form submissions at first.
-
 ---
 
 The request flow would be something like this:
@@ -107,18 +105,6 @@ It sends a different response based on the input provided.
 ---
 
 Dynamic servers opened up a huge wave of innovation on the web.
-
-You can see `/cgi-bin/` in the URLs of early e-commerce sites like eBay.
-
----
-
-However CGI scripts were just a slightly nicer way for users to run command-line programs on your computer.
-
----
-
-This had performance and security implications, since each script was a fully-fledged program.
-
-They took time to start up for each request, and had access to the underlying computer system.
 
 ---
 
@@ -146,7 +132,7 @@ The program starts once and keeps running.
 
 Most modern languages have built-in ways to listen for HTTP requests.
 
-E.g. PHP, Java, C# (.NET), Ruby, and eventually Node (JS)
+e.g. PHP, Java, C# (.NET), Ruby, and eventually Node (JS)
 
 ---
 
@@ -181,14 +167,6 @@ They wanted to do more than program web browsers.
 
 ---
 
-> any application that can be written in JavaScript,
->
-> will eventually be written in JavaScript
->
-> <cite>- [Atwood's Law](https://blog.codinghorror.com/the-principle-of-least-power/)</cite>
-
----
-
 In 2009 Ryan Dahl created Node.js.
 
 He ripped the JS engine out of Chrome so devs could run it separately.
@@ -208,22 +186,25 @@ Web servers, CLI programs, native apps, even operating systems.
 It's important to understand the difference between browser and server.
 
 ---
+### Browser
 
-### Web browsers
+A web browser executes untrusted code sent over the internet
 
----
+so they have strong limits on what they can do (called the "sandbox")
 
-A web browser executes untrusted code sent over the internet.
-
-This means it has to be a very secure environment.
-
----
-
-Browsers have strong limits on what they can do (called the "sandbox")
-
-E.g. they can't just read files on your Desktop.
+e.g. they can't just read files on your Desktop
 
 ---
+### Server
+
+A server is "just a computer".
+
+It can run any code the computer can run
+
+You can use any language you like to program an HTTP server
+
+---
+### Browser
 
 As a web dev you have no control over the browser environment.
 
@@ -232,26 +213,7 @@ As a web dev you have no control over the browser environment.
 - they can block specific parts of the page (like ads)
 
 ---
-
-_Your_ code is running on _their_ computer
-
----
-
-### Web servers
-
----
-
-A server is "just a computer".
-
-It can run any code the computer can run.
-
----
-
-Unlike a browser (which is limited to JS),
-
-you can use any language you like to program an HTTP server.
-
----
+### Server
 
 You have full control over your server.
 
@@ -261,15 +223,15 @@ It can do almost anything you tell it to do.
 
 ---
 
+### Browser
+
+_Your_ code is running on _their_ computer
+### Server
+
 _Your_ code is running on _your_ computer
 
 ---
-
-### Important differences
-
----
-
-Here are some important practical differences
+### Practical differences
 
 ---
 
@@ -340,13 +302,13 @@ Node is made up of roughly two parts:
 
 The JS language is the syntax and general-purpose features.
 
-E.g. arithmetic, variables, functions, for loops, promises.
+e.g. arithmetic, variables, functions, for loops, promises.
 
 ---
 
 Browsers also implement _Web APIs_ to provide useful features.
 
-E.g. `document.querySelector`, `window.location`, `element.clientWidth`.
+e.g. `document.querySelector`, `window.location`, `element.clientWidth`.
 
 These don't make sense in a general purpose language.
 
