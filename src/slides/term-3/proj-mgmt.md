@@ -14,19 +14,52 @@ title: Intro to managing software projects
 
 ---
 
-## Glossary
+## Agile software development
 
 ---
-
-### Agile software development
 
 The iterative approach to software development
 
 ---
 
+Distinct from more linear approaches, such as Waterfall project management, with sequential phases - each of which only begin when the previous one has been completed
+
+---
+
+Encompasses a number of approaches to Software Development are rooted in the [Agile Manifesto](https://agilemanifesto.org/)
+
+---
+
+The agile manifesto was written in 2001 by a group of 17 software developers who had met to discuss the future of software development
+
+---
+
+**Individuals and interactions** over processes and tools
+
+**Working software** over comprehensive documentation
+
+**Customer collaboration** over contract negotiation
+
+**Responding to change** over following a plan
+
+That is, while there is value in the items on
+the right, we value the items on the left more.
+
+---
+
+Read more:
+
+https://www.atlassian.com/agile/manifesto
+
+---
+
+## Glossary
+
+---
+
 ### Scrum(TM)
 
-A widely-used and agile software development method, that introduces the following terms
+A widely-used and agile software development method, that uses the following terms
 
 ---
 
@@ -58,13 +91,7 @@ So that..."_
 
 ### Backlog
 
-All uncompleted user stories
-
----
-
-### Sprint retrospective
-
-Stop, go, continue
+Includes all uncompleted user stories
 
 ---
 
@@ -77,20 +104,26 @@ which you are going to use to track your project
 
 ### Kanban columns
 
-- `backlog`
-- `doing`
-- `done`
+- `To-do`
+- `In Progress`
+- `Done`
 
 ---
 
-### RECAP
+### Sprint retrospective
+
+Stop, go, continue
+
+---
+
+### Glossary Recap
 
 - Scrum(TM)
 - Sprint
 - User story
 - Backlog
-- Sprint retrospective
 - Project board (_Kanban_)
+- Sprint retrospective
 
 ---
 
@@ -98,9 +131,9 @@ which you are going to use to track your project
 
 ---
 
-### 1. User Experience
+### 1. Facilitation (Scrum Facilitator)
 
-Championing the user stories to ensure that your product meets the users' needs.
+Ensuring a smooth process and good communication.
 
 ---
 
@@ -116,9 +149,9 @@ Clear variable names, simple and concise code, adequate test coverage.
 
 ---
 
-### 4. Facilitation (Scrum Facilitator)
+### 4. User Experience
 
-Ensuring a smooth process and good communication.
+Championing the user stories to ensure that your product meets the users' needs.
 
 ---
 
@@ -128,10 +161,16 @@ Take each role once, over the next six weeks
 
 ---
 
-1. User Experience
+On Wednesdays, you'll have time for role circles
+
+This is a chance for cross-team collaboration grouped around your roles
+
+---
+
+1. Facilitation
 2. Deployment
 3. Quality
-4. Facilitation
+4. User Experience
 
 ---
 
@@ -186,59 +225,7 @@ When you swap, punctuate the switch with a stand-up
 
 ---
 
-On Thursdays, you'll have time for role circles
-
-This is a chance for cross-team collaboration grouped around your roles
-
----
-
-## The Agile Manifesto
-
----
-
-A number of approaches to Software Development are rooted in the [Agile Manifesto](https://agilemanifesto.org/)
-
----
-
-The agile manifesto was written in 2001 by a group of 17 software developers who had met to discuss the future of software development
-
----
-
-**Individuals and interactions** over processes and tools
-
-**Working software** over comprehensive documentation
-
-**Customer collaboration** over contract negotiation
-
-**Responding to change** over following a plan
-
-That is, while there is value in the items on
-the right, we value the items on the left more.
-
----
-
-Read more:
-
-https://www.atlassian.com/agile/manifesto
-
----
-
-### Do companies follow this process?
-
----
-
-Not always...
-
----
-
-A FAC alumn, and experienced software developer, told of the approach their former employer took to software development. Something we might call...
-
----
-
-_Shovelling 💩 onto the development team_
-
----
-
+<!--
 ## Extreme Programming
 
 another agile approach to software development
@@ -255,11 +242,21 @@ http://www.extremeprogramming.org/
 
 ---
 
+-->
+
 ## Final thoughts
 
 ---
 
 There are many different approaches to developing software, and most companies won't rigidly follow one in particular
+
+---
+
+A FAC alumn, and experienced software developer, told of the approach their former employer took to software development. Something we might call...
+
+---
+
+_Shovelling 💩 onto the development team_
 
 ---
 
