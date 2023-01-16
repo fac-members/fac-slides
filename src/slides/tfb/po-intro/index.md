@@ -24,15 +24,21 @@ Our developers learn about the software development lifecycle by exploring real 
 
 ---
 
+Each workshop is held in our Classroom space at Space4
+
+Workshops are from 14:00 - 15:30
+
+---
+
 ### Product Management training
 
-| Date        | Module                  |
-| ----------- | ----------------------- |
-| 27 Sept     | Pitch your product idea |
-| 4 or 11 Oct | Discovery workshop      |
-| W/C 17 Oct  | Conduct user research   |
-| 25 Oct      | User research analysis  |
-| 1 Nov       | Product Management      |
+| Date            | Module                  |
+| --------------- | ----------------------- |
+| 23 Jan          | Pitch your product idea |
+| 30 Jan or 6 Feb | Discovery workshop      |
+| W/C 13 Feb      | Conduct user research   |
+| 20 Feb          | User research analysis  |
+| 27 Feb          | Product Management      |
 
 ---
 
@@ -40,9 +46,17 @@ Our developers will choose Product Owners to work with on the _Design, Test and 
 
 ---
 
+By completing all the steps in the PM training, you'll be eligible for selection
+
+---
+
+We'll let you know if you've been selected by Friday 10 March.
+
+---
+
 ### Design, Test and Build
 
-_(21 Nov -> Dec 9)_
+_(14 March -> 6 April)_
 
 - One design sprint
 - Two build sprints
@@ -51,7 +65,7 @@ _(21 Nov -> Dec 9)_
 
 ---
 
-At the end of the programme, you'll present your product at the Tech for Better showcase.
+At the end of the programme, you'll present your product at the Tech for Better showcase
 
 ---
 
@@ -69,7 +83,7 @@ You’ll be working together throughout the programme and will benefit from coll
 
 Let us know:
 
-- Who you are and the organisation you represent
+- Who you are and your product goal
 - What do you want to get from Tech for Better?
 - What can you give to others on the programme?
 
@@ -93,7 +107,11 @@ Focus on the Problem Statement:
 
 Co-ordinate users to research with:
 
-- Anytime between W/C 17 Oct
+- Anytime in W/C 13 Oct
 - You'll have written questions already
 - 1 - 1 sessions, qualitative interviews
-- Aim for 4 - 12 user interviews
+- Aim for 6+ interviews
+
+---
+
+I'll send out an invite to our Discord server
