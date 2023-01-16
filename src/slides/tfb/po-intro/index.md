@@ -107,7 +107,7 @@ Focus on the Problem Statement:
 
 Co-ordinate users to research with:
 
-- Anytime in W/C 13 Oct
+- Anytime in W/C 13 Feb
 - You'll have written questions already
 - 1 - 1 sessions, qualitative interviews
 - Aim for 6+ interviews
