@@ -26,13 +26,13 @@ You'll learn about the software development lifecycle by exploring real product 
 
 ### Product Management training
 
-| Date       | Module                 |
-| ---------- | ---------------------- |
-| 27 Sept    | Product pitches        |
-| 4 & 11 Oct | Discovery workshop     |
-| W/C 17 Oct | Conduct user research  |
-| 25 Oct     | User research analysis |
-| 1 Nov      | Sprint planning        |
+| Date             | Module                  |
+| ---------------- | ----------------------- |
+| 23 Jan           | Pitch your product idea |
+| 30 Jan and 6 Feb | Discovery workshop      |
+| W/C 13 Feb       | Conduct user research   |
+| 20 Feb           | User research analysis  |
+| 27 Feb           | Product Management      |
 
 ---
 
@@ -42,7 +42,7 @@ You choose Product Owners to work with on the _Design, Test and Build_ programme
 
 ### Design, Test and Build
 
-_(21 Nov -> Dec 9)_
+_(14 March -> 6 April)_
 
 - One design sprint
 - Two build sprints
@@ -51,7 +51,7 @@ _(21 Nov -> Dec 9)_
 
 ---
 
-At the end of the programme, you'll present your product at the Tech for Better showcase.
+At the end of the programme, you'll present your product at the Tech for Better showcase
 
 ---
 
@@ -77,6 +77,10 @@ At the end of the programme, you'll present your product at the Tech for Better 
 - What does the PO hope to achieve in the long term?
 - What would the PO do after the MVP has been built?
 - What are their expectations?
+
+---
+
+[Handbook](https://learn.foundersandcoders.com/course/handbook/tech-for-better/)
 
 ---
 
