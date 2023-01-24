@@ -34,7 +34,27 @@ Week 3 - Project Gallery
 
 ---
 
-...
+CSS Flexbox allows one directional flexible and responsive layouts
+
+---
+
+This means you can add layouts to pages, in rows or columns
+
+---
+
+```css
+display: flex;
+flex-direction: column;
+justify-content: centre;
+```
+
+---
+
+For getting started, check out:
+
+- [freeCodeCamp](https://www.freecodecamp.org/learn/2022/responsive-web-design/learn-css-flexbox-by-building-a-photo-gallery/)
+- [Flexbox Froggy](https://flexboxfroggy.com/)
+- [Flexbox Zombies](https://mastery.games/flexboxzombies/)
 
 ---
 
@@ -42,4 +62,79 @@ Week 3 - Project Gallery
 
 ---
 
-...
+---
+
+A function can be defined as a set of instructions to complete a task
+
+---
+
+A function may take some input and return an output
+
+---
+
+### The benefits of using functions
+
+---
+
+**Define reusable code**
+
+Declare code which can be used more than once with different inputs to give different outputs
+
+---
+
+**Modularise our code**
+
+Break our code up into sections based on its purpose
+
+---
+
+**Help us understand our code**
+
+Having a well named function is easier to understand than a list of statements
+
+A meaningful name makes it easier to understand what the function does. A function that adds two numbers can be “addTwoNumbers”
+
+---
+
+### Using functions
+
+---
+
+**Step one:** Declare the function
+
+---
+
+```js
+function myNamedFunction(parameterOne, parameterTwo) {
+  // What my function does
+}
+```
+
+---
+
+```js
+function multiplyTwoNumbers(numOne, numTwo) {
+  return numOne * numTwo;
+}
+```
+
+---
+
+**Step two:** Call the function
+
+---
+
+```js
+myNamedFunction(argumentOne, argumentTwo);
+```
+
+---
+
+```js
+function multiplyTwoNumbers(numOne, numTwo) {
+  return numOne * numTwo;
+}
+
+multiplyTwoNumbers(1, 4);
+// returns 5
+```
