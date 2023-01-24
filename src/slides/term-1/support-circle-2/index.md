@@ -150,6 +150,38 @@ For example, when a user clicks a button then the background colour changes
 
 ---
 
-...
+A README is a piece of documentation which describes a project
 
 ---
+
+The file can be included in a codebase, and GitHub will display the document on the repository page
+
+---
+
+READMEs are usually Markdown files
+
+Markdown is a documentation language that uses syntax to define display of text
+
+---
+
+For example
+
+---
+
+# A heading
+
+```md
+# A heading
+```
+
+---
+
+**bold text**
+
+```
+**bold text**
+```
+
+---
+
+For each project, add a README to describe what you built and how you built it
