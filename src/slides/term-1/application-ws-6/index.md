@@ -1,5 +1,6 @@
 ---
 title: Applicant Workshop Six
+private: true
 ---
 
 # Application workshops
