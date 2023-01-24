@@ -43,7 +43,7 @@ If you're brand new to coding, check out [freeCodeCamp](https://www.freecodecamp
 
 ---
 
-Join Discord and come to our weekly meetups
+Join Discord and come to our Tuesday meetups
 
 ---
 
@@ -142,4 +142,34 @@ What can you change about your code to make it more efficient? How might you sol
 
 ---
 
-...
+Pair programming is working together on a problem or feature
+
+---
+
+When pairing, it’s important for both developers to feel comfortable and able to contribute
+
+---
+
+There are a thousand ways to work together. Figure out what works for you, and communicate with your partner about that to find a balance that works for you both.
+
+---
+
+### Methods
+
+---
+
+**Ping pong**
+Take turns writing code. Maybe, one developer writes a line of code and then the other writes a line of code. In a longer session, you might extend this, perhaps by writing for 10 minutes and then swapping who is ‘driving’.
+
+---
+
+**Backseat Driver**
+One developer types and follows the instructions of the other developer. The person ‘driving’ is the one typing and should follow exactly the instructions of the ‘navigator’. If the navigator is lost and would like a suggestion, they can ask the driver where they think to go next or suggest somewhere to look online for a solution.
+
+---
+
+It’s important to switch roles, don’t let one person do all the coding. You get more out of it by getting stuck in.
+
+---
+
+Switch regularly and give the other person time to read through the code base before they take over. Being able to talk though someone else’s code is a vital skill to have and will enhance your understanding.

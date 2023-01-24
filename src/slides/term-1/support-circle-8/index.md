@@ -45,3 +45,21 @@ Tell the interview panel about yourself, and why you want to be a developer
 ---
 
 ## Demonstration of learning
+
+---
+
+Answer questions about what you've learnt throughout the application process
+
+---
+
+## Code read
+
+---
+
+Look at some code which you haven't written and talk about what it does
+
+---
+
+You'll be given a GitHub repository and some instructions
+
+---
