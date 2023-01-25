@@ -53,7 +53,32 @@ let movieData = {
 
 ---
 
-...
+Arrays can be used to store multiple pieces of information in one variable
+
+---
+
+We create an array, like other variables we declare and use square brackets to define them
+
+---
+
+```js
+let myArray = [1, 2, 3, 4];
+```
+
+---
+
+We access values by using indexes
+
+In other words, where in the array we're looking for the information
+
+---
+
+```js
+let myArray = [1, 2, 3, 4];
+const myNum = myArray[0];
+console.log(myNum);
+// logs 1
+```
 
 ---
 
@@ -61,7 +86,61 @@ let movieData = {
 
 ---
 
-...
+Objects allow us to store multiple pieces of information by using keys and values
+
+---
+
+We use curly brackets to define an object
+
+---
+
+```js
+let myObject = {
+  name: "Fido",
+  type: "dog",
+  age: 4,
+};
+```
+
+---
+
+We reference keys to get values using square brackets or dot notation
+
+---
+
+```js
+let myObject = {
+  name: "Fido",
+  type: "dog",
+  age: 4,
+};
+
+console.log(myObject[name]);
+console.log(myObject.age);
+```
+
+## Properties
+
+---
+
+Properties can be:
+
+1. Another name for object keys
+1. In-built information about data structures in JavaScript
+
+---
+
+An example of an in-built property is `length`
+
+---
+
+e.g.
+
+```js
+let myArray = [1, 2, 3, 4];
+let arrLength = myArray.length;
+// what's the length here?
+```
 
 ---
 
@@ -69,7 +148,7 @@ let movieData = {
 
 ---
 
-...
+..
 
 ---
 
