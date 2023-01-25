@@ -122,7 +122,7 @@ let result = num1 + num2;
 
 ---
 
-DOM stands for the Document Object Model
+DOM stands for Document Object Model
 
 ---
 

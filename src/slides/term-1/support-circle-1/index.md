@@ -29,13 +29,13 @@ Week 1 - Introduction
 
 ---
 
-Make an account here:
+Start by creating an account
 
 https://account.foundersandcoders.com/
 
 ---
 
-Complete the projects in your own time
+Work through the projects in your own time
 
 ---
 
@@ -43,11 +43,11 @@ If you're brand new to coding, check out [freeCodeCamp](https://www.freecodecamp
 
 ---
 
-Join Discord and come to our Tuesday meetups
+FAC have a Discord community and coding meetups every Tuesday evening
 
 ---
 
-Complete and submit the application form, before the deadline
+Before the application deadline, you'll need to complete the application form
 
 https://account.foundersandcoders.com/apply/application
 
@@ -71,7 +71,9 @@ https://account.foundersandcoders.com/apply/application
 ---
 
 We're gonna focus on one project each week
+
 _BUT_
+
 we don't expect you to be completing one project per week
 
 ---
@@ -118,7 +120,7 @@ Use JavaScript Comments
 
 ### 3. Write JavaScript
 
-Following your pseudocode, code each step. Remember to `console.log()` to check your code along the way.
+Following your pseudocode, code each step. Remember to `console.log()` to check your code along the way
 
 ---
 
@@ -140,7 +142,9 @@ When pairing, it’s important for both developers to feel comfortable and able 
 
 ---
 
-There are a thousand ways to work together. Figure out what works for you, and communicate with your partner about that to find a balance that works for you both.
+There are a thousand ways to work together
+
+Figure out what works for you, and communicate with your partner about that to find a balance
 
 ---
 
@@ -148,21 +152,23 @@ There are a thousand ways to work together. Figure out what works for you, and c
 
 ---
 
-**Ping pong**
+**Ping pong** 🏓
+
 Take turns writing code. Maybe, one developer writes a line of code and then the other writes a line of code. In a longer session, you might extend this, perhaps by writing for 10 minutes and then swapping who is ‘driving’.
 
 ---
 
-**Backseat Driver**
+**Backseat Driver** 🚕
+
 One developer types and follows the instructions of the other developer. The person ‘driving’ is the one typing and should follow exactly the instructions of the ‘navigator’. If the navigator is lost and would like a suggestion, they can ask the driver where they think to go next or suggest somewhere to look online for a solution.
 
 ---
 
-It’s important to switch roles, don’t let one person do all the coding. You get more out of it by getting stuck in.
+It’s important to switch roles, and for both people to be coding. You get more out of it by getting stuck in.
 
 ---
 
-Switch regularly and give the other person time to read through the code base before they take over. Being able to talk though someone else’s code is a vital skill to have and will enhance your understanding.
+Switch regularly and give the other person time to read through the code base before they take over. Being able to talk though someone else’s code is a skill and will enhance your understanding.
 
 ---
 
@@ -172,11 +178,11 @@ Switch regularly and give the other person time to read through the code base be
 
 ---
 
-### Git
+## Git
 
 ---
 
-Git is a program for saving the history of changes you make to your files
+Git saves the history of changes you make to a project
 
 ---
 
@@ -184,7 +190,7 @@ Saves "snapshots" of your project with descriptive messages
 
 ---
 
-This means you can go back to previous versions of your projects
+This means you can go back to previous versions of a project
 
 ---
 
@@ -196,7 +202,9 @@ Git can be used from VS Code, or via the terminal
 
 ---
 
-GitHub is a website for storing your code
+GitHub is a website for storing code
+
+---
 
 Storing code on GitHub means you can download it to any device and you have a back-up
 
