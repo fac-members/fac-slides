@@ -53,8 +53,6 @@ https://account.foundersandcoders.com/apply/application
 
 ---
 
----
-
 ## This programme
 
 ---
@@ -72,31 +70,23 @@ https://account.foundersandcoders.com/apply/application
 
 ---
 
-We're gonna focus on one of the projects each week
+We're gonna focus on one project each week
+_BUT_
+we don't expect you to be completing one project per week
 
 ---
 
-You might not be moving onto that project each week
+Take each one as an introduction, and move at your own pace
 
----
-
-Take each one as an introduction
-
----
-
-And move at your own pace
-
----
-
-Learning to code is a marathon
-not a sprint
+Learning to code is a marathon not a sprint
+💛
 
 ---
 
 ### Upcoming application deadlines
 
 - Sunday 26 March for the cohort starting 11 May
-- Sunday 26 July for the cohort starting 14 September
+- Sunday 23 July for the cohort starting 14 September
 
 ---
 
@@ -173,3 +163,49 @@ It’s important to switch roles, don’t let one person do all the coding. You 
 ---
 
 Switch regularly and give the other person time to read through the code base before they take over. Being able to talk though someone else’s code is a vital skill to have and will enhance your understanding.
+
+---
+
+<!-- {.secondary inverted} -->
+
+## Intro to Git & GitHub
+
+---
+
+### Git
+
+---
+
+Git is a program for saving the history of changes you make to your files
+
+---
+
+Saves "snapshots" of your project with descriptive messages
+
+---
+
+This means you can go back to previous versions of your projects
+
+---
+
+Git can be used from VS Code, or via the terminal
+
+---
+
+## GitHub
+
+---
+
+GitHub is a website for storing your code
+
+Storing code on GitHub means you can download it to any device and you have a back-up
+
+---
+
+If you're just getting started, check out [this workshop](https://learn.foundersandcoders.com/workshops/git-intro/)
+
+---
+
+<!-- {primary} -->
+
+## Coding Time!

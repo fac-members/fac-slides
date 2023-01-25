@@ -142,7 +142,7 @@ For example, when a user clicks a button then the background colour changes
 
 ---
 
-![Analogy shows a house: HTML is the building, CSS is the decoration, JavaScript is the functionality](../term-1/pre-app-support/house-analogy.jpg)
+![Analogy shows a house: HTML is the building, CSS is the decoration, JavaScript is the functionality](../term-1/support-circle-2/house-analogy.jpg)
 
 ---
 
@@ -185,3 +185,7 @@ For example
 ---
 
 For each project, add a README to describe what you built and how you built it
+
+We love to see readmes as they tell us more about how and what you learnt!
+
+📝🤔
