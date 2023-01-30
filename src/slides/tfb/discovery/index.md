@@ -12,7 +12,7 @@ Discovery is about exploring the problem space, and understanding the user group
 
 ---
 
-Before conducting research with users, we examine what we know about the problem(s) they're facing
+Before conducting research, we examine what we know about our users and the problem they're facing
 
 ---
 
@@ -32,7 +32,7 @@ Product teams reduce waste through early and consistent user validation
 
 ---
 
-Each iteration of a Product idea is validated through research or testing with the user group. The idea is refined at every stage
+Each iteration of a product idea is refined and validated through research or testing with the user group
 
 ---
 
@@ -46,11 +46,15 @@ Each iteration of a Product idea is validated through research or testing with t
 
 ---
 
-We'll first communicate and solidify our Problem Statement
+In small groups, you'll work through exercises on Miro
 
 ---
 
-Individually, you'll write up user personas. Then as a group, you'll introduce each other to your assumption of who a user might be.
+You'll refine and solidify the Problem Statement
+
+---
+
+You'll create a user persona which describes a typical service user
 
 ---
 
