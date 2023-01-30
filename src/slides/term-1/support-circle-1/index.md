@@ -98,38 +98,6 @@ We're here to give you support, and we encourage you to work together
 
 <!-- {.primary} -->
 
-## Approaching problems
-
-A four-step approach
-
----
-
-### 1. Understand the problem
-
-What is it asking you to do? What are the inputs and outputs?
-
----
-
-### 2. Write Pseudocode
-
-Break the problem down into key steps
-
-Use JavaScript Comments
-
----
-
-### 3. Write JavaScript
-
-Following your pseudocode, code each step. Remember to `console.log()` to check your code along the way
-
----
-
-### 4. Refactor
-
-What can you change about your code to make it more efficient? How might you solve the problem differently?
-
----
-
 ## Pair Programming
 
 ---
@@ -169,6 +137,52 @@ It’s important to switch roles, and for both people to be coding. You get more
 ---
 
 Switch regularly and give the other person time to read through the code base before they take over. Being able to talk though someone else’s code is a skill and will enhance your understanding.
+
+---
+
+<!-- {.primary} -->
+
+## Approaching problems
+
+A four-step approach
+
+---
+
+### 1. Understand the problem
+
+What is it asking you to do? What are the inputs and outputs?
+
+---
+
+### 2. Write Pseudocode
+
+Break the problem down into key steps
+
+Use JavaScript Comments
+
+---
+
+```js
+// Loop through array
+
+// Find length of string
+
+// If length > highest, store in var
+
+// Return highest length
+```
+
+---
+
+### 3. Write JavaScript
+
+Following your pseudocode, code each step. Remember to `console.log()` to check your code along the way
+
+---
+
+### 4. Refactor
+
+What can you change about your code to make it more efficient? How might you solve the problem differently?
 
 ---
 
