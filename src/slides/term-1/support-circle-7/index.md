@@ -58,3 +58,7 @@ You can build any game you like, this is an opportunity to put into practice eve
 **Debug** until it works
 
 ---
+
+<!-- {.primary} -->
+
+## Coding Time!

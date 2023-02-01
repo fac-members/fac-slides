@@ -34,7 +34,7 @@ Week 3 - Project Gallery
 
 ---
 
-CSS Flexbox allows one directional flexible and responsive layouts
+CSS Flexbox allows one-directional responsive layouts
 
 ---
 
@@ -59,8 +59,6 @@ For getting started, check out:
 ---
 
 ## Functions
-
----
 
 ---
 
@@ -105,7 +103,7 @@ A meaningful name makes it easier to understand what the function does. A functi
 ---
 
 ```js
-function myNamedFunction(parameterOne, parameterTwo) {
+function myFunction(parameterOne, parameterTwo) {
   // What my function does
 }
 ```
@@ -125,7 +123,7 @@ function multiplyTwoNumbers(numOne, numTwo) {
 ---
 
 ```js
-myNamedFunction(argumentOne, argumentTwo);
+myFunction(argumentOne, argumentTwo);
 ```
 
 ---
@@ -138,3 +136,9 @@ function multiplyTwoNumbers(numOne, numTwo) {
 multiplyTwoNumbers(1, 4);
 // returns 5
 ```
+
+---
+
+<!-- {.primary} -->
+
+## Coding time!

@@ -16,6 +16,18 @@ Week 4 - Movie Data 1
 
 ---
 
+The Movie Data project is the most challenging one you'll face!
+
+---
+
+We're spending two weeks looking at it
+
+We want you to know, it's okay if you're finding it difficult
+
+🍿💛
+
+---
+
 ### Requirements
 
 ---
@@ -57,7 +69,7 @@ Arrays can be used to store multiple pieces of information in one variable
 
 ---
 
-We create an array, like other variables we declare and use square brackets to define them
+We use square brackets to define an array when we declare it
 
 ---
 
@@ -119,6 +131,8 @@ console.log(myObject[name]);
 console.log(myObject.age);
 ```
 
+---
+
 ## Properties
 
 ---
@@ -148,10 +162,42 @@ let arrLength = myArray.length;
 
 ---
 
-..
+Methods are like functions, but are pre-defined in JavaScript
+
+---
+
+It's likely you've used some methods already!
+
+---
+
+```js
+document.querySelector("p");
+str.toLowerCase();
+arr.sort();
+```
+
+---
+
+W3 Schools and MDN have great resources on different JavaScript methods
 
 ---
 
 ## Conditional statements
 
 ---
+
+Conditional statements let us define what should happen, if a condition is true
+
+---
+
+```js
+if (num > 6) {
+  array.push(num);
+}
+```
+
+---
+
+<!-- {.primary} -->
+
+## Coding time!

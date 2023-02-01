@@ -52,6 +52,10 @@ Answer questions about what you've learnt throughout the application process
 
 ---
 
+You'll be asked questions related to [this set of learnings](https://foundersandcoders.notion.site/Application-Learnings-46255bc6c5584c7ba44cf5f125133ad4)
+
+---
+
 ## Code read
 
 ---
@@ -61,5 +65,13 @@ Look at some code which you haven't written and talk about what it does
 ---
 
 You'll be given a GitHub repository and some instructions
+
+---
+
+# FAC's full interview guidance
+
+---
+
+[A sneak peak](https://foundersandcoders.notion.site/Interviewing-at-Founders-and-Coders-31dfee868c3348b2b6bc80d55adb7724) 🕵️
 
 ---

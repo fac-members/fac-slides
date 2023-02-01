@@ -20,7 +20,11 @@ So far, you'll have been using Git in VS Code
 
 ---
 
-The terminal is that wee black box that makes you look like a hacker
+The terminal is that wee black box on your computer that makes you look like a hacker
+
+---
+
+It's sometimes known as the command line
 
 ---
 
@@ -32,6 +36,26 @@ We can install Git in the terminal
 
 ---
 
-This allows us to stage and commit files to GitHub
+This allows us to stage, commit and push files to GitHub directly
 
 ---
+
+### Why bother?
+
+---
+
+It's pretty common as a developer to use the command line to create files, and for Git
+
+---
+
+Once you're familiar with it, it's faster than using Finder or Windows Explorer to create and move files
+
+---
+
+[Using Git in the Terminal Workshop](https://learn.foundersandcoders.com/workshops/git-terminal/)
+
+---
+
+<!-- {.primary} -->
+
+## Coding time!
