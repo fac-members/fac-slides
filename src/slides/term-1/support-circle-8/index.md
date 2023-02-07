@@ -68,10 +68,59 @@ You'll be given a GitHub repository and some instructions
 
 ---
 
-# FAC's full interview guidance
+## FAC's full interview guidance
 
 ---
 
 [A sneak peak](https://foundersandcoders.notion.site/Interviewing-at-Founders-and-Coders-31dfee868c3348b2b6bc80d55adb7724) 🕵️
 
 ---
+
+<!-- {.primary} -->
+
+### Time for a demonstration
+
+_from our mentors_
+
+---
+
+<!-- {.primary} -->
+
+### Your turn
+
+_to practise_
+
+---
+
+In groups of 3, take turns playing the role of:
+
+- Interviewer
+- Interviewee
+- Observer
+
+---
+
+**Interviewer**
+asks questions to the interviewee and assesses their responses
+
+---
+
+**Interviewee**
+answers questions from the interviewer and aims to meet interview criteria
+
+---
+
+**Observer**
+remains silent during the interview and gives feedback at the end of the round
+
+the observer will keep time and move the interview on to the next stage
+
+---
+
+Take 8 minutes for each stage of the interview:
+
+- Conversational
+- Demonstration of Learning
+- Code read
+
+This leaves 6 minutes for the observer to give feedback to the interviewee and interviewer

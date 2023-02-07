@@ -20,7 +20,7 @@ So far, you'll have been using Git in VS Code
 
 ---
 
-The terminal is that wee black box on your computer that makes you look like a hacker
+The terminal is that black box on your computer that makes you look like a hacker
 
 ---
 
@@ -44,7 +44,7 @@ This allows us to stage, commit and push files to GitHub directly
 
 ---
 
-It's pretty common as a developer to use the command line to create files, and for Git
+It's pretty common as a developer to use the command line rather than a GUI (Graphical User Interface)
 
 ---
 
