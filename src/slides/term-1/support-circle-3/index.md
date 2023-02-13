@@ -34,7 +34,7 @@ Week 3 - Project Gallery
 
 ---
 
-CSS Flexbox allows one directional flexible and responsive layouts
+CSS Flexbox allows one-directional responsive layouts
 
 ---
 
@@ -62,8 +62,6 @@ For getting started, check out:
 
 ---
 
----
-
 A function can be defined as a set of instructions to complete a task
 
 ---
@@ -82,9 +80,25 @@ Declare code which can be used more than once with different inputs to give diff
 
 ---
 
+```js
+function addTwoNumbers(num1, num2) {
+  return num1 + num2;
+}
+```
+
+---
+
 **Modularise our code**
 
 Break our code up into sections based on its purpose
+
+---
+
+For example, if we were building a shopping cart, we might have separate functions to:
+
+- Add an item to the basket when it's clicked in HTML
+- A function which adds up the prices of the items in the basket and returns the cost
+- A function to clear the basket when the user completes a purchase
 
 ---
 
@@ -92,7 +106,9 @@ Break our code up into sections based on its purpose
 
 Having a well named function is easier to understand than a list of statements
 
-A meaningful name makes it easier to understand what the function does. A function that adds two numbers can be “addTwoNumbers”
+---
+
+For example, a meaningful name makes it easier to understand what the function does. A function that adds two numbers can be “addTwoNumbers”
 
 ---
 
@@ -105,7 +121,7 @@ A meaningful name makes it easier to understand what the function does. A functi
 ---
 
 ```js
-function myNamedFunction(parameterOne, parameterTwo) {
+function myFunction(parameterOne, parameterTwo) {
   // What my function does
 }
 ```
@@ -125,7 +141,7 @@ function multiplyTwoNumbers(numOne, numTwo) {
 ---
 
 ```js
-myNamedFunction(argumentOne, argumentTwo);
+myFunction(argumentOne, argumentTwo);
 ```
 
 ---
@@ -138,3 +154,9 @@ function multiplyTwoNumbers(numOne, numTwo) {
 multiplyTwoNumbers(1, 4);
 // returns 5
 ```
+
+---
+
+<!-- {.primary} -->
+
+## Coding time!

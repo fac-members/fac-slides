@@ -27,7 +27,7 @@ Week 6 - Application Website
 
 - Tells us about who you are
 - Tells us about why you are applying for the programme
-  Shows your progress through the application projects (e.g. links to your deployed projects)
+- Shows your progress through the application projects (e.g. links to your deployed projects)
 
 ---
 
@@ -53,3 +53,42 @@ To demonstrate your learning your site must have at least one example of each of
 ## Examples
 
 ---
+
+### Konstantina (FAC26)
+
+[Website](https://konstantinakatmada.github.io/website/)
+
+### Mark (FAC27)
+
+[Website](https://hanleymark.github.io/application-website/)
+
+---
+
+### Simon (FAC27)
+
+[Website](https://simonryrie.github.io/website/)
+
+### Cameo (FAC27)
+
+[Website](https://cameochoquer.github.io/fac_proj_5-6/)
+
+---
+
+From our mentors??
+🥺💛
+
+---
+
+This is your time to shine, and show off what you've learnt so far!
+
+---
+
+Be creative and create something unique to you
+
+✨🌻
+
+---
+
+<!-- {.primary} -->
+
+## Coding Time!

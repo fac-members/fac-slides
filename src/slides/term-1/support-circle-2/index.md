@@ -189,3 +189,7 @@ For each project, add a README to describe what you built and how you built it
 We love to see readmes as they tell us more about how and what you learnt!
 
 📝🤔
+
+---
+
+## Coding time!
