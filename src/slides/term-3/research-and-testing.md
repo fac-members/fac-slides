@@ -30,9 +30,9 @@ This prototype will be tested with users in Usability Testing sessions
 
 ---
 
-User Research will be completed in a 2-hour window on Monday
+User Research will be completed in a 90-min window on Monday
 
-Usability Testing will be completed in a 2-hour window on Wednesday
+Usability Testing will be completed in a 90-min window on Wednesday
 
 ---
 
@@ -40,9 +40,9 @@ You'll conduct 20-30 minute research / testing sessions in pairs
 
 ---
 
-Each person in the team should arrange for 2 users to be available during each of the 2-hour windows.
+Each person in the team should arrange for 1-2 users to be available during each of the 90-min windows.
 
-The team will complete research with 8 people and complete testing with 8 people
+The team will complete research with 6 people and complete testing with 6 people
 
 ---
 
@@ -52,11 +52,10 @@ Schedule your users for time slots, in 30 minute intervals
 
 | Time  | Pair 1 | Pair 2 |
 | ----- | ------ | ------ |
-| 14:00 | User 1 | User 2 |
-| 14:30 | User 3 | User 4 |
-| 15:00 | User 5 | User 6 |
-| 15:30 | User 7 | User 8 |
-| 16:00 | End    | End    |
+| 14:15 | User 1 | User 2 |
+| 14:45 | User 3 | User 4 |
+| 15:15 | User 5 | User 6 |
+| 15:45 | End    | End    |
 
 ---
 
@@ -82,13 +81,13 @@ I’m looking for volunteers for a 20-30 minute User Research session for my fin
 
 We’ll have a list of questions ahead of time to facilitate discussion. No technical experience is required, this session is intended to gather feedback on our app idea and challenge our assumptions!
 
-Would you be available anytime between 2pm and 4pm on Monday?
+Would you be available anytime between 2:15pm and 3:45pm on Monday?
 
 ---
 
 I’m looking for volunteers for a 20-30 minute Usability Testing session for my final project at Founders and Coders.
 
-Would you be available anytime between 2pm and 4pm on Wednesday?
+Would you be available anytime between 2:15pm and 3:45pm on Wednesday?
 
 You do not have to have technical experience, we’re looking to understand how people use our Product, from your point of view.
 
