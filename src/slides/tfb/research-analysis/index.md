@@ -12,7 +12,7 @@ Today, we'll explore what Product Owners found out during their user research
 
 ---
 
-We'll split into breakout rooms. Each will have 2 Product Owners, and 3 Developers.
+We'll split into groups. Each will have 2 Product Owners, and 3 Developers.
 
 ---
 
@@ -21,7 +21,6 @@ You'll complete these steps:
 1. Write notes on what came out of the research
 1. Theme those notes
 1. Write insight statements to summarise the notes
-1. Think about any further research to conduct
 
 ---
 
@@ -45,15 +44,7 @@ Summarise the themes with statements analysing their content
 
 ---
 
-## Further research
-
-Now you've completed some research, is there anything more you still need to find out?
-
-What else might you ask your user group?
-
----
-
-Product Owners should take turns completing each step before moving to the next one
+Product Owners will take turns completing each step before moving to the next one
 
 ---
 
