@@ -2,6 +2,8 @@
 title: Discovery
 ---
 
+## In-house Project
+
 # Discovery Workshop
 
 ---
@@ -50,7 +52,7 @@ Ask open-ended questions and welcome critical feedback
 
 ---
 
-Avoid confirming biases, instead validated or refute them
+Avoid confirming biases, instead create environment for users to validate or refute them
 
 ---
 
