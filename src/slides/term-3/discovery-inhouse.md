@@ -57,3 +57,11 @@ Avoid confirming biases, instead create environment for users to validate or ref
 ---
 
 Give the user space to speak and give feedback
+
+---
+
+Conduct each interview in pairs. One person take the lead and ask questions, the other take notes - swap roles between interviews
+
+---
+
+Once the interviews are all conducted you will synthesise the feedback in your project groups during the Analysis workshop
