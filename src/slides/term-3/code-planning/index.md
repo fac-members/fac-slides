@@ -77,19 +77,13 @@ Keeping everything on-device can be simpler.
 
 ---
 
-Will your app run on the client or server (or both)?
-
-This is going to depend on data requirements.
-
----
-
 Do you need a full database?
 
 Could you just use localStorage?
 
 ---
 
-Do you need a relational database?
+Do you need a SQL relational database?
 
 Would a simple object store be easier?
 
@@ -101,15 +95,21 @@ Could you use a simple hosted service like Airtable?
 
 ---
 
-Can you build "frontend first" to validate the MVP?
+Do you need Authentication?
 
-Setting up a database can suck up a lot of time at the start.
+Will you use a back-end-as-service (like Firebase or Supabase)
 
 ---
 
-Do you need help managing styling?
+Will your app run on the client or server (or both)?
 
-Or will your app be simple enough to get away with vanilla CSS?
+This is going to depend on data requirements.
+
+---
+
+Can you build "frontend first" to validate the MVP?
+
+Setting up a database can suck up a lot of time at the start.
 
 ---
 
@@ -119,9 +119,19 @@ Or is your app mostly static?
 
 ---
 
-Will you use a platform-as-a-service (like Heroku or Vercel)?
+Will you use a platform-as-a-service (like Fly.io or Vercel)?
 
 Or do you need more control over the hosting environment?
+
+---
+
+Will you use any tools or frameworks for Testing?
+
+---
+
+Do you need help managing styling?
+
+Or will your app be simple enough to get away with vanilla CSS?
 
 ---
 
