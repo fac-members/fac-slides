@@ -43,15 +43,17 @@ what you've been working on
 
 ---
 
-On Thursday at 16:15, we've scheduled Product Handover
+On Thursday at 15:00, we've scheduled Product Handover
 
 ---
 
-This is the end of your involvement with the Product. Nothing more is added to the backlog, anything unfinished will remain so.
+This is the end of your involvement with the Product. Nothing more is added to the backlog, anything unfinished will remain so
 
 ---
 
-Take your Product Owner on a demo of the Product, show them how to use it and what features you've included
+Take your Product Owner on a demo of the Product, show them how to use it and what features you've included.
+
+Guidance can be found [here](https://learn.foundersandcoders.com/course/handbook/project-docs/product-handover/) and is linked in the schedule
 
 ---
 
@@ -77,6 +79,8 @@ Your final presentations are of the whole Product, not just the final week.
 
 Talk through designing, prototyping, testing, and building.
 
+Guidance can be found [here](https://learn.foundersandcoders.com/course/handbook/project-docs/tfb-presentations/) and is linked in the schedule
+
 ---
 
 Presentations might include:
@@ -93,11 +97,11 @@ Presentations might include:
 
 ---
 
-Your Product Owner will present with you.
+Your Product Owner will present with you
 
 ---
 
-Each person on the team (incl. PO) should aim to speak for 2.5 minutes. Each presentation should be less than 15 minutes, and we'll have up to 5 minutes for questions.
+Each person on the team (incl. PO) should aim to speak for 2.5 minutes. Each presentation should be approx 15 minutes, and we'll have up to 5 minutes for questions.
 
 ---
 
@@ -121,11 +125,11 @@ They should contribute slides to the presentation, or copy for slides
 
 ---
 
-You'll have time on Thursday afternoon, and on Friday afternoon to practise your presentations
+You'll have time on Wednesday afternoon, and on Thursday afternoon to practise your presentations
 
 ---
 
-Gregor is always happy to give feedback and help guide you
+The core FAC team is always happy to give feedback and help guide you
 
 🌻 💛
 
@@ -145,7 +149,7 @@ Decide who will present each slide beforehand, you can even write a script if yo
 
 ---
 
-On Friday morning, we'll have one final SGC at Space4
+On Thursday morning, we'll have one final SGC at Space4
 
 ---
 
