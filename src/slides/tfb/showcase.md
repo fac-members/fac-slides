@@ -16,7 +16,7 @@ Tech for Better is immersive training in Product Management for social entrepren
 
 ---
 
-Through hands on experience of working with developers, Product Owners learn about:
+Through hands-0on experience working with developers, Product Owners learn about:
 
 - User Research
 - Scoping a Product
