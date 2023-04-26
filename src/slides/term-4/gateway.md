@@ -8,6 +8,8 @@ title: EPA Gateway
 
 EPA Gateway can be entered anytime after 12 months from starting the apprenticeship
 
+You can enter from 10 May onwards
+
 ---
 
 The _Gateway_ is a point of access to EPA
@@ -18,7 +20,7 @@ Essentially, you submit your documentation and BCS will approve or deny your req
 
 ---
 
-I will submit, on your behalf:
+We will submit, on your behalf:
 
 - English and Maths qualifications
 - A complete portfolio of evidence (and mapping)
@@ -37,7 +39,7 @@ Once we've submitted all documentation at Gateway, we wait 10 working days for a
 
 If a request is denied, we'll get a clear steer on why it has been.
 
-We have submitted documentation for most of the previous cohort and have a good sense of what is required.
+We haven't yet had someone denied entry through Gateway
 
 ---
 
@@ -70,7 +72,7 @@ We need to submit your [mapping document](https://docs.google.com/spreadsheets/d
 
 ---
 
-**Your portfolio is not directly assessed**.
+**Your portfolio is not directly assessed**
 
 It is used as the basis for the "professional discussion", which determines 50% of your grade.
 
@@ -96,14 +98,7 @@ Only what you say will be assessed, you must articulate something for it to coun
 
 ---
 
-We haven't yet had anyone sit the assessment. This is likely to change in the next couple of months.
-
----
-
-We'll hold some prep sessions for EPA:
-
-- Portfolio peer groups (Tuesday 17 Jan)
-- Mock assessments (Tuesday 31 Jan and Tuesday 7 Feb)
+We'll hold mock assessment sessions in May to get ready for Gateway
 
 ---
 
