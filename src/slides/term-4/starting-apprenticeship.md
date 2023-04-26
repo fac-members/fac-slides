@@ -35,7 +35,7 @@ The project is built and documented after passing through EPA Gateway
 
 EPA Gateway can be entered 12 months from _starting_ the apprenticeship
 
-For your cohort, this is from 20 September 2023
+For your cohort, this is from 11 January 2024
 
 ---
 
@@ -75,7 +75,7 @@ Your evidence relates to a set of knowledge, skills and behaviours set out in th
 
 There's no template for documentation
 
-Use Google Doc's, and I can give feedback
+Use Google Doc's, and we can give feedback
 
 ---
 
@@ -120,48 +120,23 @@ Spend 30 - 60 minutes each week working on your portfolio
 
 ---
 
-We'll support you throughout with _portfolio peer groups_
+## Continued Learning
 
 ---
 
-## Portfolio peer groups
+From 15:00 – 18:00 each Tuesday, we'll facilitate additional learning time
 
 ---
 
-Once every 4 weeks, you'll meet with other apprentices for dedicated portfolio time
+This can be online or in person at Space4
 
 ---
 
-2 hours, before or after lunch
+Work on your portfolio and get feedback from others
 
 ---
 
-Work on your portfolio and get feedback from your peers and me
-
----
-
-### Groups
-
-| A    | B       | C        | D        |
-| ---- | ------- | -------- | -------- |
-| Joe  | Patrick | Paz      | Lisa     |
-| Abby | Yassien | Karwan   | Sumithra |
-|      |         | Abdullah | Manoela  |
-
----
-
-### Schedule
-
-| A && B      | C && D      |
-| ----------- | ----------- |
-| 17 January  | 24 January  |
-| 14 February | 21 February |
-| 7 March     | 14 March    |
-| 4 April     | 11 April    |
-
----
-
-**The portfolio is the most important thing to focus on during the first 6 months in employment**
+Work on side projects and learn new technologies
 
 ---
 
@@ -198,6 +173,10 @@ Appendices do not count towards the word count
 ---
 
 The report, and the questioning will inform your grade
+
+---
+
+The project can be begun after submitting the portfolio, and only after 12 months on the apprenticeship
 
 ---
 
