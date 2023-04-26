@@ -120,7 +120,7 @@ Spend 30 - 60 minutes each week working on your portfolio
 
 ---
 
-## Tuesday Continued Learning
+## Continued Learning
 
 ---
 
