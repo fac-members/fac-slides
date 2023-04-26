@@ -82,14 +82,15 @@ and Congratulations! 🎉
 
 ## 2022
 
-- Ivan, Sara, John, and Neville join the team 🎉
-- FAC26 complete the Skills Bootcamp 🌱
+- Ivan, Sarah, John, and Neville join the team 🎉
 
 ---
 
 ## 2023
 
-- FAC26 complete begin the full-time programme! 🚀
+- FAC27 complete the Skills Bootcamp 🌱
+- Niete completes the course as part of FAC26 and joins as CF
+- FAC27 begin the full-time programme! 🚀
 
 ---
 
@@ -101,19 +102,17 @@ Anni (Director)
 
 Sarah (Community Lead)
 
-John (Partnerships Lead)
-
 Ivan (FAC7, Coder In Residence)
 
 Gregor (FAC17, Apprenticeships Lead)
 
-Neville (FAC21, Course Facilitator)
+Niete (FAC26, Course Facilitator)
 
 ---
 
-### Your FAC25 mentors 💖
+### Your FAC26 mentors 💖
 
-![FAC25 modelling FAC t-shirts](../term-3/welcome-talk/fac25.jpg)
+![FAC26 not modelling FAC t-shirts](../term-3/welcome-talk/FAC26.jpg)
 
 ---
 
@@ -127,11 +126,11 @@ Neville (FAC21, Course Facilitator)
 
 ---
 
-[FAC26 GitHub](https://github.com/fac26)
+[FAC27 GitHub](https://github.com/fac27)
 
 ---
 
-[FAC26 Discord](https://discord.com/channels/781095715681992734/1021770118285500436)
+[FAC27 Discord](https://discord.com/channels/781095715681992734/1063078529635467374)
 
 ---
 
