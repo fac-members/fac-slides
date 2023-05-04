@@ -5,6 +5,7 @@
   "private": true,
   "scripts": {
     "dev": "ELEVENTY_ENV=development eleventy --serve --quiet",
+    "dev-win": "SET ELEVENTY_ENV=development & eleventy --serve & --quiet",
     "build": "ELEVENTY_ENV=production eleventy"
   },
   "keywords": [],
