@@ -16,7 +16,7 @@ and Congratulations! 🎉
 
 <!-- {.secondary} -->
 
-### History of FAC...
+<!-- ### History of FAC...
 
 ---
 
@@ -89,9 +89,7 @@ and Congratulations! 🎉
 
 ## 2023
 
-- FAC26 complete begin the full-time programme! 🚀
-
----
+- FAC26 complete begin the full-time programme! 🚀 -->
 
 ## FAC Team
 
