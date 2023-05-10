@@ -16,7 +16,7 @@ and Congratulations! 🎉
 
 <!-- {.secondary} -->
 
-### History of FAC...
+<!-- ### History of FAC...
 
 ---
 
@@ -90,9 +90,7 @@ and Congratulations! 🎉
 
 - FAC27 complete the Skills Bootcamp 🌱
 - Niete completes the course as part of FAC26 and joins as CF
-- FAC27 begin the full-time programme! 🚀
-
----
+- FAC27 begin the full-time programme! 🚀 -->
 
 ## FAC Team
 
