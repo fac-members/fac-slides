@@ -12,11 +12,11 @@
   "author": "Oliver Phillips <hello@oliverjam.es> (https://oliverjam.es)",
   "license": "MIT",
   "devDependencies": {
-    "@11ty/eleventy": "^2.0.1",
+    "@11ty/eleventy": "^1.0.0-beta.2",
     "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
     "clean-css": "^4.2.3",
     "eslint": "^7.9.0",
-    "markdown-it": "^13.0.1",
+    "markdown-it": "^11.0.1",
     "markdown-it-decorate": "^1.2.2",
     "markdown-it-revealjs": "^1.0.0",
     "markdown-it-table-captions": "^1.0.4",
