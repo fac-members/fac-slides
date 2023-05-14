@@ -26,13 +26,15 @@ You'll learn about the software development lifecycle by exploring real product 
 
 ### Product Management training
 
-| Date             | Module                  |
-| ---------------- | ----------------------- |
-| 23 Jan           | Pitch your product idea |
-| 30 Jan and 6 Feb | Discovery workshop      |
-| W/C 13 Feb       | Conduct user research   |
-| 20 Feb           | User research analysis  |
-| 27 Feb           | Product Management      |
+| Date       | Module                 |
+| ---------- | ---------------------- |
+| 22 May     | Product Pitches        |
+| 30 May     | Discovery workshop     |
+| W/C 5 June | Conduct user research  |
+| 12 June    | User research analysis |
+| 19 June    | Product Management     |
+| 26 June    | Selection Week         |
+| 10 July    | Analysis Workshop      |
 
 ---
 
@@ -42,7 +44,7 @@ You choose Product Owners to work with on the _Design, Test and Build_ programme
 
 ### Design, Test and Build
 
-_(14 March -> 6 April)_
+_(17 July -> 3 August)_
 
 - One design sprint
 - Two build sprints
