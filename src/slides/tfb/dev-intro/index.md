@@ -87,3 +87,48 @@ At the end of the programme, you'll present your product at the Tech for Better 
 ---
 
 ## Questions?
+
+---
+
+## Lightning introductions
+
+---
+
+You’ll be working together throughout the programme and will benefit from collaborating.
+
+---
+
+Let us know:
+
+- Who you are and your product goal
+- What do you want to get from Tech for Better?
+- What can you give to others on the programme?
+
+---
+
+## What's next?
+
+---
+
+You'll pitch your Product to our developers in our next workshops. We'd like you each to come up with a brief pitch
+
+---
+
+Focus on the Problem Statement:
+
+- Who are your user group?
+- What do they need?
+- How will responding to the need benefit them?
+
+---
+
+Co-ordinate users to research with:
+
+- Anytime in W/C 5 June
+- You'll have written questions already
+- 1 - 1 sessions, qualitative interviews
+- Aim for 6+ interviews
+
+---
+
+I'll send out an invite to our Discord server
