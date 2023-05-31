@@ -1,5 +1,6 @@
 ---
 title: End-point assessment
+private: true
 ---
 
 # End-point assessment

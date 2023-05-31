@@ -1,8 +1,12 @@
 ---
-title: Portfolio
+title: EPA
 ---
 
-# Portfolio
+# EPA
+
+---
+
+EPA stands for end-point assessment and is the final step in completing the apprenticeship
 
 ---
 
@@ -13,19 +17,23 @@ To complete your apprenticeship, you'll be assessed in two ways:
 
 ---
 
-When you enter EPA gateway you must submit:
+To begin EPA, you must get through the _Gateway_
 
-- a 500-word project summary
-- your portfolio
+Gateway is a 2-week period where BCS will approve or deny your project start
+
+---
+
+To enter gateway you must submit:
+
+- a final project proposal
+- your completed portfolio
 - Evidence of Level 2 English
 - Evidence of Level 2 Maths
 - Sign-off from your employer
 
-So you should only start assessment when these are ready.
-
 ---
 
-Founders and Coders will support you throughout the lead up and during EPA gateway
+Founders and Coders will support you throughout the lead up and during EPA
 
 ---
 
@@ -35,12 +43,7 @@ We'll also hold 'tripartite reviews' between you, your employer, and us
 
 ---
 
-| Date     | Event                              |
-| -------- | ---------------------------------- |
-| 12/01/23 | Start apprenticeship               |
-| 11/04/23 | Join employer FT                   |
-| 13/01/24 | Earliest date to enter EPA gateway |
-| 13/07/24 | Latest completion date             |
+You can enter Gateway 12 months after starting the apprenticeship
 
 ---
 
@@ -54,23 +57,16 @@ It is used as the basis for the "professional discussion", which determines 50% 
 
 ---
 
-The portfolio 'typically' contains 10 pieces of evidence
+It's a collection of documentation which relates to a set of knowledge, skills and behaviours
 
 ---
 
-Each should relate to at least one of the required knowledge, skills or behaviours. And most likely, they'll cover many.
+There is no specific structure for the documentation, but you should cover:
 
----
-
-There is no specific structure for the documentation
-
----
-
-Evidence is documentation which:
-
-1. Summarises each of your work projects
-1. Describes all the ways **you** met the required knowledge, skills & behaviours
-1. Includes code samples, screenshots of plans/issues/stories, architecture diagrams etc
+- **What** you did
+- **How** you did it
+- **With whom**
+- and **why** you did it that way
 
 ---
 
@@ -78,18 +74,7 @@ Build your portfolio throughout your apprenticeship
 
 ---
 
-Focus on **WHAT** you did and **HOW** you did it.
-
-**WHO** is important too - but your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, us, our**.
-
-Also consider, **WHY** you are making the technical decisions that you are.
-
----
-
-- WHAT
-- HOW
-- WITH WHOM
-- WHY
+Your assessor will be looking to hear what **you** did, so always use **I, me, my** and avoid **we, us, our**.
 
 ---
 
@@ -107,19 +92,15 @@ Put together a separate document with a table which maps your evidence to the KS
 
 ---
 
-https://fac-standard.netlify.app/
+https://fac-standard.netlify.app/portfolio/ksbs/
 
 ---
 
-https://www.instituteforapprenticeships.org/media/5222/st0116_software-developer_l4_ap-for-publication_270521.pdf
+## Weekly presentations
 
 ---
 
-## Each week
-
----
-
-Each week think about the KSBs you've met
+During the course, we'll ask you to reflect on the KSBs you've met that week
 
 ---
 
@@ -181,4 +162,45 @@ export default function PlayGamePage() {
 
 ---
 
+## Final Project
+
+---
+
+You'll work on the final project after being approved for Gateway
+
+---
+
+The project is something real and useful to your employer
+
+---
+
+Completed within 9 weeks
+
+---
+
+You will submit a 4,500 word report as part of the assessment
+
+---
+
+The report, and the subsequent questioning will form your grade
+
+---
+
+## Assessments
+
+---
+
+The assessments themselves (portfolio and project) are both 60 minute sessions
+
+You'll be asked a minimum of 12 questions related to the work you've done
+
+---
+
 ## Questions
+
+---
+
+### Resources
+
+- [FAC Standard](https://fac-standard.netlify.app/)
+- [Apprenticeship standard](https://www.instituteforapprenticeships.org/media/5222/st0116_software-developer_l4_ap-for-publication_270521.pdf)
