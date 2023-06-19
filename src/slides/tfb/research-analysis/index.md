@@ -12,21 +12,21 @@ Today, we'll explore what Product Owners found out during their user research
 
 ---
 
-We'll split into groups. Each will have 2 Product Owners, and 3 Developers.
+We'll split into groups. Each will have a Product Owner and either 2 or 3 developers
 
 ---
 
 You'll complete these steps:
 
 1. Write notes on what came out of the research
-1. Theme those notes
-1. Write insight statements to summarise the notes
+2. Theme those notes
+3. Write insight statements to summarise the notes
 
 ---
 
 ## Writing notes
 
-Both Product Owners summarise their research and add notes to Miro under specific headings
+The Product Owners summarise their research and add notes to Miro under specific headings
 
 ---
 
@@ -44,8 +44,4 @@ Summarise the themes with statements analysing their content
 
 ---
 
-Product Owners will take turns completing each step before moving to the next one
-
----
-
-You'll have 10 minutes for each PO to complete each step
+You'll have 20 minutes with your PO to complete each step
