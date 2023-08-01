@@ -16,7 +16,7 @@ Tech for Better is immersive training in Product Management for social entrepren
 
 ---
 
-Through hands-0on experience working with developers, Product Owners learn about:
+Through hands-on experience, Product Owners learn about:
 
 - User Research
 - Scoping a Product
@@ -30,12 +30,10 @@ Our apprentice developers build MVPs as part of the Design, Test and Build progr
 
 These products are what we'll see showcased this evening
 
-### 🎥 🍿
-
 ---
 
-1. **Hope**
-1. **Habit Monster**
+1. **Rent Shield** 🏠
+1. **Cinesphere** 📽️
 
 ---
 
