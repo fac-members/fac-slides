@@ -6,6 +6,14 @@ title: Issue management and estimation
 
 ---
 
+Good development is dependent on effective project management.
+
+This session will introduce new concepts essencial to your project planning and management.
+
+---
+
+For more detail, you can visit these resources: 
+
 1. [A quick intro to managing software projects](../proj-mgmt)
 2. [Issue management and estimation](../estimation)
 3. [The Design Sprint](../design-sprint)
@@ -14,32 +22,36 @@ title: Issue management and estimation
 
 ---
 
-Estimation is probably the most valuable skill you need to cultivate as a developer
+## Are you familiar with all of the following concepts?
 
 ---
-
-## Glossary
-
----
-
-### RECAP
 
 - Scrum(TM)
 - Sprint
 - User story
 - Backlog
 - Sprint retrospective
-- Project board (_Kanban_)
+- Project board (*Kanban*)
 
 ---
 
-### Some new definitions
+### Here are some new concepts
+
+(can you guess at their meaning?)
 
 ---
 
-### Estimate
+## Estimate
 
-The difficulty level of a user story, expressed in _points_
+---
+### Meaning:
+*The difficulty level of an issue*
+
+---
+
+Estimates are expressed in points and represented with an **E** 
+
+For example: **E2** meaning, an issue estimated to be a 2 in difficulty
 
 ---
 
