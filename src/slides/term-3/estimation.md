@@ -55,7 +55,23 @@ For example: **E2** meaning, an issue estimated to be a 2 in difficulty
 
 ---
 
-Some people prefer to estimate in _absolute_ time, expressed in hours or half-days, but in order to develop a good sense of _relative_ time, for now we will estimate our user stories in _points_
+Some teams may estimate in _absolute_ time (where an issue will be measured in hours or days of work), others will estimate in _relative_ time (where an issue will measured realtive to others)
+
+In order to help understand relative estimations, we are recommending the following system:
+
+---
+
+![Fibonnaci Sequence](https://tecadmin.net/wp-content/uploads/2023/06/Fibonacci-sequence.png)
+
+---
+
+Using the Fibonacci Sequence stresses the notion that difficulty grows exponencially
+
+- **E1** is a good first issue
+- **E2** is an easy issue
+- **E3** is a medium issue
+- **E5** is a hard issue
+- **E8** is a complex issue
 
 ---
 
