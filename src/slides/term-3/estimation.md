@@ -70,31 +70,64 @@ Using the Fibonacci Sequence stresses the notion that difficulty grows exponenci
 - **E1** is a good first issue
 - **E2** is an easy issue
 - **E3** is a medium issue
-- **E5** is a hard issue
+- **E5** is a harder issue
 - **E8** is a complex issue
 
 ---
 
-### Velocity
-
-The team capacity, expressed in points, for each sprint
+## Actuals
 
 ---
 
-### Sprint backlog
-
-A prioritised backlog of all the user stories that we estimate will be completed in the next sprint
-
----
-
-### Sprint planning
-
-Where the team reprioritises user stories and agrees the next sprint backlog
+### Meaning:
+*The **actual** difficulty level of an issue*
 
 ---
 
-### Sprint review
+Actuals are calculated when an issue is closed and follow the same system as Estimates.
 
+If an Issue was estimated as an E1 but turned out to be much more complex than expected it will have an Actual of A3 (for example)
+
+---
+
+## Velocity
+
+---
+
+### Meaning:
+*The team's performance, expressed by the calculated difference between Estimates and Actuals*
+
+---
+
+The issue from our earlier example would have a Velocity of V-2
+
+(E1 - A3 = V-2)
+
+---
+
+## Sprint backlog
+
+---
+
+### Meaning:
+A prioritised list of all the user stories that we estimate will be completed in the next sprint
+
+---
+
+## Sprint planning
+
+---
+
+### Meaning:
+Where the team prioritises user stories and agrees the next Sprint Backlog
+
+---
+
+## Sprint Review
+
+---
+
+### Meaning:
 Where the team compares their estimate with the actual number of user stories completed
 
 ---
@@ -104,66 +137,37 @@ Where the team compares their estimate with the actual number of user stories co
 - Estimate
 - Velocity
 - Sprint backlog
-- Sprint planning and review
+- Sprint Planning and Review
 
 ---
 
 ### Note
 
-Not all issues raised in the project board contribute to the velocity estimate. **Chores**, **bugs**, **refactors** and **spikes** are all zero-point issues, even though they will (seriously) impact your sprint velocity.
+Not all issues in the project board contribute to the Velocity of your team.  
+**Chores**, **Bugs**, **Refactors** and **Spikes** are all considered *zero-point issues* and do not get assigned an Estimate.
+
+Why do you think that is?
 
 ---
 
-### Zero-point issues
-
-- **Chore** Something that needs to be done, not directly related to a user story
-- **Bug** Something broken
-- **Refactor** An improvement to the code that delivers no change to user experience
-- **Spike** Researching a potential solution to a problem by creating the simplest possible implementation of it
+- **Chore** - is something that needs to be done but is not directly related to a user story
+- **Bug** - is a problem in the code that needs to be fixed for the product to be viable
+- **Refactor** - is an improvement to the code's maintainability that does not deliver any change to user experience
+- **Spike** - is a researching task in order to find a potential solution to a problem
 
 ---
 
 ## Labels
 
-To be added to issues
+All these new concepts can be (and usually are) used as labels in your *Project Board*
 
 ---
 
-### Estimates
-
-- `E1` - Short story, estimated
-- `E2` - Story, estimated
-- `E3` - Long story, estimated
-- `E5` - Extra long story, estimated
+It looks something like this [example](https://github.com/orgs/fac27/projects/36/views/1?filterQuery=)
 
 ---
 
-### Actuals
-
-- `A1` - Short story, actual
-- `A2` - Story, actual
-- `A3` - Long story, actual
-- `A5` - Extra long story, actual
-
----
-
-### Issue types
-
-- `story`
-- `chore`
-- `bug`
-- `refactor`
-- `spike`
-
----
-
-## After code review
-
-Label all issues correctly before addressing them
-
----
-
-## Presentations
+### In  your presentations going forward
 
 - Report on estimated vs actual velocity
 - And don't forget to show your project board
@@ -172,4 +176,4 @@ Label all issues correctly before addressing them
 
 ### Final thought: Hofstadter's Law
 
-It always takes longer than you expect, even when you take into account Hofstadter's Law.
+*Everything always takes longer than you expect*, even when you take into account Hofstadter's Law.
