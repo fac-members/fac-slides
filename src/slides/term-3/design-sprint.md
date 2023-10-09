@@ -16,9 +16,9 @@ title: The Design Sprint
 
 ## Agile software development
 
-Agile product development is an iterative process rooted in user feedback and adaptation.
+... is an iterative process rooted in user feedback.
 
-Product teams reduce waste through early user validation.
+To reduce waste, Product Teams create feedback loops early on and challenge assumptions.
 
 ---
 
