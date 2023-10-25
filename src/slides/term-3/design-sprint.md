@@ -16,19 +16,19 @@ title: The Design Sprint
 
 ## Agile software development
 
-Agile product development is an iterative process rooted in user feedback and adaptation.
+... is an iterative process rooted in user feedback.
 
-Product teams reduce waste through early user validation.
-
----
-
-We focus on the user first and throughout.
-
-Services we design must respond to the needs of the user.
+To reduce waste, Product Teams create feedback loops early on and challenge assumptions.
 
 ---
 
-Before we embark on building a product, we spend time conjuring ideas through a _Design Sprint_.
+The user is in focus from start to finish.
+
+The design of any product must respond to the needs of the user.
+
+---
+
+The _Design Sprint_ is the stage when a Product Team defines the MVP before the Build Sprint starts.
 
 ---
 
@@ -36,11 +36,16 @@ The Design Sprint as most people understand it comes from the [Google Ventures D
 
 ---
 
-The Google Ventures team defines a design sprint as a 5-day process having 5 phases: _Understand, Diverge, Converge, Prototype, Test_.
+The Google Ventures team defines it as a 5-day process made up of 5 phases: 
+  - Understand
+  - Diverge
+  - Converge
+  - Prototype
+  - Test
 
 ---
 
-We are not going to follow the Google Ventures sprint precisely. We are going to treat the design sprint as a 4-step process.
+We are **not** going to follow the Google Ventures sprint precisely. Here is an overview of the reviewed process:
 
 ---
 
@@ -60,7 +65,7 @@ We are not going to follow the Google Ventures sprint precisely. We are going to
 - Whose needs are you trying to address?
 - What is your understanding of their needs?
 - Are your assumptions about their needs correct?
-- What are your measures of success in meeting those needs?
+- How will you measure your success?
 
 ---
 
@@ -187,11 +192,9 @@ What do users think of the prototype?
 
 ---
 
-Be prepared to repeat the **Define**, **Prototype** and **Test** phases until you have a prototype that your users are happy with.
+In any project, the **Define**, **Prototype** and **Test** phases may need to be repeated several times over until you have a prototype users are happy with.
 
----
-
-(Although in our case, we are constrained by the course timetable, so we won't have time to redefine)
+In this case, we are constrained by the course timetable so we won't have time to redefine
 
 ---
 
